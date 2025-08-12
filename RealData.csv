@@ -1,0 +1,1066 @@
+courseCode,courseName,section,location,instructor,day,time
+CS2009,Design and Analysis of Algorithms,BCS-5C,E-1 CS (50), Anaum Hamid,monday,08:00-8:55
+SE2002,Software Design and Architecture,BCS-5C,E-1 CS (50), Engr. Abdul Rahman,monday,09:00-09:55
+MT3001,Graph Theory,BCS-5B,E-1 CS (50), Dr. Nazish Kanwal,monday,10:00-10:55
+CS2005,Database Systems,BCS-5C,E-1 CS (50),Dr. Anam Qureshi,monday,11:00-11:55
+CS2005,Database Systems,BCS-5A,E-1 CS (50), Atiya Jokhio,monday,12:00-12:55
+SE2002,Software Design and Architecture,BCS-5A,E-1 CS (50), Dr. Imran Ali Bhatti,monday,1:00-01:55
+CS2005,Database Systems,BCS-5B,E-1 CS (50), Atiya Jokhio,monday,02:00-02:55
+CS2009,Design and Analysis of Algorithms,BCS-5A,E-1 CS (50), Syed Faisal Ali,monday,03:00-03:55
+CS2005,Database Systems,BCS-5E,E-2 CS (50), Fizza Aqeel,monday,08:00-8:55
+CS2009,Design and Analysis of Algorithms,BCS-5H,E-2 CS (50),  Abu Zhuran,monday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BCS-5E,E-2 CS (50), Abu Zhuran,monday,10:00-10:55
+MT3001,Graph Theory,BCS-5E,E-2 CS (50), Urooj,monday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5B,E-2 CS (50), Mubashra Fayyaz,monday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5E,E-2 CS (50), Dr. Nausheen Shoaib,monday,1:00-01:55
+SE2002,Software Design and Architecture,BCS-5E,E-2 CS (50), Sobia Iftikhar,monday,02:00-02:55
+SE2002,Software Design and Architecture,BCS-5F,E-2 CS (50), Sobia Iftikhar,monday,03:00-03:55
+SE2002,Software Design and Architecture,BCS-5G,E-3 CS (50), Syeda Rubab Manzar,monday,09:00-09:55
+SE2002,Software Design and Architecture,BCS-5H,E-3 CS (50), Syeda Rubab Manzar,monday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BCS-5D,E-3 CS (50), Syed Faisal Ali,monday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5D,E-3 CS (50), Kashif,monday,1:00-01:55
+CS2009,Design and Analysis of Algorithms,BCS-5G,E-3 CS (50), Anaum Hamid,monday,02:00-02:55
+CS2009,Design and Analysis of Algorithms,BSE-5B,E-4 CS (50), Minhal Raza,monday,08:00-8:55
+CS2001,Data Structures,BCS-3F,E-4 CS (50), Dr. Jawwad Shamsi ,monday,09:00-09:55
+MT3001,Graph Theory,BCS-5G,E-4 CS (50), Urooj,monday,10:00-10:55
+MT3001,Graph Theory,BCS-5K,E-4 CS (50), Abdul Basit,monday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BCS-5F,E-4 CS (50), Dr. Nasir Uddin,monday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5F,E-4 CS (50), Mubashra Fayyaz,monday,1:00-01:55
+SS2012,Technical and Business Writing,BAI-5A,E-4 CS (50),Javeria Ali,monday,02:00-02:55
+CS2005,Database Systems,BCS-5J,E-5 CS (50), Javeria Farooq,monday,08:00-8:55
+CS2009,Design and Analysis of Algorithms,BCS-5J,E-5 CS (50), Dr. Fahad Sherwani,monday,09:00-09:55
+CS4055,System Concept and Design,BSE-5A,E-5 CS (50), Ali Fatmi,monday,10:00-10:55
+CS3006,Parallel and Distributed Computing,BCS-5J,E-5 CS (50), Dr. Nausheen Shoaib,monday,11:00-11:55
+MT3001,Graph Theory,BCS-5J,E-5 CS (50), Abdul Basit,monday,12:00-12:55
+SE2002,Software Design and Architecture,BCS-5J,E-5 CS (50), Engr. Abdul Rahman,monday,1:00-01:55
+AI4006,Knowledge and Knowledge Representation,BAI-5C,E-5 CS (50), Adil Sheraz,monday,02:00-02:55
+AI3002,Machine Learning,BAI-5A,E-5 CS (50), Dr. Maria Siddiqua,monday,03:00-03:55
+CS2009,Design and Analysis of Algorithms,BCS-5K,E-6 CS (50), Dr. Farrukh Salim Shaikh,monday,09:00-09:55
+CS2005,Database Systems,BCS-5K,E-6 CS (50),Zain Noreen,monday,10:00-10:55
+CY3001,Network and Protocol Security,BCY-5A,E-6 CS (50), Shoaib Raza,monday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BSE-5A,E-6 CS (50), Dr. Fahad Sherwani,monday,12:00-12:55
+CS1005,Discrete Structures,BCS-3E,E-6 CS (50),Shoaib Raza,monday,1:00-01:55
+CS1005,Discrete Structures,BAI-3A,E-6 CS (50),Shoaib Raza,monday,02:00-02:55
+AI3001,Principles of Artificial Intelligence,BAI-3A,E-6 CS (50),Omer Qureshi,monday,03:00-03:55
+CS2009,Design and Analysis of Algorithms,BSE-5A,R-11 CS (50), Dr. Fahad Sherwani,monday,08:00-8:55
+AI4006,Knowledge and Knowledge Representation,BAI-5A,R-11 CS (50), Dr. Muhammad Rafi,monday,09:00-09:55
+MT3001,Graph Theory,BCS-5H,R-11 CS (50), Moheez ur Rahim,monday,12:00-12:55
+SE4005,Software Quality Engineering,BSE-5A,R-11 CS (50), Syeda Rubab Manzar,monday,1:00-01:55
+CS2005,Database Systems,BCY-5A,R-11 CS (50),Abeer Gauher,monday,03:00-03:55
+CS2009,Design and Analysis of Algorithms,BCS-5B,R-12 CS (70), Dr. Muhammad Atif Tahir,monday,09:00-09:55
+CY4003,Digital Forensics,BCY-5B,R-12 CS (70), Dr. Shahbaz Siddiqui,monday,10:00-10:55
+MT3001,Graph Theory,BCS-5D,R-12 CS (70), Dr. Nazish Kanwal,monday,11:00-11:55
+CS2005,Database Systems,BCS-5G,R-12 CS (70), Dr. Zulfiqar Ali Memon,monday,12:00-12:55
+CS2009,Design and Analysis of Algorithms,BCY-5A,R-12 CS (70), Sandesh Kumar,monday,1:00-01:55
+CS2009,Design and Analysis of Algorithms,BAI-5B,R-12 CS (70), Minhal Raza,monday,02:00-02:55
+CS2005,Database Systems,BAI-5B,R-12 CS (70), Basit Ali,monday,03:00-03:55
+SE2002,Software Design and Architecture,BCS-5B,R-109 CS (50), Dr. Imran Ali Bhatti,monday,08:00-8:55
+CS2009,Design and Analysis of Algorithms,BCS-5L,R-109 CS (50), Dr. Nasir Uddin,monday,09:00-09:55
+MT3001,Graph Theory,BCS-5L,R-109 CS (50), Moheez ur Rahim,monday,10:00-10:55
+SE2002,Software Design and Architecture,BCS-5M,R-109 CS (50), Fizza Aqeel,monday,11:00-11:55
+SE2002,Software Design and Architecture,BCS-5L,R-109 CS (50),  Javeria Farooq,monday,12:00-12:55
+CS2005,Database Systems,BCS-5L,R-109 CS (50),Zain Noreen,monday,1:00-01:55
+CS3006,Parallel and Distributed Computing,BCS-5L,R-109 CS (50),  Syed Faisal Ali,monday,02:00-02:55
+CS2005,Database Systems,BCS-5M,A-1 EE (50), Basit Ali,monday,08:00-8:55
+NS1001,Applied Physics,BDS-1B,A-1 EE (50), Javid Qureshi,monday,09:00-09:55
+CS2005,Database Systems,BAI-5B,A-1 EE (50), Basit Ali,monday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BAI-5A,A-1 EE (50), Dr. Kamran,monday,11:00-11:55
+NS1001,Applied Physics,BDS-1A,A-1 EE (50), Javid Qureshi,monday,12:00-12:55
+CS2005,Database Systems,BAI-5A,A-2EE (50),Omer Qureshi,monday,08:00-8:55
+CS2005,Database Systems,BSE-5A,A-2EE (50), Alina Arshad,monday,09:00-09:55
+SE4005,Software Quality Engineering,BSE-5B,A-2EE (50), Alina Arshad,monday,10:00-10:55
+SS2012,Technical and Business Writing,BSE-5B,A-2EE (50),Khadija Shireen,monday,11:00-11:55
+SS2012,Technical and Business Writing,BAI-5B,A-2EE (50),Javeria Ali,monday,12:00-12:55
+AI4006,Knowledge and Knowledge Representation,BAI-5B,A-2EE (50), Adil Sheraz,monday,1:00-01:55
+AI3002,Machine Learning,BAI-5B,A-3 EE (50),Dr. Maria Siddiqua,monday,09:00-09:55
+CS2005,Database Systems,BAI-5C,A-3 EE (50),Omer Qureshi,monday,12:00-12:55
+CS2005,Database Systems,BCY-5A,A-5 EE (50),Abeer Gauher,monday,09:00-09:55
+SS1012,Functional English,BCY-1A,A-5 EE (50),Madiha Rehman,monday,11:00-11:55
+AI3002,Machine Learning,BAI-5A,A-5 EE (50), Dr. Maria Siddiqua,monday,12:00-12:55
+SS1012,Functional English,BDS-1B,A-6 EE (50),Aisha Khan,monday,11:00-11:55
+SS1012,Functional English,BAI-1A,A-6 EE (50),Aisha Khan,monday,1:00-01:55
+CS2009,Design and Analysis of Algorithms,BAI-5C,A-7 EE (50), Dr. Kamran,monday,08:00-8:55
+SS2012,Technical and Business Writing,BAI-5C,A-7 EE (50),Javeria Ali,monday,09:00-09:55
+SS1012,Functional English,BCS-1F,A-7 EE (50), Atifa Batool,monday,10:00-10:55
+EE2003,Computer Organization and Assembly Language,BCY-3B,A-7 EE (50),Kariz Kamal,monday,03:00-03:55
+EE2003,Computer Organization and Assembly Language,BCS-3A,A-8 EE (53),Aashir Mahboob,monday,08:00-8:55
+CS2001,Data Structures,BCS-3A,A-8 EE (53),Ayesha Ali,monday,09:00-09:55
+CS2001,Data Structures,BCS-3C,A-8 EE (53),Ayesha Ali,monday,10:00-10:55
+AF1001,Fundamentals of Accounting,BCS-3A,A-8 EE (53),Jahangir Tanveer,monday,11:00-11:55
+MG1006,Principles of Economics,BCS-3B,A-8 EE (53),Dr. Mushtaq,monday,12:00-12:55
+CS1005,Discrete Structures,BCS-3A,A-8 EE (53),Dr. Nouman Durrani,monday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,BCS-3D,A-8 EE (53),Kashan Hussain,monday,03:00-03:55
+CS1005,Discrete Structures,BCS-3B,C-14 EE (50),Fahad Hussain,monday,08:00-8:55
+CS2001,Data Structures,BCS-3D,C-14 EE (50),Farrukh Hassan Syed,monday,09:00-09:55
+CS1005,Discrete Structures,BCS-3D,C-14 EE (50),Bakhtawer,monday,10:00-10:55
+AF1001,Fundamentals of Accounting,BCS-3B,C-14 EE (50),Mr.Muhammad Ahsan,monday,11:00-11:55
+AF1001,Fundamentals of Accounting,BCS-3C,C-14 EE (50),Jahangir Tanveer,monday,12:00-12:55
+EE2003,Computer Organization and Assembly Language,BCS-3B,C-14 EE (50),Kashan Hussain,monday,1:00-01:55
+CY2004,Cybersecurity,BCY-3B,C-14 EE (50),Dr. Fahad Samad,monday,02:00-02:55
+CY2004,Cybersecurity,BCY-3A,C-14 EE (50),Dr. Fahad Samad,monday,03:00-03:55
+CS1005,Discrete Structures,BCS-3C,C-16 EE (50),Bakhtawer,monday,08:00-8:55
+CS2001,Data Structures,BCS-3B,C-16 EE (50),Mubashra Fayyaz,monday,09:00-09:55
+CS2001,Data Structures,BCS-3E,C-16 EE (50),Farrukh Hassan Syed,monday,10:00-10:55
+MG1001,Fundamentals of Management,BCS-3A,C-16 EE (50),Ahsan Ali Abbasi,monday,11:00-11:55
+MG1001,Fundamentals of Management,BCS-3B,C-16 EE (50),Ahsan Ali Abbasi,monday,12:00-12:55
+MT1004,Linear Algebra,BCS-3C,C-16 EE (50),Jamil Usmani,monday,1:00-01:55
+MT1004,Linear Algebra,BCS-3A,C-16 EE (50),Jamil Usmani,monday,02:00-02:55
+CS2001,Data Structures,BSE-3A,C-16 EE (50),Dr. Abdul Aziz,monday,03:00-03:55
+EE2003,Computer Organization and Assembly Language,BCS-3E,C-17 EE (59),Kariz Kamal,monday,08:00-8:55
+CS2001,Data Structures,BCS-3G,C-17 EE (59),Rafia Shaikh,monday,09:00-09:55
+EE2003,Computer Organization and Assembly Language,BCS-3G,C-17 EE (59),Atiya Jokhio,monday,10:00-10:55
+MG1006,Principles of Economics,BCS-3A,C-17 EE (59),Dr. Mushtaq,monday,11:00-11:55
+MG1006,Principles of Economics,BCS-3C,C-17 EE (59),Michael Simon,monday,12:00-12:55
+SS1012,Functional English,BCS-1F,C-17 EE (59), Atifa Batool,monday,03:00-03:55
+MT1004,Linear Algebra,BCS-3F,C-18 EE (50),Dr. Khusro Mian,monday,08:00-8:55
+CS2001,Data Structures,BCS-3J,C-18 EE (50),Dr. Abdul Aziz,monday,09:00-09:55
+CS1005,Discrete Structures,BCS-3H,C-18 EE (50),Jamil Usmani,monday,10:00-10:55
+SS2018,Psychology,BCY-3A,C-18 EE (50),Aqsa Fayyaz,monday,12:00-12:55
+MT1004,Linear Algebra,BCS-3D,C-18 EE (50),Muhammad Amjad,monday,1:00-01:55
+CS1005,Discrete Structures,BCS-3G,C-18 EE (50),Fahad Hussain,monday,02:00-02:55
+MT1004,Linear Algebra,BCS-3G,C-18 EE (50),Muhammad Amjad,monday,03:00-03:55
+EE2003,Computer Organization and Assembly Language,BCS-3H,C-19 EE (50),Shoaib Rauf,monday,08:00-8:55
+CS2001,Data Structures,BCY-3A,C-19 EE (50),Nouman Rajput,monday,09:00-09:55
+EE2003,Computer Organization and Assembly Language,BCY-3A,C-19 EE (50),Muhammad Usman ,monday,10:00-10:55
+SS2018,Psychology,BCY-3B,C-19 EE (50),Kauser Malik,monday,12:00-12:55
+EE2003,Computer Organization and Assembly Language,BSE-3A,C-19 EE (50),Atiya Jokhio,monday,1:00-01:55
+CS1005,Discrete Structures,BCS-3F,C-19 EE (50),Dr. Nouman Durrani,monday,02:00-02:55
+MT1004,Linear Algebra,BCS-3E,C-19 EE (50),Dr. Khusro Mian,monday,03:00-03:55
+CS1005,Discrete Structures,BCS-3J,C-21 EE (50),Jamil Usmani,monday,08:00-8:55
+CS3002,Information Security,BCY-5B,C-21 EE (50), Usama Antuley,monday,09:00-09:55
+SS2043,Civics and Community Engagement,BCY-3B,C-21 EE (50),Rabia Ejaz,monday,10:00-10:55
+MT1004,Linear Algebra,BSE-3A,C-21 EE (50),Alishba Tariq,monday,12:00-12:55
+CS2001,Data Structures,BCS-3H,C-21 EE (50),Dr. Abdul Aziz,monday,1:00-01:55
+MT1004,Linear Algebra,BCS-3H,C-21 EE (50),Fareeha Sultan,monday,02:00-02:55
+MT1004,Linear Algebra,BCS-3H,C-21 EE (50),Fareeha Sultan,monday,03:00-03:55
+MT1004,Linear Algebra,BCY-3A,D-22 EE (50),Fareeha Sultan,monday,08:00-8:55
+CS1004,Object Oriented Programming,BCS-3A,D-22 EE (50),Zain ul Hassan,monday,09:00-09:55
+EE2003,Computer Organization and Assembly Language,BCS-3F,D-22 EE (50),Nauraiz Subhan,monday,10:00-10:55
+CS2001,Data Structures,BAI-3A,D-22 EE (50),Rafia Shaikh,monday,12:00-12:55
+EE2003,Computer Organization and Assembly Language,BCS-3J,D-22 EE (50),Shoaib Rauf,monday,1:00-01:55
+SS2043,Civics and Community Engagement,BCY-3A,D-22 EE (50),Rabia Ejaz,monday,02:00-02:55
+MT1004,Linear Algebra,BCY-3B,D-23 EE (50),Muhammad Amjad,monday,08:00-8:55
+CS3006,Parallel and Distributed Computing,BCS-5M,D-23 EE (50),Safia,monday,09:00-09:55
+CS2001,Data Structures,BCY-3B,D-23 EE (50),Nouman Rajput,monday,1:00-01:55
+CS3002,Information Security,BCY-5A,D-23 EE (50), Usama Antuley,monday,02:00-02:55
+N/A,Reserved Slot,for,D-24 EE (50),No Teacher,monday,12:00-12:55
+N/A,Reserved Slot,for,D-24 EE (50),No Teacher,monday,03:00-03:55
+N/A,Reserved Slot,for,D-25 EE (50),No Teacher,monday,08:00-8:55
+MT1003,Calculus and Analytical Geometry,BCS-1H,D-26 EE (50), Shahid Ashraf,monday,08:00-8:55
+CS1002,Programming Fundamentals,BCY-1A,D-26 EE (50), Kariz Kamal,monday,09:00-09:55
+MT1003,Calculus and Analytical Geometry,BDS-1B,D-26 EE (50), Uzma Saleh,monday,10:00-10:55
+SS1012,Functional English,BCS-1C,D-26 EE (50), Nazia Imam,monday,11:00-11:55
+NS1001,Applied Physics,BCS-1A,D-27 EE (50),  Ishtiaq Ahmed,monday,08:00-8:55
+CS1002,Programming Fundamentals,BCS-1A,D-27 EE (50), Basit Ali,monday,09:00-09:55
+HU127,Ideology and Constitution of Pakistan,BCS-1H,D-27 EE (50), Amna Ali,monday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BCS-1A,D-27 EE (50), Mairaj,monday,11:00-11:55
+SS1012,Functional English,BCS-1B,D-27 EE (50), Nazia Imam,monday,12:00-12:55
+MT1003,Calculus and Analytical Geometry,BCS-1B,D-27 EE (50), Mairaj,monday,02:00-02:55
+CS1002,Programming Fundamentals,BCS-1B,D-27 EE (50), Nauraiz Subhan,monday,03:00-03:55
+CS1002,Programming Fundamentals,BCS-1D,D-28 EE (50), Zain Noureen,monday,08:00-8:55
+NS1001,Applied Physics,BCS-1H,D-28 EE (50), Muhammad Rahim,monday,09:00-09:55
+NS1001,Applied Physics,BCS-1D,D-28 EE (50),  Ishtiaq Ahmed,monday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BCS-1D,D-28 EE (50),Usama Antuley,monday,11:00-11:55
+MT1003,Calculus and Analytical Geometry,BCS-1C,D-28 EE (50), Mairaj,monday,12:00-12:55
+CS1002,Programming Fundamentals,BCS-1C,D-28 EE (50), Farooq Ahmed Zaidi,monday,1:00-01:55
+NS1001,Applied Physics,BCS-1C,D-28 EE (50),  Ishtiaq Ahmed,monday,03:00-03:55
+CS1002,Programming Fundamentals,BCS-1E,E-29EE (52), Rafia Shaikh,monday,08:00-8:55
+SS1012,Functional English,BCS-1D,E-29EE (52), Nazia Imam,monday,09:00-09:55
+NS1001,Applied Physics,BCS-1E,E-29EE (52), Muhammad Rahim,monday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BCS-1E,E-29EE (52), Shahid Ashraf,monday,11:00-11:55
+NS1001,Applied Physics,BCS-1F,E-29EE (52), Muhammad Rahim,monday,12:00-12:55
+CS1002,Programming Fundamentals,BCS-1F,E-30 EE (52), Sumaiyah Zahid,monday,08:00-8:55
+MT1003,Calculus and Analytical Geometry,BCS-1F,E-30 EE (52),Shahid Ashraf,monday,09:00-09:55
+CS1002,Programming Fundamentals,BCS-1G,E-30 EE (52), Bakhtawer,monday,12:00-12:55
+SS1012,Functional English,BCS-1G,E-30 EE (52), Javeria Ahmed ,monday,1:00-01:55
+MT1003,Calculus and Analytical Geometry,BCS-1G,E-30 EE (52),  Alishba Tariq,monday,02:00-02:55
+N/A,University Orientation Session,BCS-1K,E-30 EE (52),Farhan Ali Memon,monday,03:00-03:55
+CS1002,Programming Fundamentals,BCS-1J,E-31 EE (52), Mohammad Kashif,monday,08:00-8:55
+NS1001,Applied Physics,BCS-1J,E-31 EE (52), Rabia Tabassum,monday,09:00-09:55
+CS1002,Programming Fundamentals,BCS-1J,E-31 EE (52), Mohammad Kashif,monday,11:00-11:55
+HU127,Ideology and Constitution of Pakistan,BCS-1H,E-31 EE (52), Amna Ali,monday,12:00-12:55
+NS1001,Applied Physics,BAI-1A,E-31 EE (52), Rabia Tabassum,monday,02:00-02:55
+NS1001,Applied Physics,BCS-1H,E-31 EE (52), Muhammad Rahim,monday,03:00-03:55
+N/A,Reserved Slot,for,E-32 EE (52),No Teacher,monday,08:00-8:55
+SS1012,Functional English,BCS-1K,E-32 EE (52),Wajiha Akbar ,monday,09:00-09:55
+MT1003,Calculus and Analytical Geometry,BCS-1K,E-32 EE (52), Nadeem Khan,monday,11:00-11:55
+N/A,Reserved Slot,for,E-32 EE (52),No Teacher,monday,12:00-12:55
+CS1002,Programming Fundamentals,BCS-1K,E-32 EE (52), Sumaiyah Zahid,monday,1:00-01:55
+N/A,Reserved Slot,for,E-32 EE (52),No Teacher,monday,03:00-03:55
+CS1002,Programming Fundamentals,BAI-1A,E-33 EE (52), Farooq Zaidi,monday,08:00-8:55
+MT1003,Calculus and Analytical Geometry,BAI-1A,E-33 EE (52), Asma Masood,monday,09:00-09:55
+SS1007,Islamic Studies/Ethics,BAI-1A,E-33 EE (52), Dr. Hassan Saeed,monday,12:00-12:55
+SS1007,Islamic Studies/Ethics,BDS-1A,E-33 EE (52), Dr. Hassan Saeed,monday,02:00-02:55
+MT1003,Calculus and Analytical Geometry,BDS-1A,E-33 EE (52), Uzma Saleh,monday,03:00-03:55
+MT1003,Calculus and Analytical Geometry,BCY-1A,E-34 EE (52), Nadeem Khan,monday,10:00-10:55
+NS1001,Applied Physics,BSE-1A,E-34 EE (52), Rabia Tabassum,monday,11:00-11:55
+SS1007,Islamic Studies/Ethics,BCY-1A,E-34 EE (52),Muhammad Hasham,monday,1:00-01:55
+N/A,University Orientation Quiz,BCY-1A,E-34 EE (52),Muhammad Hasham,monday,02:00-02:55
+MT1003,Calculus and Analytical Geometry,BCY-1A,E-34 EE (52), Nadeem Khan,monday,03:00-03:55
+CS1002,Programming Fundamentals,BSE-1A,E-35 EE (52), Iqra Fahad,monday,08:00-8:55
+MT1003,Calculus and Analytical Geometry,BSE-1A,E-35 EE (52), Alishba Tariq,monday,09:00-09:55
+MT1003,Calculus and Analytical Geometry,BSE-1B,E-35 EE (52), Asma Masood,monday,12:00-12:55
+SS1012,Functional English,BSE-1B,E-35 EE (52), Atifa Batool ,monday,1:00-01:55
+CS1002,Programming Fundamentals,BSE-1B,E-35 EE (52), Iqra Fahad,monday,02:00-02:55
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,monday,03:00-03:55
+SS1012,Functional English,Lab,LLC(R7) (50), Madiha Rehman,monday,08:00-8:55
+SS1012,Functional English,Lab,LLC(R7) (50), Faiza Mumtaz,monday,1:00-01:55
+SS1012,Functional English,Lab,C-20 EE (50), Khadija Shireen,monday,08:00-8:55
+N/A,Reserved Slot,for,C-20 EE (50),No Teacher,monday,11:00-11:55
+SS1012,Functional English,Lab,C-20 EE (50), Mariam Aftab,monday,1:00-01:55
+CS1002,Programming Fundamentals,Lab,CS LAB-1 (56), Ramsha Iqbal,monday,08:00-8:55
+CS1002,Programming Fundamentals,Lab,CS LAB-1 (56), Ghulam Qadir Bhurgari Baloch,monday,1:00-01:55
+CS2005,Database Systems,Lab,CS LAB-2 (48), Syeda Mahnoor Javed,monday,08:00-8:55
+CS2005,Database Systems,Lab,CS LAB-2 (48), Sohail Ahmed,monday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-3 (48),Ubaidullah,monday,08:00-8:55
+CS2005,Database Systems,Lab,CS LAB-3 (48),Mubashir,monday,1:00-01:55
+CS2005,Database Systems,Lab,CS LAB-4 (48), Bushra Sattar,monday,08:00-8:55
+CS2005,Database Systems,Lab,CS LAB-4 (48), Syeda Ravia Ejaz,monday,1:00-01:55
+CS2001,Data Structures,Lab,CS LAB-5 (48),Alishba Subani,monday,08:00-8:55
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-5 (48),Saif,monday,1:00-01:55
+CS1002,Programming Fundamentals,BCS,CS LAB-6 (56), Muhammad Aashir,monday,08:00-8:55
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-6 (56), Filza Akhlaq,monday,1:00-01:55
+CS1002,Programming Fundamentals,Lab,EE LAB-7 (54), Shaheer Ahmad Khan,monday,08:00-8:55
+CS1002,Programming Fundamentals,Lab,EE LAB-7 (54), Shaheer Ahmad Khan,monday,1:00-01:55
+CS2005,Database Systems,Lab,EE LAB-8 (48), Fatima Gado,monday,08:00-8:55
+CS2005,Database Systems,Lab,EE LAB-8 (48), Mehak Mazhar,monday,1:00-01:55
+CS2005,Database Systems,Lab,EE LAB-9 (48), Yumna Asif,monday,1:00-01:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,monday,08:00-8:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,monday,1:00-01:55
+N/A,Reserved Slot,for,EE LAB-11 (48),No Teacher,monday,08:00-8:55
+CY4002,Ethical Hacking,BCY-5A,EE LAB-11 (48), Abuzar Zafar,monday,11:00-11:55
+N/A,Reserved Slot,for,EE LAB-11 (48),No Teacher,monday,1:00-01:55
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,monday,08:00-8:55
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,monday,1:00-01:55
+CS4001,Professional Practices in IT,BCS-7B,E-1 CS (50), Anaum Hamid,tuesday,08:00-8:55
+MG3002,Financial and Strategic Project Management,BCS-7A,E-1 CS (50),Ubaid Aftab,tuesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7C,E-1 CS (50), Kashan Hussain,tuesday,10:00-10:55
+CS3002,Information Security,BSE-7A,E-1 CS (50), Hira Tunio,tuesday,11:00-11:55
+MG3002,Financial and Strategic Project Management,BCS-7A,E-1 CS (50),Ubaid Aftab,tuesday,12:00-12:55
+MG3002,Financial and Strategic Project Management,BCS-7B,E-1 CS (50),Ubaid Aftab,tuesday,1:00-01:55
+CS3002,Information Security,BSE-7B,E-1 CS (50),  Hira Tunio,tuesday,02:00-02:55
+CS4001,Professional Practices in IT,BCS-7A,E-2 CS (50),Kashan Hussain,tuesday,08:00-8:55
+CS406,Web Programming,BCS-7A,E-2 CS (50),Ali Fatmi,tuesday,09:00-09:55
+CS3002,Information Security,BCS-7E,E-2 CS (50), Dr. Sufian Hameed,tuesday,10:00-10:55
+SE3001,Software System Design,BCY-7A,E-2 CS (50),AbuZar Zafar,tuesday,11:00-11:55
+MT3001,Graph Theory,BCS-5J,E-2 CS (50), Abdul Basit,tuesday,12:00-12:55
+SE3001,Software System Design,BCY-7B,E-2 CS (50),,tuesday,1:00-01:55
+CS3006,Parallel and Distributed Computing,BCY-7B,E-2 CS (50),Dr. Ghufran Ahmed ,tuesday,02:00-02:55
+CS3006,Parallel and Distributed Computing,BCS-5J,E-2 CS (50), Dr. Nausheen Shoaib,tuesday,03:00-03:55
+CS4001,Professional Practices in IT,BCS-7E,E-3 CS (50),Sobia Iftikhar,tuesday,08:00-8:55
+CS2001,Data Structures,BCS-7A,E-3 CS (50),Dr. Nauman Durrani,tuesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7D,E-3 CS (50),Sania Urooj,tuesday,10:00-10:55
+CS3002,Information Security,BCS-7A,E-3 CS (50),  Dr. Nausheen Shoaib,tuesday,11:00-11:55
+CY4002,Ethical Hacking,BCY-5A,E-3 CS (50), Abuzar Zafar,tuesday,12:00-12:55
+RS1002,Research Skills,BCS-7B,E-3 CS (50),Zain Ul Hassan,tuesday,1:00-01:55
+CS4001,Professional Practices in IT,BCS-7G,E-4 CS (50),Sania Urooj,tuesday,08:00-8:55
+CS4001,Professional Practices in IT,BCS-7F,E-4 CS (50),Shahar Bano,tuesday,10:00-10:55
+CS4042,Computer Vision,BAI-7B,E-4 CS (50),Bilal Ahsan,tuesday,11:00-11:55
+CS4050,Information Processing Techniques,BCS-7B,E-4 CS (50),Abeeha Sattar,tuesday,1:00-01:55
+CS3002,Information Security,BCS-7F,E-4 CS (50),  Dr. Farrukh Salim,tuesday,02:00-02:55
+CS4001,Professional Practices in IT,BCS-7H,E-5 CS (50),Shahar Bano,tuesday,08:00-8:55
+CS5001,Quantum Computing,BCS-7A,E-5 CS (50),Sumaiyah Zahid,tuesday,09:00-09:55
+AI3003,Intelligent Agents,BCY-7A,E-5 CS (50),Ali Naseer Shah,tuesday,10:00-10:55
+CS3002,Information Security,BCS-7K,E-5 CS (50), Dr. Aqsa Aslam,tuesday,11:00-11:55
+AI3004,Natural Language Processing,BAI-7B,E-5 CS (50),Saeeda Kanwal ,tuesday,1:00-01:55
+CS3002,Information Security,BCS-7H,E-5 CS (50),  Muhammad Usman,tuesday,02:00-02:55
+CS4001,Professional Practices in IT,BCY-7A,E-6 CS (50),Bilal Ahsan,tuesday,08:00-8:55
+CS4001,Professional Practices in IT,BCS-7J,E-6 CS (50), Aashir Mahboob,tuesday,10:00-10:55
+CS3002,Information Security,BCS-7G,E-6 CS (50),  Muhammad Usman,tuesday,11:00-11:55
+AI3002,Machine Learning,BAI-5C,E-6 CS (50),Sania Urooj,tuesday,12:00-12:55
+CS2005,Database Systems,BAI-5C,E-6 CS (50),Omer Qureshi,tuesday,1:00-01:55
+SE2002,Software Design and Architecture,BCS-5H,E-6 CS (50), Syeda Rubab Manzar,tuesday,02:00-02:55
+AI4006,Knowledge and Knowledge Representation,BAI-5C,E-6 CS (50), Adil Sheraz,tuesday,03:00-03:55
+CS4001,Professional Practices in IT,BCY-7B,R-11 CS (50),Sandesh Kumar ,tuesday,08:00-8:55
+AI3003,Intelligent Agents,BCY-7B,R-11 CS (50),Ali Naseer Shah,tuesday,09:00-09:55
+MG3002,Financial and Strategic Project Management,BSE-7A,R-11 CS (50),Minhal Raza,tuesday,10:00-10:55
+AI3004,Natural Language Processing,BAI-7A,R-11 CS (50),Saeeda Kanwal ,tuesday,11:00-11:55
+CS2005,Database Systems,BSE-5A,R-11 CS (50), Alina Arshad,tuesday,12:00-12:55
+SE4005,Software Quality Engineering,BSE-5A,R-11 CS (50), Syeda Rubab Manzar,tuesday,1:00-01:55
+SE2002,Software Design and Architecture,BCS-5A,R-11 CS (50), Dr. Imran Ali Bhatti,tuesday,02:00-02:55
+MT3001,Graph Theory,BCS-5A,R-11 CS (50), Urooj,tuesday,03:00-03:55
+CS4001,Professional Practices in IT,BCS-7K,R-12 CS (70),Aashir Mahboob,tuesday,08:00-8:55
+MG3002,Financial and Strategic Project Management,BSE-7B,R-12 CS (70),Dr. Moazzam Ali,tuesday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BCS-5B,R-12 CS (70), Dr. Muhammad Atif Tahir,tuesday,11:00-11:55
+CS2005,Database Systems,BCS-5G,R-12 CS (70), Dr. Zulfiqar Ali Memon,tuesday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5A,R-12 CS (70), Safia,tuesday,1:00-01:55
+CS2005,Database Systems,BCS-5G,R-12 CS (70), Dr. Zulfiqar Ali Memon,tuesday,02:00-02:55
+CS4001,Professional Practices in IT,BSE-7A,R-109 CS (50),Yusra Kaleem,tuesday,08:00-8:55
+RS1002,Research Skills,BCS-7A,R-109 CS (50),Zain Ul Hassan,tuesday,09:00-09:55
+CS4042,Computer Vision,BAI-7A,R-109 CS (50),Bilal Ahsan ,tuesday,10:00-10:55
+CS3002,Information Security,BCS-7D,R-109 CS (50),Yusra Kaleem,tuesday,11:00-11:55
+SE2002,Software Design and Architecture,BCS-5D,R-109 CS (50), Engr. Abdul Rahman,tuesday,12:00-12:55
+CS2009,Design and Analysis of Algorithms,BCS-5D,R-109 CS (50), Syed Faisal Ali,tuesday,1:00-01:55
+CS3002,Information Security,BCS-7J,R-109 CS (50),Yusra Kaleem,tuesday,02:00-02:55
+CS4001,Professional Practices in IT,BSE-7B,A-1 EE (50),Dr. Maria Siddiqua,tuesday,08:00-8:55
+CS3006,Parallel and Distributed Computing,BCY-7A,A-1 EE (50),Dr. Nadeem Kafi ,tuesday,09:00-09:55
+SS1012,Functional English,BDS-1A,A-1 EE (50),Aisha Khan,tuesday,10:00-10:55
+CS3002,Information Security,BCS-7B,A-1 EE (50),  Dr. Farrukh Salim,tuesday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5E,A-1 EE (50), Dr. Nausheen Shoaib,tuesday,12:00-12:55
+SE2002,Software Design and Architecture,BCS-5C,A-1 EE (50), Engr. Abdul Rahman,tuesday,1:00-01:55
+SE2002,Software Design and Architecture,BCS-5J,A-1 EE (50), Engr. Abdul Rahman,tuesday,02:00-02:55
+MG1001,Fundamentals of Management,BAI-7A,A-2EE (50),Ahsan Ali,tuesday,08:00-8:55
+AI4006,Knowledge and Knowledge Representation,BAI-5A,A-2EE (50), Dr. Muhammad Rafi,tuesday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BCS-5F,A-2EE (50), Dr. Nasir Uddin,tuesday,10:00-10:55
+AI3002,Machine Learning,BAI-5B,A-2EE (50),Dr. Maria Siddiqua,tuesday,11:00-11:55
+CS2005,Database Systems,BCS-5F,A-2EE (50), Fizza Aqeel,tuesday,12:00-12:55
+MT3001,Graph Theory,BCS-5F,A-2EE (50), Abdul Basit,tuesday,1:00-01:55
+MT3001,Graph Theory,BCS-5E,A-2EE (50), Urooj,tuesday,02:00-02:55
+CS2005,Database Systems,BCS-5D,A-2EE (50),Dr. Anam Qureshi,tuesday,03:00-03:55
+CS3002,Information Security,BCS-7C,A-3 EE (50),  Dr. Aqsa Aslam,tuesday,08:00-8:55
+CS2005,Database Systems,BCS-5A,A-3 EE (50), Atiya Jokhio,tuesday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BCS-5A,A-3 EE (50), Syed Faisal Ali,tuesday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BCS-5L,A-3 EE (50), Dr. Nasir Uddin,tuesday,11:00-11:55
+CS2005,Database Systems,BCS-5H,A-3 EE (50), Javeria Farooq,tuesday,12:00-12:55
+MT3001,Graph Theory,BCS-5H,A-3 EE (50), Moheez ur Rahim,tuesday,1:00-01:55
+CS3006,Parallel and Distributed Computing,BCS-5D,A-5 EE (50), Kashif,tuesday,08:00-8:55
+CS2009,Design and Analysis of Algorithms,BCS-5C,A-5 EE (50), Anaum Hamid,tuesday,09:00-09:55
+CS2005,Database Systems,BCS-5B,A-5 EE (50), Atiya Jokhio,tuesday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BCS-5M,A-5 EE (50), Dr. Fahad Sherwani,tuesday,11:00-11:55
+NS1001,Applied Physics,BDS-1A,A-5 EE (50), Javid Qureshi,tuesday,12:00-12:55
+CS2009,Design and Analysis of Algorithms,BCS-5K,A-5 EE (50), Dr. Farrukh Salim Shaikh,tuesday,1:00-01:55
+CS3006,Parallel and Distributed Computing,BCS-5K,A-5 EE (50), Dr. Nadeem Kafi Khan,tuesday,02:00-02:55
+CS2005,Database Systems,BCS-5K,A-5 EE (50),ZAin Noureen,tuesday,03:00-03:55
+CS2005,Database Systems,BCS-5C,A-6 EE (50),Dr. Anam Qureshi,tuesday,10:00-10:55
+CS3006,Parallel and Distributed Computing,BCS-5C,A-6 EE (50), Kashif,tuesday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5L,A-6 EE (50),  Syed Faisal Ali,tuesday,12:00-12:55
+SE2002,Software Design and Architecture,BCS-5E,A-6 EE (50), Sobia Iftikhar,tuesday,1:00-01:55
+CY4003,Digital Forensics,BCY-5A,A-6 EE (50), Dr. Shahbaz Siddiqui,tuesday,02:00-02:55
+CS2009,Design and Analysis of Algorithms,BCY-5A,A-6 EE (50), Sandesh Kumar,tuesday,03:00-03:55
+CS2009,Design and Analysis of Algorithms,BSE-5B,A-7 EE (50), Minhal Raza,tuesday,08:00-8:55
+CS2005,Database Systems,BSE-5B,A-7 EE (50), Alina Arshad,tuesday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5M,A-7 EE (50),Safia,tuesday,12:00-12:55
+SS1012,Functional English,BDS-1A,A-7 EE (50),Aisha Khan,tuesday,1:00-01:55
+CS2009,Design and Analysis of Algorithms,BCY-5B,A-7 EE (50), Sandesh Kumar,tuesday,02:00-02:55
+CS3006,Parallel and Distributed Computing,BCS-5H,A-8 EE (53), Safia,tuesday,09:00-09:55
+CS2005,Database Systems,BCS-5E,A-8 EE (53), Fizza Aqeel,tuesday,10:00-10:55
+AI3002,Machine Learning,BAI-5A,A-8 EE (53), Dr. Maria Siddiqua,tuesday,02:00-02:55
+CS2005,Database Systems,BAI-5A,A-8 EE (53),Omer Qureshi,tuesday,03:00-03:55
+CS2009,Design and Analysis of Algorithms,BCS-5E,C-14 EE (50), Abu Zhuran,tuesday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BCS-5H,C-14 EE (50), Abu Zhuran,tuesday,10:00-10:55
+CS4055,System Concept and Design,BSE-5B,C-14 EE (50), Ali Fatmi,tuesday,1:00-01:55
+SE4005,Software Quality Engineering,BSE-5B,C-14 EE (50), Alina Arshad,tuesday,02:00-02:55
+CS2005,Database Systems,BCS-5J,C-16 EE (50), Javeria Farooq,tuesday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BCS-5J,C-16 EE (50), Dr. Fahad Sherwani,tuesday,10:00-10:55
+CS4055,System Concept and Design,BSE-5A,C-16 EE (50), Ali Fatmi,tuesday,02:00-02:55
+MT3001,Graph Theory,BCS-5L,C-17 EE (59), Moheez ur Rahim,tuesday,08:00-8:55
+CS2005,Database Systems,BCS-5L,C-17 EE (59),Zain Noureen,tuesday,09:00-09:55
+CS3002,Information Security,BCY-5A,C-17 EE (59), Usama Antuley,tuesday,10:00-10:55
+SS1012,Functional English,BSE-1A,C-17 EE (59), Atifa Batool ,tuesday,02:00-02:55
+CS3002,Information Security,BCY-5B,C-17 EE (59), Usama Antuley,tuesday,03:00-03:55
+MT3001,Graph Theory,BCS-5M,C-18 EE (50), Urooj,tuesday,08:00-8:55
+CS2005,Database Systems,BCS-5M,C-18 EE (50), Basit Ali,tuesday,09:00-09:55
+CS4055,System Concept and Design,BSE-5B,C-18 EE (50), Ali Fatmi,tuesday,10:00-10:55
+CY4003,Digital Forensics,BCY-5B,C-21 EE (50), Dr. Shahbaz Siddiqui,tuesday,08:00-8:55
+SS2012,Technical and Business Writing,BAI-5B,C-21 EE (50),Javeria Ali,tuesday,09:00-09:55
+AI4006,Knowledge and Knowledge Representation,BAI-5B,C-21 EE (50), Adil Sheraz,tuesday,10:00-10:55
+CS2005,Database Systems,BCY-5B,D-22 EE (50),Abeer Gauher,tuesday,10:00-10:55
+CS1004,Object Oriented Programming,BCS-3A,D-23 EE (50),Zain ul Hassan,tuesday,11:00-11:55
+CS1004,Object Oriented Programming,BCS-3A,D-23 EE (50),Zain ul Hassan,tuesday,12:00-12:55
+DE2001,Digital Electronics,BCS-5A,D-23 EE (50),Mairaj,tuesday,03:00-03:55
+NS1001,Applied Physics,BCS-1C,D-26 EE (50),  Ishtiaq Ahmed,tuesday,08:00-8:55
+CS1002,Programming Fundamentals,BCS-1B,D-26 EE (50), Nauraiz Subhan,tuesday,09:00-09:55
+MT1003,Calculus and Analytical Geometry,BCS-1C,D-26 EE (50), Mairaj,tuesday,10:00-10:55
+SS1012,Functional English,BCS-1C,D-26 EE (50), Nazia Imam,tuesday,11:00-11:55
+CS1002,Programming Fundamentals,BCY-1A,D-26 EE (50), Kariz Kamal,tuesday,12:00-12:55
+CS1002,Programming Fundamentals,BCS-1C,D-26 EE (50), Farooq Zaidi,tuesday,1:00-01:55
+HU127,Ideology and Constitution of Pakistan,BCS-1C,D-26 EE (50), Amna Ali,tuesday,02:00-02:55
+HU127,Ideology and Constitution of Pakistan,BCS-1J,D-27 EE (50), Kashif Ahmed,tuesday,08:00-8:55
+MT1003,Calculus and Analytical Geometry,BCS-1J,D-27 EE (50), Alishba Tariq,tuesday,09:00-09:55
+CS1002,Programming Fundamentals,BCS-1J,D-27 EE (50), Muhammad Kashif,tuesday,10:00-10:55
+CS1002,Programming Fundamentals,BCS-1D,D-27 EE (50), Zain Noureen,tuesday,12:00-12:55
+SS1012,Functional English,BCS-1D,D-27 EE (50), Nazia Imam,tuesday,1:00-01:55
+NS1001,Applied Physics,BCS-1D,D-27 EE (50),  Ishtiaq Ahmed,tuesday,02:00-02:55
+CS1002,Programming Fundamentals,BCS-1E,D-28 EE (50), Rafia Shaikh,tuesday,08:00-8:55
+SS1012,Functional English,BCS-1E,D-28 EE (50),Faiza Mumtaz,tuesday,09:00-09:55
+HU127,Ideology and Constitution of Pakistan,BCS-1E,D-28 EE (50), Kashif Ahmed,tuesday,11:00-11:55
+MT1003,Calculus and Analytical Geometry,BCS-1F,D-28 EE (50),Shahid Ashraf,tuesday,1:00-01:55
+MT1003,Calculus and Analytical Geometry,BCS-1E,D-28 EE (50), Shahid Ashraf,tuesday,02:00-02:55
+N/A,University Orientation Session,BCS-1E,D-28 EE (50),Dr. Hassan Saeed,tuesday,03:00-03:55
+NS1001,Applied Physics,BCS-1F,E-29EE (52), Muhammad Rahim,tuesday,08:00-8:55
+N/A,Reserved Slot,for,E-29EE (52),No Teacher,tuesday,09:00-09:55
+CS1002,Programming Fundamentals,BCS-1F,E-29EE (52), Sumaiyah Zahid,tuesday,10:00-10:55
+NS1001,Applied Physics,BCS-1F,E-29EE (52), Muhammad Rahim,tuesday,11:00-11:55
+MT1003,Calculus and Analytical Geometry,BCS-1G,E-29EE (52),  Alishba Tariq,tuesday,12:00-12:55
+SS1012,Functional English,BCS-1G,E-29EE (52), Javeria Ahmed ,tuesday,1:00-01:55
+HU127,Ideology and Constitution of Pakistan,BCS-1G,E-29EE (52), Kashif Ahmed,tuesday,02:00-02:55
+HU127,Ideology and Constitution of Pakistan,BCS-1F,E-29EE (52), Kashif Ahmed,tuesday,03:00-03:55
+NS1001,Applied Physics,BCS-1G,E-30 EE (52), Muhammad Rahim,tuesday,10:00-10:55
+CS1002,Programming Fundamentals,BAI-1A,E-30 EE (52), Farooq Zaidi,tuesday,12:00-12:55
+SS1007,Islamic Studies/Ethics,BAI-1A,E-30 EE (52), Dr. Hassan Saeed,tuesday,1:00-01:55
+NS1001,Applied Physics,BCY-1A,E-30 EE (52),Dr. Muhammad Adeel,tuesday,02:00-02:55
+CS1002,Programming Fundamentals,BDS-1A,E-31 EE (52), Dr. Farrukh Shahid,tuesday,09:00-09:55
+CS1002,Programming Fundamentals,BCS-1H,E-31 EE (52),  Fahad Hussain,tuesday,12:00-12:55
+N/A,University Orientation Session,BCS-1H,E-31 EE (52),Dr. Shahzad Shaikh,tuesday,1:00-01:55
+SS1012,Functional English,BCS-1H,E-31 EE (52),Javeriyah Ahmed,tuesday,02:00-02:55
+NS1001,Applied Physics,BAI-1A,E-31 EE (52), Rabia Tabassum,tuesday,03:00-03:55
+CS1002,Programming Fundamentals,BSE-1A,E-32 EE (52), Iqra Fahad,tuesday,08:00-8:55
+SS1007,Islamic Studies/Ethics,BDS-1B,E-32 EE (52), Dr. Hassan Saeed,tuesday,10:00-10:55
+CS1002,Programming Fundamentals,BDS-1B,E-32 EE (52), Dr. Farrukh Shahid,tuesday,11:00-11:55
+NS1001,Applied Physics,BCS-1J,E-32 EE (52), Rabia Tabassum,tuesday,12:00-12:55
+MT1003,Calculus and Analytical Geometry,BCS-1J,E-32 EE (52), Alishba Tariq,tuesday,1:00-01:55
+SS1012,Functional English,BCS-1J,E-32 EE (52),Wajiha Akbar ,tuesday,03:00-03:55
+MT1003,Calculus and Analytical Geometry,BSE-1A,E-33 EE (52), Alishba Tariq,tuesday,10:00-10:55
+SS1007,Islamic Studies/Ethics,BSE-1A,E-33 EE (52), Dr. Shahzad Shaikh,tuesday,11:00-11:55
+CS1002,Programming Fundamentals,BCS-1K,E-33 EE (52), Sumaiyah Zahid,tuesday,12:00-12:55
+SS1012,Functional English,BCS-1K,E-33 EE (52),Wajiha Akbar ,tuesday,1:00-01:55
+SS1012,Functional English,BCS-1A,E-33 EE (52), Nazia Imam,tuesday,02:00-02:55
+NS1001,Applied Physics,BCS-1K,E-33 EE (52),Dr. Muhammad Adeel,tuesday,03:00-03:55
+NS1001,Applied Physics,BSE-1B,E-34 EE (52), Rabia Tabassum,tuesday,08:00-8:55
+CS1002,Programming Fundamentals,BSE-1B,E-34 EE (52), Iqra Fahad,tuesday,09:00-09:55
+MT1003,Calculus and Analytical Geometry,BCS-1E,E-34 EE (52), Shahid Ashraf,tuesday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BSE-1B,E-34 EE (52), Asma Masood,tuesday,11:00-11:55
+CS1002,Programming Fundamentals,BDS-1A,E-34 EE (52), Dr. Farrukh Shahid,tuesday,02:00-02:55
+MT1003,Calculus and Analytical Geometry,BCS-1B,E-35 EE (52), Mairaj,tuesday,08:00-8:55
+NS1001,Applied Physics,BCS-1B,E-35 EE (52),  Ishtiaq Ahmed,tuesday,10:00-10:55
+HU127,Ideology and Constitution of Pakistan,BCS-1B,E-35 EE (52), Amna Ali,tuesday,11:00-11:55
+CS1002,Programming Fundamentals,BCS-1A,E-35 EE (52), Basit Ali,tuesday,12:00-12:55
+NS1001,Applied Physics,BSE-1A,E-35 EE (52), Rabia Tabassum,tuesday,1:00-01:55
+N/A,University Orientation Session,BCS-1F,E-35 EE (52),Farhan Ali Memon,tuesday,02:00-02:55
+N/A,University Orientation Quiz,BSE-1A,E-35 EE (52), Dr. Shahzad Shaikh,tuesday,03:00-03:55
+SS1012,Functional English,Lab,LLC(R7) (50), Atifa Batool,tuesday,08:00-8:55
+SS1012,Functional English,Lab,LLC(R7) (50), Madiha Rehman,tuesday,1:00-01:55
+SS1012,Functional English,Lab,C-20 EE (50), Wajiha Akbar,tuesday,08:00-8:55
+N/A,Reserved Slot,for,C-20 EE (50),No Teacher,tuesday,12:00-12:55
+SS1012,Functional English,Lab,C-20 EE (50), Faiza Mumtaz,tuesday,1:00-01:55
+CS1002,Programming Fundamentals,Lab,CS LAB-1 (56), Ramsha Iqbal,tuesday,08:00-8:55
+MG2010,Business Communication,BCS-7A,CS LAB-1 (56),Dr. Shahbaz Siddiqui,tuesday,12:00-12:55
+CS1002,Programming Fundamentals,Lab,CS LAB-1 (56), Syeda Ravia Ejaz,tuesday,1:00-01:55
+CS4050,Information Processing Techniques,BCS-7A,CS LAB-2 (48), Abeeha Sattar,tuesday,12:00-12:55
+SE3001,Software System Design,Lab,CS LAB-2 (48),Abeer Gauher ,tuesday,1:00-01:55
+AI3002,Machine Learning,Lab,CS LAB-3 (48), Usama bin Umar,tuesday,08:00-8:55
+CS2005,Database Systems,Lab,CS LAB-3 (48), Bushra Sattar,tuesday,1:00-01:55
+CS4055,System Concept and Design,Lab,CS LAB-4 (48), Yasir Arafat,tuesday,08:00-8:55
+CS2005,Database Systems,Lab,CS LAB-5 (48), Filza Akhlaq,tuesday,08:00-8:55
+CS2006,Operating Systems,Lab,CS LAB-5 (48),Muhammad Monis,tuesday,1:00-01:55
+CS1004,Object Oriented Programming,Lab,CS LAB-6 (56),Talha Shahid,tuesday,08:00-8:55
+N/A,Reserved Slot,for,CS LAB-6 (56),No Teacher,tuesday,1:00-01:55
+CS1002,Programming Fundamentals,Lab,EE LAB-7 (54),Ghulam Qadir Bhurgari Baloch,tuesday,08:00-8:55
+N/A,Reserved Slot,for,EE LAB-7 (54),No Teacher,tuesday,12:00-12:55
+CS1002,Programming Fundamentals,Lab,EE LAB-8 (48), Muhammad Khalid,tuesday,08:00-8:55
+AI3002,Machine Learning,Lab,EE LAB-8 (48), Alishba Subhani,tuesday,1:00-01:55
+CS1002,Programming Fundamentals,Lab,EE LAB-9 (48), Muhammad Nouman Hanif,tuesday,08:00-8:55
+CS4042,Computer Vision,Lab,EE LAB-9 (48),Sohail Ahmed ,tuesday,1:00-01:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,tuesday,08:00-8:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,tuesday,1:00-01:55
+N/A,Reserved Slot,for,EE LAB-11 (48),No Teacher,tuesday,08:00-8:55
+N/A,Reserved Slot,for,EE LAB-11 (48),No Teacher,tuesday,1:00-01:55
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,tuesday,08:00-8:55
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,tuesday,1:00-01:55
+CS4001,Professional Practices in IT,BCS-7C,E-1 CS (50),Kashan Hussain,wednesday,08:00-8:55
+MG3002,Financial and Strategic Project Management,BCS-7A,E-1 CS (50),Ubaid Aftab,wednesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7B,E-1 CS (50),Anaum Hamid,wednesday,10:00-10:55
+CS3002,Information Security,BSE-7B,E-1 CS (50),  Hira Tunio,wednesday,11:00-11:55
+SE4005,Software Quality Engineering,BSE-5A,E-1 CS (50), Syeda Rubab Manzar,wednesday,12:00-12:55
+CS3002,Information Security,BSE-7A,E-1 CS (50), Hira Tunio,wednesday,02:00-02:55
+CS4001,Professional Practices in IT,BCS-7D,E-2 CS (50),Sania Urooj,wednesday,08:00-8:55
+CS406,Web Programming,BCS-7A,E-2 CS (50),Ali Fatmi,wednesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7A,E-2 CS (50),Kashan Hussain,wednesday,10:00-10:55
+CS3002,Information Security,BCS-7A,E-2 CS (50),  Dr. Nausheen Shoaib,wednesday,11:00-11:55
+SE4005,Software Quality Engineering,BSE-5B,E-2 CS (50), Alina Arshad,wednesday,12:00-12:55
+MG3002,Financial and Strategic Project Management,BCS-7B,E-2 CS (50),Ubaid Aftab,wednesday,1:00-01:55
+CS3002,Information Security,BCS-7B,E-2 CS (50),Dr. Farrukh Salim,wednesday,02:00-02:55
+CS3002,Information Security,BCS-7K,E-3 CS (50),Dr. Aqsa Aslam,wednesday,08:00-8:55
+CS2001,Data Structures,BCS-7A,E-3 CS (50),Dr. Nauman Durrani,wednesday,09:00-09:55
+CS4001,Professional Practices in IT,BSE-7A,E-3 CS (50),Yusra Kaleem,wednesday,10:00-10:55
+CS3002,Information Security,BCS-7C,E-3 CS (50),  Dr. Aqsa Aslam,wednesday,11:00-11:55
+SE2002,Software Design and Architecture,BCS-5F,E-3 CS (50), Sobia Iftikhar,wednesday,12:00-12:55
+RS1002,Research Skills,BCS-7B,E-3 CS (50), Zain Ul Hassan,wednesday,1:00-01:55
+CS3002,Information Security,BCS-7G,E-3 CS (50),  Muhammad Usman,wednesday,02:00-02:55
+CS4001,Professional Practices in IT,BCS-7F,E-4 CS (50),Shahar Bano,wednesday,08:00-8:55
+CS2009,Design and Analysis of Algorithms,BAI-5B,E-4 CS (50), Minhal Raza,wednesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7E,E-4 CS (50),Sobia Iftikhar,wednesday,10:00-10:55
+CS3002,Information Security,BCS-7H,E-4 CS (50),  Muhammad Usman,wednesday,11:00-11:55
+MG3002,Financial and Strategic Project Management,BCS-7B,E-4 CS (50),Ubaid Aftab,wednesday,12:00-12:55
+CS3002,Information Security,BCS-7E,E-4 CS (50), Dr. Sufian Hameed,wednesday,02:00-02:55
+CS4001,Professional Practices in IT,BCY-7B,E-5 CS (50),Sandesh Kumar ,wednesday,08:00-8:55
+CS5001,Quantum Computing,BCS-7A,E-5 CS (50),Sumaiyah Zahid,wednesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7H,E-5 CS (50),Shahar Bano,wednesday,10:00-10:55
+CS3002,Information Security,BCS-7F,E-5 CS (50), Dr. Farrukh Salim,wednesday,11:00-11:55
+SE3001,Software System Design,BCY-7A,E-5 CS (50),AbuZar Zafar,wednesday,1:00-01:55
+CS3006,Parallel and Distributed Computing,BCY-7A,E-5 CS (50),Dr. Nadeem Kafi ,wednesday,02:00-02:55
+CS4001,Professional Practices in IT,BCY-7A,E-6 CS (50),Bilal Ahsan,wednesday,08:00-8:55
+CS4050,Information Processing Techniques,BCS-7A,E-6 CS (50), Abeeha Sattar,wednesday,09:00-09:55
+CS1005,Discrete Structures,BCS-3E,E-6 CS (50),Shoaib Raza,wednesday,10:00-10:55
+CY3001,Network and Protocol Security,BCY-5A,E-6 CS (50), Shoaib Raza,wednesday,11:00-11:55
+MT3001,Graph Theory,BCS-5G,E-6 CS (50), Urooj,wednesday,12:00-12:55
+AI3004,Natural Language Processing,BAI-7A,E-6 CS (50),Saeeda Kanwal ,wednesday,1:00-01:55
+CS3002,Information Security,BCS-7D,E-6 CS (50),Yusra Kaleem,wednesday,02:00-02:55
+CS3005,Theory of Automata,BCS-5A,E-6 CS (50),Shaharbano,wednesday,03:00-03:55
+CS4001,Professional Practices in IT,BCS-7J,R-11 CS (50),Aashir Mahboob,wednesday,08:00-8:55
+SE3001,Software System Design,BCY-7B,R-11 CS (50),,wednesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7K,R-11 CS (50),Aashir Mahboob,wednesday,10:00-10:55
+CS3006,Parallel and Distributed Computing,BCY-7B,R-11 CS (50),Dr. Ghufran Ahmed ,wednesday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5C,R-11 CS (50), Kashif,wednesday,12:00-12:55
+CS2005,Database Systems,BCY-5B,R-11 CS (50),Abeer Gauher,wednesday,1:00-01:55
+CS2009,Design and Analysis of Algorithms,BCS-5G,R-11 CS (50), Anaum Hamid,wednesday,02:00-02:55
+SS2012,Technical and Business Writing,BSE-5B,R-12 CS (70),Khadija Shireen,wednesday,08:00-8:55
+AI3003,Intelligent Agents,BCY-7A,R-12 CS (70),Ali Naseer Shah,wednesday,09:00-09:55
+AI3003,Intelligent Agents,BCY-7B,R-12 CS (70),Ali Naseer Shah,wednesday,10:00-10:55
+CS3002,Information Security,BCS-7J,R-12 CS (70),Yusra Kaleem,wednesday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BCS-5D,R-12 CS (70), Syed Faisal Ali,wednesday,1:00-01:55
+CS1005,Discrete Structures,BAI-3A,R-12 CS (70),Shoaib Raza,wednesday,02:00-02:55
+CS4030,Compiler Techniques,BAI-7A,R-109 CS (50),Dr. Shahnawaz,wednesday,08:00-8:55
+SE2002,Software Design and Architecture,BCS-5G,R-109 CS (50), Syeda Rubab Manzar,wednesday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7G,R-109 CS (50),Sania Urooj,wednesday,10:00-10:55
+CS3002,Information Security,BCS-7E,R-109 CS (50), Dr. Sufian Hameed,wednesday,11:00-11:55
+CS2005,Database Systems,BCS-5E,R-109 CS (50), Fizza Aqeel,wednesday,1:00-01:55
+MT3001,Graph Theory,BCS-5J,R-109 CS (50), Abdul Basit,wednesday,02:00-02:55
+CS4001,Professional Practices in IT,BSE-7B,A-1 EE (50),Dr. Maria Siddiqua,wednesday,08:00-8:55
+CS4042,Computer Vision,BAI-7B,A-1 EE (50),Bilal Ahsan,wednesday,09:00-09:55
+CS3006,Parallel and Distributed Computing,BCY-7A,A-1 EE (50),Dr. Nadeem Kafi ,wednesday,10:00-10:55
+MG3002,Financial and Strategic Project Management,BSE-7A,A-1 EE (50),Minhal Raza,wednesday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BCS-5M,A-1 EE (50), Dr. Fahad Sherwani,wednesday,12:00-12:55
+MT3001,Graph Theory,BCS-5M,A-1 EE (50), Urooj,wednesday,1:00-01:55
+CS3006,Parallel and Distributed Computing,BCS-5M,A-1 EE (50),Safia,wednesday,02:00-02:55
+CS3006,Parallel and Distributed Computing,BCS-5A,A-2EE (50), Safia,wednesday,08:00-8:55
+MT3001,Graph Theory,BCS-5A,A-2EE (50), Urooj,wednesday,09:00-09:55
+CS3006,Parallel and Distributed Computing,BCS-5B,A-2EE (50), Mubashra Fayyaz,wednesday,10:00-10:55
+CS4042,Computer Vision,BAI-7A,A-2EE (50),Bilal Ahsan,wednesday,11:00-11:55
+SS2012,Technical and Business Writing,BSE-5A,A-2EE (50),Khadija Shireen,wednesday,1:00-01:55
+CS2009,Design and Analysis of Algorithms,BCY-5B,A-2EE (50), Sandesh Kumar,wednesday,02:00-02:55
+CS2005,Database Systems,BCS-5B,A-3 EE (50), Atiya Jokhio,wednesday,09:00-09:55
+MG3002,Financial and Strategic Project Management,BSE-7B,A-3 EE (50),Dr. Moazzam Ali,wednesday,10:00-10:55
+CS2005,Database Systems,BCS-5A,A-3 EE (50), Atiya Jokhio,wednesday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BCS-5A,A-3 EE (50), Syed Faisal Ali,wednesday,12:00-12:55
+CS2009,Design and Analysis of Algorithms,BSE-5A,A-3 EE (50), Dr. Fahad Sherwani,wednesday,02:00-02:55
+CS2009,Design and Analysis of Algorithms,BCS-5F,A-5 EE (50), Dr. Nasir Uddin,wednesday,08:00-8:55
+MT3001,Graph Theory,BCS-5F,A-5 EE (50), Abdul Basit,wednesday,09:00-09:55
+AI3004,Natural Language Processing,BAI-7B,A-5 EE (50),Saeed Kanwal ,wednesday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BCS-5H,A-5 EE (50), Abu Zhuran,wednesday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BCS-5E,A-5 EE (50), Abu Zhuran,wednesday,12:00-12:55
+CS1005,Discrete Structures,BCS-3F,A-5 EE (50),Dr. Nouman Durrani,wednesday,1:00-01:55
+CS3006,Parallel and Distributed Computing,BCS-5K,A-6 EE (50), Dr. Nadeem Kafi Khan,wednesday,08:00-8:55
+SE2002,Software Design and Architecture,BCS-5K,A-6 EE (50), Iqra Fahad,wednesday,09:00-09:55
+CS2005,Database Systems,BCS-5L,A-6 EE (50), Zain Noureen,wednesday,10:00-10:55
+CS2005,Database Systems,BCS-5K,A-6 EE (50),Zain Noureen,wednesday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BCS-5K,A-6 EE (50), Dr. Farrukh Salim Shaikh,wednesday,12:00-12:55
+SE2002,Software Design and Architecture,BCS-5K,A-6 EE (50), Iqra Fahad,wednesday,02:00-02:55
+SE2002,Software Design and Architecture,BCS-5L,A-7 EE (50),  Javeria Farooq,wednesday,08:00-8:55
+N/A,Reserved Slot,for,A-7 EE (50),No Teacher,wednesday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BCY-5A,A-7 EE (50), Sandesh Kumar,wednesday,10:00-10:55
+AF1001,Fundamentals of Accounting,BCS-3A,A-7 EE (50),Jahangir Tanveer,wednesday,11:00-11:55
+MG1006,Principles of Economics,BCS-3B,A-7 EE (50),Dr. Mushtaq,wednesday,12:00-12:55
+CS2001,Data Structures,BCS-3A,A-7 EE (50),Ayesha Ali,wednesday,1:00-01:55
+CS1005,Discrete Structures,BCS-3A,A-7 EE (50),Dr. Nouman Durrani,wednesday,02:00-02:55
+N/A,Reserved Slot,for,A-8 EE (53),No Teacher,wednesday,08:00-8:55
+CS2005,Database Systems,BSE-5B,A-8 EE (53), Alina Arshad,wednesday,09:00-09:55
+CS2005,Database Systems,BSE-5B,A-8 EE (53), Alina Arshad,wednesday,10:00-10:55
+AF1001,Fundamentals of Accounting,BCS-3B,A-8 EE (53),Muhammad Ahsan,wednesday,11:00-11:55
+AF1001,Fundamentals of Accounting,BCS-3C,A-8 EE (53),Jahangir Tanveer,wednesday,12:00-12:55
+CS2001,Data Structures,BCS-3B,A-8 EE (53),Mubashra Fayyaz,wednesday,1:00-01:55
+MT1004,Linear Algebra,BCS-3B,A-8 EE (53),Dr. Fahad Riaz,wednesday,02:00-02:55
+CY4003,Digital Forensics,BCY-5A,C-14 EE (50), Dr. Shahbaz Siddiqui,wednesday,08:00-8:55
+CS2005,Database Systems,BCY-5A,C-14 EE (50),Abeer Gauher,wednesday,09:00-09:55
+SE2002,Software Design and Architecture,BCS-5D,C-14 EE (50), Engr. Abdul Rahman,wednesday,10:00-10:55
+MG1001,Fundamentals of Management,BCS-3A,C-14 EE (50),Ahsan Ali Abbasi,wednesday,11:00-11:55
+MG1001,Fundamentals of Management,BCS-3B,C-14 EE (50),Ahsan Ali Abbasi,wednesday,12:00-12:55
+CS2001,Data Structures,BCS-3D,C-14 EE (50),Farrukh Hassan Syed,wednesday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,BCS-3C,C-14 EE (50),Nauraiz Subhan,wednesday,03:00-03:55
+CS2009,Design and Analysis of Algorithms,BCS-5M,C-16 EE (50), Dr. Fahad Sherwani,wednesday,08:00-8:55
+SE2002,Software Design and Architecture,BCS-5M,C-16 EE (50), Fizza Aqeel,wednesday,09:00-09:55
+CS2005,Database Systems,BCS-5F,C-16 EE (50), Fizza Aqeel,wednesday,10:00-10:55
+MG1006,Principles of Economics,BCS-3A,C-16 EE (50),Dr. Mushtaq,wednesday,11:00-11:55
+MG1006,Principles of Economics,BCS-3C,C-16 EE (50),Michael Simon,wednesday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5F,C-16 EE (50), Mubashra Fayyaz,wednesday,02:00-02:55
+EE2003,Computer Organization and Assembly Language,BCS-3D,C-16 EE (50),Kashan Hussain,wednesday,03:00-03:55
+CS2005,Database Systems,BAI-5A,C-17 EE (59),Omer Qureshi,wednesday,08:00-8:55
+CS2009,Design and Analysis of Algorithms,BAI-5A,C-17 EE (59), Dr. Kamran,wednesday,09:00-09:55
+CS3006,Parallel and Distributed Computing,BCS-5G,C-17 EE (59),Dr. Ghufran,wednesday,10:00-10:55
+MT3001,Graph Theory,BCS-5D,C-17 EE (59), Dr. Nazish Kanwal,wednesday,11:00-11:55
+MT3001,Graph Theory,BCS-5B,C-17 EE (59), Dr. Nazish Kanwal,wednesday,12:00-12:55
+MT3001,Graph Theory,BCS-5C,C-17 EE (59), Dr. Nazish Kanwal,wednesday,1:00-01:55
+MT1004,Linear Algebra,BCS-3F,C-17 EE (59),Dr. Khusro Mian,wednesday,02:00-02:55
+CS2005,Database Systems,BAI-5B,C-18 EE (50), Basit Ali,wednesday,08:00-8:55
+CS2005,Database Systems,BCS-5H,C-18 EE (50), Javeria Farooq,wednesday,09:00-09:55
+CS3006,Parallel and Distributed Computing,BCS-5H,C-18 EE (50), Safia,wednesday,10:00-10:55
+SE2002,Software Design and Architecture,BCS-5L,C-18 EE (50),  Javeria Farooq,wednesday,11:00-11:55
+MT1004,Linear Algebra,BCY-3B,C-18 EE (50),Muhammad Amjad,wednesday,1:00-01:55
+CY2004,Cybersecurity,BCY-3A,C-18 EE (50),Dr. Fahad Samad,wednesday,02:00-02:55
+CY2004,Cybersecurity,BCY-3B,C-18 EE (50),Dr. Fahad Samad,wednesday,03:00-03:55
+CS2009,Design and Analysis of Algorithms,BAI-5C,C-19 EE (50), Dr. Kamran,wednesday,08:00-8:55
+RS1002,Research Skills,BCS-7A,C-19 EE (50),Zain Ul Hassan,wednesday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BCS-5J,C-19 EE (50), Dr. Fahad Sherwani,wednesday,11:00-11:55
+CS1005,Discrete Structures,BCS-3H,C-19 EE (50),Jamil Usmani,wednesday,02:00-02:55
+MT1004,Linear Algebra,BCS-3H,C-19 EE (50),Fareeha Sultan,wednesday,03:00-03:55
+MT1004,Linear Algebra,BCY-3A,C-21 EE (50),Fareeha Sultan,wednesday,08:00-8:55
+CS1005,Discrete Structures,BCS-3J,C-21 EE (50),Jamil Usmani,wednesday,09:00-09:55
+CS2005,Database Systems,BCS-5M,C-21 EE (50), Basit Ali,wednesday,10:00-10:55
+SS2012,Technical and Business Writing,BAI-5A,C-21 EE (50),Javeria Ali,wednesday,11:00-11:55
+CS2001,Data Structures,BCY-3A,C-21 EE (50),Nouman Rajput,wednesday,12:00-12:55
+MT1004,Linear Algebra,BCY-3A,C-21 EE (50),Fareeha Sultan,wednesday,1:00-01:55
+N/A,Reserved Slot,for,D-22 EE (50),No Teacher,wednesday,08:00-8:55
+MT1004,Linear Algebra,BCY-3B,D-22 EE (50),Muhammad Amjad,wednesday,09:00-09:55
+EE2003,Computer Organization and Assembly Language,BCY-3B,D-22 EE (50),Kariz Kamal,wednesday,10:00-10:55
+AI3002,Machine Learning,BAI-5B,D-22 EE (50),Dr. Maria Siddiqua,wednesday,11:00-11:55
+MT1004,Linear Algebra,BAI-3A,D-22 EE (50),Dr. Fahad Riaz,wednesday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,BCY-3A,D-23 EE (50),Muhammad Usman ,wednesday,09:00-09:55
+CS2005,Database Systems,BAI-5C,D-23 EE (50),Omer Qureshi,wednesday,10:00-10:55
+AI3002,Machine Learning,BAI-5C,D-23 EE (50),Sania Urooj,wednesday,11:00-11:55
+EE2003,Computer Organization and Assembly Language,BCS-3E,D-23 EE (50),Kariz Kamal,wednesday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,BCS-3E,D-23 EE (50),Kariz Kamal,wednesday,02:00-02:55
+SE3003,Software Requirements Engineering,BSE-3A,D-24 EE (50),Dr. Moazzam,wednesday,09:00-09:55
+SS2018,Psychology,BSE-3A,D-24 EE (50),Kauser Malik,wednesday,10:00-10:55
+CS2001,Data Structures,BSE-3A,D-24 EE (50),Dr. Abdul Aziz,wednesday,11:00-11:55
+CS2001,Data Structures,BCS-3E,D-25 EE (50),Farrukh Hassan Syed,wednesday,09:00-09:55
+SS2043,Civics and Community Engagement,BAI-3A,D-25 EE (50),Kauser Malik,wednesday,11:00-11:55
+CS2001,Data Structures,BCS-3F,D-26 EE (50),Dr. Jawwad Ahmed Shamsi,wednesday,09:00-09:55
+EE2003,Computer Organization and Assembly Language,BCS-3F,D-26 EE (50),Nauraiz Subhan,wednesday,10:00-10:55
+SS2009,Ethics and Professional Practices,BCS-1N,D-26 EE (50), Dr. Shahnawaz,wednesday,11:00-11:55
+SS2009,Ethics and Professional Practices,BCS-1N,D-26 EE (50), Dr. Shahnawaz,wednesday,12:00-12:55
+MT1004,Linear Algebra,BCS-3G,D-27 EE (50),Muhammad Amjad,wednesday,08:00-8:55
+CS2001,Data Structures,BCS-3G,D-27 EE (50),Rafia Shaikh,wednesday,09:00-09:55
+EE2003,Computer Organization and Assembly Language,BCS-3G,D-27 EE (50),Atiya Jokhio,wednesday,10:00-10:55
+CS2001,Data Structures,BCS-3H,D-28 EE (50),Dr. Abdul Aziz,wednesday,09:00-09:55
+EE2003,Computer Organization and Assembly Language,BCS-3H,D-28 EE (50),Shoaib Rauf,wednesday,10:00-10:55
+EE2003,Computer Organization and Assembly Language,BCS-3J,E-29EE (52),Shoaib Rauf,wednesday,08:00-8:55
+MT1004,Linear Algebra,BCS-3J,E-29EE (52),Dr. Khusro Mian,wednesday,10:00-10:55
+N/A,Reserved Slot,for,E-30 EE (52),No Teacher,wednesday,09:00-09:55
+N/A,Reserved Slot,for,E-32 EE (52),No Teacher,wednesday,08:00-8:55
+MG2010,Business Communication,BCS-7A,CS LAB-1 (56),Dr. Shahbaz Siddiqui,wednesday,09:00-09:55
+N/A,Reserved Slot,for,CS LAB-1 (56),No Teacher,wednesday,10:00-10:55
+CS4040,Computer Vision Lab,BAI-7B,CS LAB-1 (56),Sohail Ahmed ,wednesday,1:00-01:55
+AI3001,Principles of Artificial Intelligence,Lab,CS LAB-2 (48),Mehak Mazhar,wednesday,08:00-8:55
+CS4050,Information Processing Techniques,BCS-7B,CS LAB-2 (48),Abeeha Sattar,wednesday,12:00-12:55
+SE3001,Software System Design,Lab,CS LAB-2 (48),Waseem Rauf ,wednesday,1:00-01:55
+CS2005,Database Systems,Lab,CS LAB-3 (48), Fatima Gado,wednesday,08:00-8:55
+CS2005,Database Systems,Lab,CS LAB-3 (48),Mubashir,wednesday,1:00-01:55
+CS2005,Database Systems,Lab,CS LAB-4 (48),Syeda Mahnoor Javed,wednesday,08:00-8:55
+CS2005,Database Systems,Lab,CS LAB-4 (48),Sameer Faisal,wednesday,1:00-01:55
+CS2001,Data Structures,Lab,CS LAB-5 (48),Muhammad Khalid,wednesday,08:00-8:55
+CS2001,Data Structures,Lab,CS LAB-5 (48),Shafique Rehman,wednesday,1:00-01:55
+CS2001,Data Structures,Lab,CS LAB-6 (56),Alishba Subani,wednesday,08:00-8:55
+CS2001,Data Structures,Lab,CS LAB-6 (56),Misbah Haider,wednesday,1:00-01:55
+CS2001,Data Structures,Lab,EE LAB-7 (54),Shafique Rehman,wednesday,08:00-8:55
+CS2005,Database Systems,Lab,EE LAB-7 (54), Filza Akhlaq,wednesday,1:00-01:55
+CY4003,Digital Forensics,Lab,EE LAB-8 (48), Muhammad Nouman Rajput,wednesday,08:00-8:55
+CS2005,Database Systems,Lab,EE LAB-8 (48),Mehak Mazhar,wednesday,1:00-01:55
+CS2005,Database Systems,Lab,EE LAB-9 (48), Syeda Ravia Ejaz,wednesday,08:00-8:55
+CY4003,Digital Forensics,Lab,EE LAB-9 (48), Muhammad Ali,wednesday,1:00-01:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,wednesday,08:00-8:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,wednesday,1:00-01:55
+CS2001,Data Structures,Lab,EE LAB-11 (48),Sameer Faisal,wednesday,08:00-8:55
+CY2004,Cybersecurity,BCY-3A,EE LAB-11 (48),Dr. Fahad Samad,wednesday,11:00-11:55
+CY2004,Cybersecurity,BCY-3B,EE LAB-11 (48),Dr. Fahad Samad,wednesday,12:00-12:55
+CS2001,Data Structures,Lab,EE LAB-11 (48),Zainab Asif,wednesday,1:00-01:55
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,wednesday,08:00-8:55
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,wednesday,1:00-01:55
+CS4001,Professional Practices in IT,BCY-7B,E-1 CS (50),Sandesh Kumar ,thursday,08:00-8:55
+CS5001,Quantum Computing,BCS-7A,E-1 CS (50), Sumaiyah Zahid,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BSE-7B,E-1 CS (50),Dr. Maria Siddiqua,thursday,10:00-10:55
+CS3002,Information Security,BSE-7A,E-1 CS (50), Hira Tunio,thursday,11:00-11:55
+CY4002,Ethical Hacking,BCY-5A,E-1 CS (50), Abuzar Zafar,thursday,12:00-12:55
+CS4050,Information Processing Techniques,BCS-7B,E-1 CS (50), Abeeha Sattar,thursday,1:00-01:55
+CS3002,Information Security,BSE-7B,E-1 CS (50),  Hira Tunio,thursday,02:00-02:55
+CS4001,Professional Practices in IT,BCY-7A,E-2 CS (50),Bilal Ahsan,thursday,08:00-8:55
+CS4050,Information Processing Techniques,BCS-7A,E-2 CS (50), Abeeha Sattar,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7C,E-2 CS (50),Kashan Hussain,thursday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BAI-5A,E-2 CS (50),Dr. Kamran ,thursday,11:00-11:55
+AI4006,Knowledge and Knowledge Representation,BAI-5B,E-2 CS (50), Adil Sheraz,thursday,12:00-12:55
+RS1002,Research Skills,BCS-7B,E-2 CS (50), Zain Ul Hassan,thursday,1:00-01:55
+CS3002,Information Security,BCS-7K,E-2 CS (50),  Dr. Aqsa Aslam,thursday,02:00-02:55
+CS4001,Professional Practices in IT,BCS-7A,E-3 CS (50),Kashan Hussain,thursday,08:00-8:55
+CS2001,Data Structures,BCS-7A,E-3 CS (50),Dr. Nauman Durrani,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7D,E-3 CS (50), Sania Urooj,thursday,10:00-10:55
+CS3002,Information Security,BCS-7A,E-3 CS (50),  Dr. Nausheen Shoaib,thursday,11:00-11:55
+CS4055,System Concept and Design,BSE-5A,E-3 CS (50), Ali Fatmi,thursday,12:00-12:55
+CS1005,Discrete Structures,BCS-3E,E-3 CS (50),Shoaib Raza,thursday,1:00-01:55
+CS3002,Information Security,BCS-7B,E-3 CS (50),Dr. Farrukh Salim,thursday,02:00-02:55
+SE3001,Software System Design,BCY-7B,E-3 CS (50),,thursday,03:00-03:55
+MG2010,Business Communication,BCS-7A,E-4 CS (50),Dr. Shahbaz Siddiqui,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7B,E-4 CS (50),Anaum Hamid,thursday,10:00-10:55
+CS3002,Information Security,BCS-7C,E-4 CS (50),  Dr. Aqsa Aslam,thursday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCY-7B,E-4 CS (50),Dr. Ghufran Ahmed ,thursday,1:00-01:55
+CS3002,Information Security,BCS-7G,E-4 CS (50), Muhammad Usman,thursday,02:00-02:55
+CS4001,Professional Practices in IT,BCS-7G,E-5 CS (50),Sania Urooj,thursday,08:00-8:55
+CS406,Web Programming,BCS-7A,E-5 CS (50),Ali Fatmi,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7H,E-5 CS (50),Shahar Bano,thursday,10:00-10:55
+CS3002,Information Security,BCS-7F,E-5 CS (50),Dr. Farrukh Salim,thursday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5F,E-5 CS (50), Mubashra Fayyaz,thursday,12:00-12:55
+CS4042,Computer Vision,BAI-7A,E-5 CS (50),Bilal Ahsan,thursday,1:00-01:55
+CS3002,Information Security,BCS-7D,E-5 CS (50),Yusra Kaleem,thursday,02:00-02:55
+CS4001,Professional Practices in IT,BCS-7F,E-6 CS (50),Shahar Bano,thursday,08:00-8:55
+CS1005,Discrete Structures,BAI-3A,E-6 CS (50),Shoaib Raza,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7J,E-6 CS (50), Aashir Mahboob,thursday,10:00-10:55
+CS3002,Information Security,BCS-7H,E-6 CS (50),  Muhammad Usman,thursday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5J,E-6 CS (50), Dr. Nausheen Shoaib,thursday,12:00-12:55
+AI3004,Natural Language Processing,BAI-7B,E-6 CS (50),Saeeda Kanwal ,thursday,1:00-01:55
+MG1001,Fundamentals of Management,BAI-7A,E-6 CS (50),Ahsan Ali,thursday,02:00-02:55
+MG1001,Fundamentals of Management,BAI-7A,E-6 CS (50),Ahsan Ali,thursday,03:00-03:55
+CS4001,Professional Practices in IT,BCS-7K,R-11 CS (50), Aashir Mahboob,thursday,08:00-8:55
+CS2001,Data Structures,BCS-3F,R-11 CS (50),Dr. Jawwad Shamsi,thursday,09:00-09:55
+SS2012,Technical and Business Writing,BSE-5A,R-11 CS (50),Khadija Shireen,thursday,10:00-10:55
+CS3002,Information Security,BCS-7J,R-11 CS (50),Yusra Kaleem,thursday,11:00-11:55
+CS2009,Design and Analysis of Algorithms,BSE-5B,R-11 CS (50), Minhal Raza,thursday,12:00-12:55
+SS2012,Technical and Business Writing,BSE-5B,R-11 CS (50),Khadija Shireen,thursday,1:00-01:55
+AI3003,Intelligent Agents,BCY-7B,R-11 CS (50),Ali Naseer Shah,thursday,02:00-02:55
+MG3002,Financial and Strategic Project Management,BSE-7A,R-12 CS (70),Minhal Raza ,thursday,08:00-8:55
+AI4006,Knowledge and Knowledge Representation,BAI-5A,R-12 CS (70), Dr. Muhammad Rafi,thursday,09:00-09:55
+AI3004,Natural Language Processing,BAI-7A,R-12 CS (70),Saeeda Kanwal ,thursday,10:00-10:55
+AI3003,Intelligent Agents,BCY-7A,R-12 CS (70),Ali Naseer Shah,thursday,11:00-11:55
+MT3001,Graph Theory,BCS-5K,R-12 CS (70), Abdul Basit,thursday,12:00-12:55
+MT3001,Graph Theory,BCS-5K,R-12 CS (70), Abdul Basit,thursday,1:00-01:55
+MT3001,Graph Theory,BCS-5F,R-12 CS (70), Abdul Basit,thursday,02:00-02:55
+SE2002,Software Design and Architecture,BCS-5M,R-109 CS (50), Fizza Aqeel,thursday,08:00-8:55
+CS2005,Database Systems,BSE-5A,R-109 CS (50), Alina Arshad,thursday,09:00-09:55
+MG3002,Financial and Strategic Project Management,BSE-7B,R-109 CS (50),Dr. Moazzam Ali,thursday,10:00-10:55
+CS3006,Parallel and Distributed Computing,BCS-5D,R-109 CS (50), Kashif,thursday,11:00-11:55
+AI4006,Knowledge and Knowledge Representation,BAI-5C,R-109 CS (50), Adil Sheraz,thursday,1:00-01:55
+CS2006,Operating Systems,BCS-5L,R-109 CS (50),Rabia Ansari,thursday,02:00-02:55
+CS2006,Operating Systems,BCS-5L,R-109 CS (50),Rabia Ansari,thursday,03:00-03:55
+SS2012,Technical and Business Writing,BAI-5A,A-1 EE (50),Javeria Ali,thursday,08:00-8:55
+RS1002,Research Skills,BCS-7A,A-1 EE (50),Zain Ul Hassan,thursday,09:00-09:55
+CS4042,Computer Vision,BAI-7B,A-1 EE (50),,thursday,10:00-10:55
+CS3006,Parallel and Distributed Computing,BCS-5G,A-1 EE (50),Dr. Ghufran,thursday,11:00-11:55
+MT3001,Graph Theory,BCS-5E,A-1 EE (50), Urooj,thursday,12:00-12:55
+CY4003,Digital Forensics,BCY-5A,A-1 EE (50), Dr. Shahbaz Siddiqui,thursday,1:00-01:55
+AI3002,Machine Learning,BAI-5C,A-1 EE (50),Sania Urooj,thursday,02:00-02:55
+SE3001,Software System Design,BCY-7A,A-2EE (50),,thursday,08:00-8:55
+CS2001,Data Structures,BCS-3J,A-2EE (50),Dr. Abdul Aziz,thursday,09:00-09:55
+NS1001,Applied Physics,BDS-1A,A-2EE (50), Javid Qureshi,thursday,10:00-10:55
+CS3006,Parallel and Distributed Computing,BCS-5A,A-2EE (50), Safia,thursday,11:00-11:55
+NS1001,Applied Physics,BDS-1B,A-2EE (50), Javid Qureshi,thursday,12:00-12:55
+CS2009,Design and Analysis of Algorithms,BCY-5B,A-2EE (50), Sandesh Kumar,thursday,1:00-01:55
+CS2005,Database Systems,BCS-5D,A-2EE (50),Dr. Anam Qureshi,thursday,02:00-02:55
+SS2012,Technical and Business Writing,BSE-5A,A-3 EE (50),Khadija Shireen,thursday,08:00-8:55
+MT3001,Graph Theory,BCS-5M,A-3 EE (50), Urooj,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BSE-7A,A-3 EE (50), Yusra Kaleem,thursday,10:00-10:55
+CS3006,Parallel and Distributed Computing,BCS-5K,A-3 EE (50), Dr. Nadeem Kafi Khan,thursday,11:00-11:55
+SE2002,Software Design and Architecture,BCS-5B,A-3 EE (50), Dr. Imran Ali Bhatti,thursday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5B,A-3 EE (50), Mubashra Fayyaz,thursday,1:00-01:55
+CS4055,System Concept and Design,BSE-5B,A-3 EE (50), Ali Fatmi,thursday,02:00-02:55
+MT3001,Graph Theory,BCS-5A,A-5 EE (50), Urooj,thursday,08:00-8:55
+CS2005,Database Systems,BCS-5C,A-5 EE (50),Dr. Anam Qureshi,thursday,09:00-09:55
+MT3001,Graph Theory,BCS-5B,A-5 EE (50), Dr. Nazish Kanwal,thursday,10:00-10:55
+CS2006,Operating Systems,BCS-5B,A-5 EE (50),Usama bin Umer,thursday,11:00-11:55
+CS2001,Data Structures,BCS-3C,A-5 EE (50),Ayesha Ali,thursday,12:00-12:55
+MT3001,Graph Theory,BCS-5D,A-5 EE (50), Dr. Nazish Kanwal,thursday,1:00-01:55
+MT3001,Graph Theory,BCS-5C,A-5 EE (50), Dr. Nazish Kanwal,thursday,02:00-02:55
+MT3001,Graph Theory,BCS-5C,A-5 EE (50), Dr. Nazish Kanwal,thursday,03:00-03:55
+CS2001,Data Structures,BCS-3C,A-6 EE (50),Ayesha Ali,thursday,08:00-8:55
+SE2002,Software Design and Architecture,BCS-5D,A-6 EE (50), Engr. Abdul Rahman,thursday,09:00-09:55
+SE2002,Software Design and Architecture,BCS-5C,A-6 EE (50), Engr. Abdul Rahman,thursday,10:00-10:55
+CS2006,Operating Systems,BCS-5L,A-6 EE (50),Rabia Ansari,thursday,11:00-11:55
+MT3001,Graph Theory,BCS-5L,A-6 EE (50), Moheez ur Rahim,thursday,12:00-12:55
+CS2009,Design and Analysis of Algorithms,BCS-5G,A-6 EE (50), Anaum Hamid,thursday,1:00-01:55
+MT3001,Graph Theory,BCS-5G,A-6 EE (50), Urooj,thursday,02:00-02:55
+CS2006,Operating Systems,BCS-5A,A-6 EE (50),Saeeda Kanwal,thursday,03:00-03:55
+CS2005,Database Systems,BCS-5D,A-7 EE (50),Dr. Anam Qureshi,thursday,10:00-10:55
+SS1012,Functional English,BCY-1A,A-7 EE (50),Madiha Rehman ,thursday,11:00-11:55
+CS3006,Parallel and Distributed Computing,BCS-5H,A-7 EE (50), Safia,thursday,12:00-12:55
+MT3001,Graph Theory,BCS-5H,A-7 EE (50), Moheez ur Rahim,thursday,1:00-01:55
+SE2002,Software Design and Architecture,BCS-5E,A-8 EE (53), Sobia Iftikhar,thursday,09:00-09:55
+SS2012,Technical and Business Writing,BAI-5C,A-8 EE (53),Javeria Ali,thursday,11:00-11:55
+SS2012,Technical and Business Writing,BAI-5C,A-8 EE (53),Javeria Ali,thursday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5E,A-8 EE (53), Dr. Nausheen Shoaib,thursday,1:00-01:55
+SE2002,Software Design and Architecture,BCS-5J,A-8 EE (53), Engr. Abdul Rahman,thursday,02:00-02:55
+CY4003,Digital Forensics,BCY-5B,C-14 EE (50), Dr. Shahbaz Siddiqui,thursday,08:00-8:55
+CS3006,Parallel and Distributed Computing,BCS-5G,C-14 EE (50),Dr. Ghufran,thursday,09:00-09:55
+CS2005,Database Systems,BCS-5F,C-14 EE (50), Fizza Aqeel,thursday,10:00-10:55
+CS2005,Database Systems,BCS-5J,C-14 EE (50), Javeria Farooq,thursday,11:00-11:55
+CS2006,Operating Systems,BCS-5A,C-14 EE (50),Saeeda Kanwal,thursday,12:00-12:55
+SS2012,Technical and Business Writing,BAI-5B,C-14 EE (50),Javeria Ali,thursday,1:00-01:55
+CS2009,Design and Analysis of Algorithms,BAI-5B,C-14 EE (50), Minhal Raza,thursday,02:00-02:55
+CS2005,Database Systems,BCS-5H,C-16 EE (50), Javeria Farooq,thursday,08:00-8:55
+SE2002,Software Design and Architecture,BCS-5H,C-16 EE (50), Syeda Rubab Manzar,thursday,09:00-09:55
+SE2002,Software Design and Architecture,BCS-5G,C-16 EE (50), Syeda Rubab Manzar,thursday,10:00-10:55
+N/A,Reserved Slot,for,C-16 EE (50),No Teacher,thursday,12:00-12:55
+N/A,Reserved Slot,for,C-16 EE (50),No Teacher,thursday,1:00-01:55
+CS4030,Compiler Techniques,BAI-7A,C-16 EE (50),Dr. Shahnawaz,thursday,02:00-02:55
+CS4030,Compiler Techniques,BAI-7A,C-16 EE (50),Dr. Shahnawaz,thursday,03:00-03:55
+SE2002,Software Design and Architecture,BCS-5K,C-17 EE (59), Iqra Fahad,thursday,08:00-8:55
+SE2002,Software Design and Architecture,BCS-5B,C-17 EE (59), Dr. Imran Ali Bhatti,thursday,09:00-09:55
+SE2002,Software Design and Architecture,BCS-5A,C-17 EE (59), Dr. Imran Ali Bhatti,thursday,10:00-10:55
+CS2009,Design and Analysis of Algorithms,BCS-5C,C-17 EE (59), Anaum Hamid,thursday,12:00-12:55
+CS3006,Parallel and Distributed Computing,BCS-5C,C-17 EE (59), Kashif,thursday,1:00-01:55
+CS2005,Database Systems,BCY-5B,C-17 EE (59),Abeer Gauher,thursday,02:00-02:55
+CS2009,Design and Analysis of Algorithms,BCS-5L,C-18 EE (50), Dr. Nasir Uddin,thursday,09:00-09:55
+CS3006,Parallel and Distributed Computing,BCS-5L,C-18 EE (50),  Syed Faisal Ali,thursday,10:00-10:55
+CS1002,Programming Fundamentals,BDS-1B,C-18 EE (50), Dr. Farrukh Shahid,thursday,11:00-11:55
+SE2002,Software Design and Architecture,BCS-5F,C-18 EE (50), Sobia Iftikhar,thursday,1:00-01:55
+CS1002,Programming Fundamentals,BDS-1B,C-19 EE (50), Dr. Farrukh Shahid,thursday,08:00-8:55
+CS1002,Programming Fundamentals,BDS-1A,C-19 EE (50), Dr. Farrukh Shahid,thursday,09:00-09:55
+CS2009,Design and Analysis of Algorithms,BAI-5C,C-19 EE (50), Dr. Kamran,thursday,10:00-10:55
+MT1004,Linear Algebra,BCS-3F,C-19 EE (50),Dr. Khusro Mian,thursday,11:00-11:55
+MT1004,Linear Algebra,BCS-3E,C-19 EE (50),Dr. Khusro Mian,thursday,12:00-12:55
+CS2001,Data Structures,BAI-3A,C-19 EE (50),Rafia Shaikh,thursday,1:00-01:55
+SS2043,Civics and Community Engagement,BAI-3A,C-19 EE (50),Kauser Malik,thursday,02:00-02:55
+MT1004,Linear Algebra,BCS-3B,C-19 EE (50),Dr. Fahad Riaz,thursday,03:00-03:55
+CS2001,Data Structures,BAI-3A,C-21 EE (50),Rafia Shaikh,thursday,08:00-8:55
+CS2001,Data Structures,BCS-3G,C-21 EE (50),Rafia Shaikh,thursday,09:00-09:55
+CS3002,Information Security,BCY-5B,C-21 EE (50), Usama Antuley,thursday,10:00-10:55
+SS2018,Psychology,BSE-3A,C-21 EE (50),Kauser Malik,thursday,11:00-11:55
+MT1004,Linear Algebra,BAI-3A,C-21 EE (50),Dr. Fahad Riaz,thursday,12:00-12:55
+N/A,Reserved Slot,for,C-21 EE (50),No Teacher,thursday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,BCS-3B,C-21 EE (50),Kashan Hussain,thursday,02:00-02:55
+EE2003,Computer Organization and Assembly Language,BCY-3A,D-22 EE (50),Muhammad Usman ,thursday,08:00-8:55
+MT1004,Linear Algebra,BCS-3C,D-22 EE (50),Jamil Usmani,thursday,09:00-09:55
+CS2001,Data Structures,BCY-3A,D-22 EE (50),Nouman Rajput,thursday,10:00-10:55
+SS2043,Civics and Community Engagement,BCY-3A,D-22 EE (50),Rabia Ejaz,thursday,11:00-11:55
+CS1005,Discrete Structures,BCS-3B,D-22 EE (50),Fahad Hussain,thursday,12:00-12:55
+MT1004,Linear Algebra,BCS-3B,D-22 EE (50),Dr. Fahad Riaz,thursday,1:00-01:55
+CS2001,Data Structures,BCS-3A,D-22 EE (50),Ayesha Ali,thursday,02:00-02:55
+SE3003,Software Requirements Engineering,BSE-3A,D-23 EE (50),Dr. Moazzam,thursday,08:00-8:55
+SE3003,Software Requirements Engineering,BSE-3A,D-23 EE (50),Dr. Moazzam,thursday,09:00-09:55
+SS2018,Psychology,BAI-3A,D-23 EE (50),Aqsa Fayyaz,thursday,10:00-10:55
+CS1005,Discrete Structures,BCS-3D,D-23 EE (50),Bakhtawer,thursday,11:00-11:55
+CS1005,Discrete Structures,BCS-3D,D-23 EE (50),Bakhtawer,thursday,12:00-12:55
+EE2003,Computer Organization and Assembly Language,BCS-3C,D-23 EE (50),Nauraiz Subhan,thursday,02:00-02:55
+MT1004,Linear Algebra,BCS-3J,D-24 EE (50),Dr. Khusro Mian,thursday,08:00-8:55
+MT1004,Linear Algebra,BCS-3D,D-24 EE (50),Muhammad Amjad,thursday,09:00-09:55
+CS1005,Discrete Structures,BCS-3F,D-24 EE (50),Dr. Nouman Durrani,thursday,10:00-10:55
+CS1005,Discrete Structures,BCS-3J,D-24 EE (50),Jamil Usmani,thursday,11:00-11:55
+CS1005,Discrete Structures,BCS-3A,D-24 EE (50),Dr. Nouman Durrani,thursday,12:00-12:55
+CS1005,Discrete Structures,BCS-3C,D-24 EE (50),Bakhtawer,thursday,1:00-01:55
+MT1004,Linear Algebra,BCS-3D,D-24 EE (50),Muhammad Amjad,thursday,02:00-02:55
+CS2001,Data Structures,BCY-3B,D-25 EE (50),Nouman Rajput,thursday,08:00-8:55
+N/A,University Orientation Quiz,BSE-1B,D-25 EE (50), Dr. Shahzad Shaikh,thursday,09:00-09:55
+MT1004,Linear Algebra,BCS-3G,D-25 EE (50),Muhammad Amjad,thursday,10:00-10:55
+EE2003,Computer Organization and Assembly Language,BCY-3B,D-25 EE (50),Kariz Kamal,thursday,11:00-11:55
+CS1005,Discrete Structures,BCS-3H,D-25 EE (50),Jamil Usmani,thursday,12:00-12:55
+CS3002,Information Security,BCY-5A,D-25 EE (50), Usama Antuley,thursday,02:00-02:55
+N/A,University Orientation Quiz,BDS-1B,D-26 EE (50), Dr. Hassan Saeed,thursday,09:00-09:55
+MT1004,Linear Algebra,BSE-3A,D-26 EE (50),Alishba Tariq,thursday,10:00-10:55
+N/A,Reserved Slot,for,D-26 EE (50),No Teacher,thursday,11:00-11:55
+N/A,Reserved Slot,for,D-26 EE (50),No Teacher,thursday,12:00-12:55
+SS2043,Civics and Community Engagement,BSE-3A,D-26 EE (50),Rabia Ejaz,thursday,1:00-01:55
+SS2043,Civics and Community Engagement,BSE-3A,D-26 EE (50),Rabia Ejaz,thursday,02:00-02:55
+NS1001,Applied Physics,BCS-1A,D-27 EE (50),  Ishtiaq Ahmed,thursday,08:00-8:55
+CS1002,Programming Fundamentals,BCS-1A,D-27 EE (50), Basit Ali,thursday,09:00-09:55
+CS1002,Programming Fundamentals,BCS-1F,D-27 EE (50), Sumaiyah Zahid,thursday,10:00-10:55
+SS1012,Functional English,BCS-1A,D-27 EE (50), Nazia Imam,thursday,11:00-11:55
+MT1003,Calculus and Analytical Geometry,BCS-1A,D-27 EE (50), Mairaj,thursday,1:00-01:55
+N/A,University Orientation Session,BCS-1A,D-27 EE (50),Muhammad Hasham,thursday,02:00-02:55
+HU127,Ideology and Constitution of Pakistan,BCS-1A,D-27 EE (50), Amna Ali,thursday,03:00-03:55
+CS1002,Programming Fundamentals,BCS-1K,D-28 EE (50), Sumaiyah Zahid,thursday,08:00-8:55
+CS1002,Programming Fundamentals,BCS-1C,D-28 EE (50), Farooq Ahmed Zaidi,thursday,09:00-09:55
+NS1001,Applied Physics,BCS-1C,D-28 EE (50),  Ishtiaq Ahmed,thursday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BCS-1C,D-28 EE (50), Mairaj,thursday,11:00-11:55
+CS1002,Programming Fundamentals,BCS-1B,D-28 EE (50), Nauraiz Subhan,thursday,12:00-12:55
+NS1001,Applied Physics,BCS-1B,D-28 EE (50),  Ishtiaq Ahmed,thursday,1:00-01:55
+MT1003,Calculus and Analytical Geometry,BCS-1B,D-28 EE (50), Mairaj,thursday,02:00-02:55
+CS1002,Programming Fundamentals,BCS-1H,E-29EE (52),  Fahad Hussain,thursday,08:00-8:55
+MT1003,Calculus and Analytical Geometry,BCS-1H,E-29EE (52), Shahid Ashraf,thursday,09:00-09:55
+MT1003,Calculus and Analytical Geometry,BCS-1H,E-29EE (52), Shahid Ashraf,thursday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BCS-1F,E-29EE (52),Shahid Ashraf,thursday,11:00-11:55
+CS1002,Programming Fundamentals,BCS-1D,E-29EE (52), Zain Noureen,thursday,12:00-12:55
+MT1003,Calculus and Analytical Geometry,BCS-1D,E-29EE (52), Usama Antuley,thursday,1:00-01:55
+HU127,Ideology and Constitution of Pakistan,BCS-1J,E-30 EE (52), Kashif Ahmed,thursday,09:00-09:55
+NS1001,Applied Physics,BCS-1J,E-30 EE (52), Rabia Tabassum,thursday,10:00-10:55
+N/A,University Orientation Session,BCS-1J,E-30 EE (52), Dr. Shahzad Shaikh,thursday,11:00-11:55
+CS1002,Programming Fundamentals,BCS-1E,E-30 EE (52), Rafia Shaikh,thursday,12:00-12:55
+NS1001,Applied Physics,BCS-1E,E-30 EE (52), Muhammad Rahim,thursday,1:00-01:55
+SS1007,Islamic Studies/Ethics,BDS-1B,E-30 EE (52), Dr. Hassan Saeed,thursday,02:00-02:55
+MT1003,Calculus and Analytical Geometry,BDS-1B,E-30 EE (52), Uzma Saleh,thursday,03:00-03:55
+NS1001,Applied Physics,BSE-1A,E-31 EE (52), Rabia Tabassum,thursday,08:00-8:55
+CS1002,Programming Fundamentals,BSE-1A,E-31 EE (52), Iqra Fahad,thursday,09:00-09:55
+HU127,Ideology and Constitution of Pakistan,BCS-1K,E-31 EE (52), Dr. Shahnawaz,thursday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BCS-1K,E-31 EE (52), Nadeem Khan,thursday,11:00-11:55
+HU127,Ideology and Constitution of Pakistan,BCS-1G,E-31 EE (52), Kashif Ahmed,thursday,12:00-12:55
+NS1001,Applied Physics,BCS-1G,E-31 EE (52), Muhammad Rahim,thursday,02:00-02:55
+CS1002,Programming Fundamentals,BCS-1G,E-31 EE (52), Bakhtawer,thursday,03:00-03:55
+N/A,Reserved Slot,for,E-32 EE (52),No Teacher,thursday,08:00-8:55
+CS1002,Programming Fundamentals,BSE-1B,E-32 EE (52), Iqra Fahad,thursday,10:00-10:55
+MT1003,Calculus and Analytical Geometry,BDS-1A,E-32 EE (52), Uzma Saleh,thursday,11:00-11:55
+N/A,Reserved Slot,for,E-33 EE (52),No Teacher,thursday,08:00-8:55
+N/A,Reserved Slot,for,E-33 EE (52),No Teacher,thursday,09:00-09:55
+CS4001,Professional Practices in IT,BCS-7E,E-33 EE (52),Sobia Iftikhar,thursday,10:00-10:55
+N/A,Reserved Slot,for,E-33 EE (52),No Teacher,thursday,11:00-11:55
+CS1002,Programming Fundamentals,BCY-1A,E-33 EE (52), Kariz Kamal,thursday,12:00-12:55
+SS1007,Islamic Studies/Ethics,BSE-1A,E-33 EE (52), Dr. Shahzad Shaikh,thursday,1:00-01:55
+NS1001,Applied Physics,BCY-1A,E-33 EE (52),Dr. Muhammad Adeel,thursday,02:00-02:55
+MT1003,Calculus and Analytical Geometry,BAI-1A,E-34 EE (52), Asma Masood,thursday,09:00-09:55
+CS1002,Programming Fundamentals,BAI-1A,E-34 EE (52), Farooq Zaidi,thursday,10:00-10:55
+NS1001,Applied Physics,BAI-1A,E-34 EE (52), Rabia Tabassum,thursday,11:00-11:55
+MT1003,Calculus and Analytical Geometry,BSE-1A,E-34 EE (52), Alishba Tariq,thursday,12:00-12:55
+N/A,Reserved Slot,for,E-34 EE (52),No Teacher,thursday,1:00-01:55
+N/A,Reserved Slot,for,E-34 EE (52),No Teacher,thursday,02:00-02:55
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,thursday,08:00-8:55
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,thursday,09:00-09:55
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,thursday,10:00-10:55
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,thursday,11:00-11:55
+SS1012,Functional English,BSE-1B,E-35 EE (52), Atifa Batool ,thursday,12:00-12:55
+NS1001,Applied Physics,BSE-1B,E-35 EE (52), Rabia Tabassum,thursday,1:00-01:55
+SS1007,Islamic Studies/Ethics,BSE-1B,E-35 EE (52), Dr. Shahzad Shaikh,thursday,02:00-02:55
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,thursday,03:00-03:55
+SS1012,Functional English,Lab,LLC(R7) (50), Faiza Mumtaz,thursday,08:00-8:55
+SS1012,Functional English,Lab,LLC(R7) (50), Madiha Rehman,thursday,1:00-01:55
+SS1012,Functional English,Lab,C-20 EE (50), Javeriya Ahmed,thursday,08:00-8:55
+N/A,Reserved Slot,for,C-20 EE (50),No Teacher,thursday,11:00-11:55
+N/A,Reserved Slot,for,C-20 EE (50),No Teacher,thursday,12:00-12:55
+SS1012,Functional English,Lab,C-20 EE (50), Nazia Imam,thursday,1:00-01:55
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-1 (56), Ghulam Qadir Bhurgari Baloch,thursday,08:00-8:55
+N/A,Reserved Slot,for,CS LAB-1 (56),No Teacher,thursday,11:00-11:55
+CS1002,Programming Fundamentals,Lab,CS LAB-1 (56), Bushra Sattar,thursday,1:00-01:55
+CS2005,Database Systems,Lab,CS LAB-2 (48),Sameer Faisal,thursday,08:00-8:55
+AI3002,Machine Learning,Lab,CS LAB-2 (48), Usama bin Umar,thursday,1:00-01:55
+CS2005,Database Systems,Lab,CS LAB-3 (48), Yumna Asif,thursday,08:00-8:55
+CY3001,Network and Protocol Security,BCY-5A,CS LAB-3 (48), Shoaib Raza,thursday,12:00-12:55
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-3 (48),Muhammad Aashir,thursday,1:00-01:55
+CS4055,System Concept and Design,Lab,CS LAB-4 (48), Yasir Arafat,thursday,08:00-8:55
+CS1002,Programming Fundamentals,Lab,CS LAB-4 (48), Muhammad Monis,thursday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-5 (48),Mubashir ,thursday,08:00-8:55
+CS1002,Programming Fundamentals,Lab,CS LAB-5 (48), Ubaid ullah,thursday,1:00-01:55
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-6 (56), Khadija tul Kubra,thursday,08:00-8:55
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-6 (56),Fatima Malik,thursday,1:00-01:55
+CS1002,Programming Fundamentals,Lab,EE LAB-7 (54), Muhammad Aashir,thursday,08:00-8:55
+CL1000,Introduction to Information and Communication Technology,Lab,EE LAB-7 (54), Talha Shahid,thursday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,Lab,EE LAB-8 (48),Ubaid Ullah,thursday,08:00-8:55
+CS2001,Data Structures,Lab,EE LAB-8 (48),Muhammad Nouman Hanif,thursday,1:00-01:55
+EE2003,Computer Organization and Assembly Language,Lab,EE LAB-9 (48),Misbah Haider,thursday,08:00-8:55
+EE2003,Computer Organization and Assembly Language,Lab,EE LAB-9 (48),Waseem Rauf ,thursday,1:00-01:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,thursday,08:00-8:55
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,thursday,1:00-01:55
+CS2001,Data Structures,Lab,EE LAB-11 (48),Sameer Faisal,thursday,1:00-01:55
+CS2001,Data Structures,Lab,EE Lab-12 (48),Zainab Asif,thursday,08:00-8:55
+N/A,JUMMA,NAMAZ,E-1 CS (50),,friday,1:00-1:40
+MT1004,Linear Algebra,BCS-3A,A-1 EE (50),Jamil Usmani,friday,08:00-8:50
+MT1004,Linear Algebra,BCS-3A,A-1 EE (50),Jamil Usmani,friday,08:50-09:40
+EE2003,Computer Organization and Assembly Language,BCS-3A,A-1 EE (50),Aashir Mahboob,friday,09:40:-10:30
+EE2003,Computer Organization and Assembly Language,BCS-3A,A-1 EE (50),Aashir Mahboob,friday,12:10-1:00
+CS2006,Operating Systems,BCS-5B,A-2EE (50),Usama bin Umer,friday,08:00-8:50
+CS2006,Operating Systems,BCS-5B,A-2EE (50),Usama bin Umer,friday,08:50-09:40
+CS2006,Operating Systems,BCS-5A,A-2EE (50),Saeeda Kanwal,friday,11:20-12:10
+N/A,Reserved Slot,for,A-2EE (50),No Teacher,friday,2:30-3:20
+MT1004,Linear Algebra,BCS-3J,A-3 EE (50),Dr. Khusro Mian,friday,08:50-09:40
+CS3005,Theory of Automata,BCS-5A,A-3 EE (50),Shaharbano,friday,10:30-11:20
+CS3005,Theory of Automata,BCS-5A,A-3 EE (50),Shaharbano,friday,12:10-1:00
+EE2003,Computer Organization and Assembly Language,BSE-3A,A-5 EE (50),Atiya Jokhio,friday,08:00-8:50
+CS2001,Data Structures,BSE-3A,A-5 EE (50),Dr. Abdul Aziz,friday,08:50-09:40
+NS1001,Applied Physics,BDS-1B,A-5 EE (50), Javid Qureshi,friday,09:40:-10:30
+EE2003,Computer Organization and Assembly Language,BSE-3A,A-5 EE (50),Atiya Jokhio,friday,10:30-11:20
+MT1004,Linear Algebra,BSE-3A,A-5 EE (50),Alishba Tariq,friday,12:10-1:00
+AI3001,Principles of Artificial Intelligence,BAI-3A,A-5 EE (50),Omer Qureshi,friday,1:40-2:30
+MT1004,Linear Algebra,BAI-3A,A-5 EE (50),Dr. Fahad Riaz,friday,2:30-3:20
+CS1002,Programming Fundamentals,BCS-1G,A-6 EE (50), Bakhtawer,friday,08:00-8:50
+AI3001,Principles of Artificial Intelligence,BAI-3A,A-6 EE (50),Omer Qureshi,friday,08:50-09:40
+DE2001,Digital Electronics,BCS-5A,A-6 EE (50),Mairaj,friday,10:30-11:20
+DE2001,Digital Electronics,BCS-5A,A-6 EE (50),Mairaj,friday,11:20-12:10
+MT1004,Linear Algebra,BCS-3C,A-6 EE (50),Jamil Usmani,friday,2:30-3:20
+SS1012,Functional English,BDS-1B,A-7 EE (50), Aisha Khan,friday,08:00-8:50
+DE2001,Digital Electronics,BCS-5B,A-7 EE (50),Dr. Khusro Mian,friday,10:30-11:20
+DE2001,Digital Electronics,BCS-5B,A-7 EE (50),Dr. Khusro Mian,friday,11:20-12:10
+SS1012,Functional English,BAI-1A,A-7 EE (50),Aisha Khan,friday,1:40-2:30
+DE2001,Digital Electronics,BCS-5B,A-7 EE (50),Dr. Khusro Mian,friday,2:30-3:20
+EE2003,Computer Organization and Assembly Language,BCS-3D,A-8 EE (53),Kashan Hussain,friday,08:00-8:50
+CS2001,Data Structures,BCS-3D,A-8 EE (53),Farrukh Hassan Syed,friday,08:50-09:40
+SS2018,Psychology,BAI-3A,A-8 EE (53),Aqsa Fayyaz,friday,10:30-11:20
+EE2003,Computer Organization and Assembly Language,BCS-3B,A-8 EE (53),Kashan Hussain,friday,12:10-1:00
+EE2003,Computer Organization and Assembly Language,BCS-3C,A-8 EE (53),Nauraiz Subhan,friday,1:40-2:30
+CS2001,Data Structures,BCS-3B,C-14 EE (50),Mubashra Fayyaz,friday,08:00-8:50
+CS1005,Discrete Structures,BCS-3B,C-14 EE (50),Fahad Hussain,friday,08:50-09:40
+EE2003,Computer Organization and Assembly Language,BCS-3F,C-14 EE (50),Nauraiz Subhan,friday,09:40:-10:30
+AF1001,Fundamentals of Accounting,BCS-3A,C-14 EE (50),Jahangir Tanveer,friday,10:30-11:20
+MG1006,Principles of Economics,BCS-3B,C-14 EE (50),Dr. Mushtaq,friday,11:20-12:10
+CS1005,Discrete Structures,BCS-3C,C-14 EE (50),Bakhtawer,friday,12:10-1:00
+MT1004,Linear Algebra,BCS-3E,C-14 EE (50),Dr. Khusro Mian,friday,1:40-2:30
+CS2001,Data Structures,BCS-3E,C-14 EE (50),Farrukh Hassan Syed,friday,2:30-3:20
+N/A,Reserved Slot,for,C-14 EE (50),No Teacher,friday,3:20-4:05
+SS2018,Psychology,BCY-3A,C-16 EE (50),Aqsa Fayyaz,friday,08:50-09:40
+EE2003,Computer Organization and Assembly Language,BCS-3G,C-16 EE (50),Atiya Jokhio,friday,09:40:-10:30
+AF1001,Fundamentals of Accounting,BCS-3B,C-16 EE (50),Muhammad Ahsan,friday,10:30-11:20
+AF1001,Fundamentals of Accounting,BCS-3C,C-16 EE (50),Jahangir Tanveer,friday,11:20-12:10
+N/A,Reserved Slot,for,C-16 EE (50),No Teacher,friday,12:10-1:00
+CS2001,Data Structures,BCY-3B,C-16 EE (50),Nouman Rajput,friday,1:40-2:30
+SS2043,Civics and Community Engagement,BCY-3B,C-16 EE (50),Rabia Ejaz,friday,2:30-3:20
+EE2003,Computer Organization and Assembly Language,BCS-3J,C-17 EE (59),Shoaib Rauf,friday,08:00-8:50
+SS2018,Psychology,BCY-3B,C-17 EE (59),Kauser Malik,friday,08:50-09:40
+CS2001,Data Structures,BCS-3H,C-17 EE (59),Dr. Abdul Aziz,friday,09:40:-10:30
+MG1001,Fundamentals of Management,BCS-3A,C-17 EE (59),Ahsan Ali Abbasi,friday,10:30-11:20
+MG1001,Fundamentals of Management,BCS-3B,C-17 EE (59),Ahsan Ali Abbasi,friday,11:20-12:10
+CS2001,Data Structures,BCS-3J,C-17 EE (59),Dr. Abdul Aziz,friday,12:10-1:00
+CS1005,Discrete Structures,BCS-3G,C-17 EE (59),Fahad Hussain,friday,2:30-3:20
+EE2003,Computer Organization and Assembly Language,BCS-3H,C-18 EE (50),Shoaib Rauf,friday,08:50-09:40
+MG1006,Principles of Economics,BCS-3A,C-18 EE (50),Dr. Mushtaq,friday,10:30-11:20
+MG1006,Principles of Economics,BCS-3C,C-18 EE (50),Michael Simon,friday,11:20-12:10
+CS1005,Discrete Structures,BCS-3G,C-18 EE (50),Fahad Hussain,friday,12:10-1:00
+NS1001,Applied Physics,BCS-1E,D-24 EE (50), Muhammad Rahim,friday,11:20-12:10
+N/A,Reserved Slot,for,D-24 EE (50),No Teacher,friday,12:10-1:00
+HU127,Ideology and Constitution of Pakistan,BCS-1A,D-28 EE (50), Amna Ali,friday,08:00-8:50
+NS1001,Applied Physics,BCS-1A,D-28 EE (50),  Ishtiaq Ahmed,friday,08:50-09:40
+NS1001,Applied Physics,BCS-1D,D-28 EE (50),  Ishtiaq Ahmed,friday,09:40:-10:30
+SS1012,Functional English,BCS-1C,D-28 EE (50), Nazia Imam,friday,10:30-11:20
+HU127,Ideology and Constitution of Pakistan,BCS-1D,D-28 EE (50), Dr. Shahnawaz,friday,11:20-12:10
+SS1012,Functional English,BCS-1D,D-28 EE (50), Nazia Imam,friday,12:10-1:00
+HU127,Ideology and Constitution of Pakistan,BCS-1D,D-28 EE (50), Dr. Shahnawaz,friday,1:40-2:30
+N/A,University Orientation Session,BCS-1B,E-29EE (52), Dr. Shahzad Shaikh,friday,08:50-09:40
+HU127,Ideology and Constitution of Pakistan,BCS-1F,E-29EE (52), Kashif Ahmed,friday,11:20-12:10
+MT1003,Calculus and Analytical Geometry,BDS-1B,E-29EE (52), Uzma Saleh,friday,1:40-2:30
+SS1012,Functional English,BCS-1B,E-30 EE (52), Nazia Imam,friday,08:00-8:50
+HU127,Ideology and Constitution of Pakistan,BCS-1C,E-30 EE (52), Amna Ali,friday,08:50-09:40
+N/A,Reserved Slot,for,E-30 EE (52),No Teacher,friday,09:40:-10:30
+SS1012,Functional English,BSE-1A,E-30 EE (52), Atifa Batool ,friday,10:30-11:20
+SS1012,Functional English,BCS-1H,E-30 EE (52),Javeriah Ahmed,friday,11:20-12:10
+NS1001,Applied Physics,BCS-1H,E-30 EE (52), Muhammad Rahim,friday,12:10-1:00
+N/A,University Orientation Session,BCS-1G,E-30 EE (52),Dr. Shahzad Shaikh,friday,1:40-2:30
+MT1003,Calculus and Analytical Geometry,BCS-1G,E-30 EE (52),  Alishba Tariq,friday,2:30-3:20
+HU127,Ideology and Constitution of Pakistan,BCS-1B,E-30 EE (52), Amna Ali,friday,3:20-4:05
+MT1003,Calculus and Analytical Geometry,BCS-1D,E-31 EE (52),Usama Antuley,friday,08:50-09:40
+NS1001,Applied Physics,BSE-1B,E-31 EE (52), Rabia Tabassum,friday,09:40:-10:30
+MT1003,Calculus and Analytical Geometry,BSE-1B,E-31 EE (52), Asma Masood,friday,10:30-11:20
+MT1003,Calculus and Analytical Geometry,BCS-1K,E-31 EE (52), Nadeem Khan,friday,11:20-12:10
+HU127,Ideology and Constitution of Pakistan,BCS-1K,E-31 EE (52), Dr. Shahnawaz,friday,12:10-1:00
+NS1001,Applied Physics,BCS-1B,E-31 EE (52),  Ishtiaq Ahmed,friday,1:40-2:30
+SS1012,Functional English,BCS-1J,E-31 EE (52),Wajiha Akbar ,friday,2:30-3:20
+HU127,Ideology and Constitution of Pakistan,BCS-1E,E-32 EE (52), Kashif Ahmed,friday,08:50-09:40
+N/A,University Orientation Session,BCS-1C,E-32 EE (52),Dr. Hassan Saeed,friday,09:40:-10:30
+SS1012,Functional English,BCS-1E,E-32 EE (52),Faiza Mumtaz,friday,10:30-11:20
+MT1003,Calculus and Analytical Geometry,BAI-1A,E-32 EE (52), Asma Masood,friday,11:20-12:10
+MT1003,Calculus and Analytical Geometry,BDS-1A,E-32 EE (52), Uzma Saleh,friday,12:10-1:00
+NS1001,Applied Physics,BCS-1K,E-32 EE (52),Dr. Muhammad Adeel,friday,1:40-2:30
+NS1001,Applied Physics,BCY-1A,E-32 EE (52),Dr. Muhammad Adeel,friday,2:30-3:20
+NS1001,Applied Physics,BCS-1K,E-32 EE (52),Dr. Muhammad Adeel,friday,3:20-4:05
+NS1001,Applied Physics,BCS-1G,E-33 EE (52), Muhammad Rahim,friday,08:50-09:40
+SS1007,Islamic Studies/Ethics,BCY-1A,E-33 EE (52),Muhammad Hasham,friday,11:20-12:10
+SS1007,Islamic Studies/Ethics,BDS-1A,E-33 EE (52), Dr. Hassan Saeed,friday,1:40-2:30
+N/A,Reserved Slot,for,E-33 EE (52),No Teacher,friday,2:30-3:20
+CS1002,Programming Fundamentals,BCS-1H,E-33 EE (52),  Fahad Hussain,friday,3:20-4:05
+MT1003,Calculus and Analytical Geometry,BCS-1J,E-34 EE (52), Alishba Tariq,friday,08:50-09:40
+N/A,University Orientation Quiz,BDS-1A,E-34 EE (52), Dr. Hassan Saeed,friday,11:20-12:10
+N/A,University Orientation Quiz,BAI-1A,E-34 EE (52), Dr. Hassan Saeed,friday,12:10-1:00
+MT1003,Calculus and Analytical Geometry,BCS-1A,E-34 EE (52), Mairaj,friday,1:40-2:30
+N/A,University Orientation Session,BCS-1D,E-34 EE (52), Dr. Shahzad Shaikh,friday,2:30-3:20
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,friday,08:00-8:50
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,friday,08:50-09:40
+SS1007,Islamic Studies/Ethics,BSE-1B,E-35 EE (52), Dr. Shahzad Shaikh,friday,11:20-12:10
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,friday,12:10-1:00
+MT1003,Calculus and Analytical Geometry,BCY-1A,E-35 EE (52), Nadeem Khan,friday,1:40-2:30
+N/A,Reserved Slot,for,E-35 EE (52),No Teacher,friday,2:30-3:20
+SS1012,Functional English,Lab,LLC(R7) (50), Javeriya Ahmed,friday,08:00-8:50
+SS1012,Functional English,Lab,LLC(R7) (50), Wajiha Akbar,friday,10:30-11:20
+SS1012,Functional English,Lab,LLC(R7) (50), Khadija Shireen,friday,1:40-2:30
+N/A,Reserved Slot,for,C-20 EE (50),No Teacher,friday,09:40:-10:30
+SS1012,Functional English,Lab,C-20 EE (50), Mariam Aftab,friday,1:40-2:30
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-1 (56), Khadija tul Kubra,friday,08:00-8:50
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-1 (56),Taha Khan,friday,10:30-11:20
+N/A,JUMMA,NAMAZ,CS LAB-1 (56),,friday,1:00-1:40
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-1 (56), Ramsha Iqbal,friday,1:40-2:30
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-2 (48),Ismail Ahmed Ansari,friday,08:00-8:50
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-2 (48), Talha Shahid,friday,10:30-11:20
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-2 (48),Muhammad Aashir,friday,1:40-2:30
+CS2001,Data Structures,Lab,CS LAB-3 (48),Muhammad Khalid,friday,08:00-8:50
+CS2001,Data Structures,Lab,CS LAB-3 (48),Muhammad Nouman Hanif,friday,10:30-11:20
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-4 (48),Muhammad Umar,friday,08:00-8:50
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-4 (48),Waseem Rauf ,friday,10:30-11:20
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-4 (48),Muhammad Umar Hussain ,friday,1:40-2:30
+CL1000,Introduction to Information and Communication Technology,Lab,CS LAB-5 (48), Yumna Asif,friday,08:00-8:50
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-5 (48),Ubaid Ullah,friday,1:40-2:30
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-6 (56),Muhammad Nadeem,friday,08:00-8:50
+EE2003,Computer Organization and Assembly Language,Lab,CS LAB-6 (56),Muhammad Nadeem,friday,1:40-2:30
+CS1002,Programming Fundamentals,Lab,EE LAB-7 (54), Shaheer Ahmed Khan,friday,08:00-8:50
+CL1000,Introduction to Information and Communication Technology,Lab,EE LAB-7 (54),Hafsa Baig,friday,10:30-11:20
+CS1002,Programming Fundamentals,Lab,EE LAB-7 (54), Khadija tul Kubra,friday,1:40-2:30
+CS2006,Operating Systems,Lab,EE LAB-8 (48),Zainab Asif,friday,08:00-8:50
+CS2006,Operating Systems,Lab,EE LAB-8 (48),Muhammad Monis,friday,10:30-11:20
+EE2003,Computer Organization and Assembly Language,Lab,EE LAB-8 (48),Misbah Haider ,friday,1:40-2:30
+CL1000,Introduction to Information and Communication Technology,Lab,EE LAB-9 (48), Fatima Gado,friday,08:00-8:50
+N/A,Reserved Slot,for,EE LAB-9 (48),No Teacher,friday,1:40-2:30
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,friday,08:00-8:50
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,friday,10:30-11:20
+N/A,Reserved Slot,for,EE LAB-10 (48),No Teacher,friday,1:40-2:30
+N/A,Reserved Slot,for,EE LAB-11 (48),No Teacher,friday,08:00-8:50
+N/A,Reserved Slot,for,EE LAB-11 (48),No Teacher,friday,10:30-11:20
+N/A,Reserved Slot,for,EE LAB-11 (48),No Teacher,friday,1:40-2:30
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,friday,08:00-8:50
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,friday,10:30-11:20
+N/A,Reserved Slot,for,EE Lab-12 (48),No Teacher,friday,1:40-2:30
