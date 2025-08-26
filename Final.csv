@@ -1,0 +1,1439 @@
+courseCode,courseName,section,location,instructor,day,time
+CS2009,Design and Analysis of Algorithms,BCS-5B,E-1 Academic Block I (50),Fahad Sherwani,monday,8:55 - 9:45
+SE2002,Software Design and Architecture,BCS-5B,E-1 Academic Block I (50),Ahmed Qaiser (VF),monday,9:50 - 10:40
+CS2009,Design and Analysis of Algorithms,BCS-5A,E-1 Academic Block I (50),Muhammad Kashif,monday,11:40 - 12:30
+,DBS,BCS-5A,E-1 Academic Block I (50),Hajra Ahmed,monday,12:35 - 1:25
+CS3001,Computer Networks,BCS-5A,E-1 Academic Block I (50),Dr. Farrukh Salim,monday,2:25 - 3:15
+SE2002,Software Design and Architecture,BCS-5A,E-1 Academic Block I (50),Engr. Abdul Rahman,monday,3:20 - 4:10
+CS2009,Design and Analysis of Algorithms,BCS-5C,E-2 Academic Block I (50),Dr. Nasir Uddin,monday,8:00 - 8:50
+,DBS,BCS-5C,E-2 Academic Block I (50),Atiya Jokhio,monday,8:55 - 9:45
+,DBS,BCS-5B,E-2 Academic Block I (50),Javeria Farooq,monday,11:40 - 12:30
+CS2009,Design and Analysis of Algorithms,BCS-5J,E-2 Academic Block I (50),Dr. Fahad Sherwani,monday,2:25 - 3:15
+CS3001,Computer Networks,BCS-5D,E-3 Academic Block I (50),Shaheer Khan,monday,8:00 - 8:50
+CS2009,Design and Analysis of Algorithms,BCS-5D,E-3 Academic Block I (50),Dr. Nasir Uddin,monday,9:50 - 10:40
+CS3001,Computer Networks,BCS-5C,E-3 Academic Block I (50),Dr. Farrukh Salim,monday,10:45 - 11:35
+SE2002,Software Design and Architecture,BCS-5C,E-3 Academic Block I (50), Rubab Manzar,monday,11:40 - 12:30
+,DBS,BCS-5H,E-3 Academic Block I (50),Javeria Farooq,monday,2:25 - 3:15
+CS2009,Design and Analysis of Algorithms,BCS-5E,E-4 Academic Block I (50),Muhammad Kashif,monday,8:55 - 9:45
+CS3001,Computer Networks,BCS-5D,E-4 Academic Block I (50),Shaheer Khan,monday,11:40 - 12:30
+SE2002,Software Design and Architecture,BCS-5D,E-4 Academic Block I (50),Syed Ahmed Khan,monday,12:35 - 1:25
+CS2009,Design and Analysis of Algorithms,BCS-5D,E-4 Academic Block I (50),Dr. Nasir Uddin,monday,2:25 - 3:15
+,DBS,BCS-5D,E-4 Academic Block I (50),Basit Jasani,monday,3:20 - 4:10
+CS3001,Computer Networks,BCS-5F,E-5 Academic Block I (50),Shaheer Khan,monday,8:55 - 9:45
+,DBS,BCS-5E,E-5 Academic Block I (50),Basit Jasani,monday,10:45 - 11:35
+,DBS,BCS-5E,E-5 Academic Block I (50),Basit Jasani,monday,11:40 - 12:30
+CS3001,Computer Networks,BCS-5E,E-5 Academic Block I (50),Kashan Hussain,monday,12:35 - 1:25
+SE2002,Software Design and Architecture,BCS-5E,E-5 Academic Block I (50),Farrukh Hasan Syed,monday,2:25 - 3:15
+SE2002,Software Design and Architecture,BCS-5E,E-5 Academic Block I (50),Farrukh Hasan Syed,monday,3:20 - 4:10
+CS3001,Computer Networks,BCS-5H,E-6 Academic Block I (50),Dr. Nadeem Kafi,monday,8:00 - 8:50
+CS3001,Computer Networks,BCS-5H,E-6 Academic Block I (50),Dr. Nadeem Kafi,monday,8:55 - 9:45
+SE2002,Software Design and Architecture,BCS-5H,E-6 Academic Block I (50),Engr. Abdul Rahman,monday,10:45 - 11:35
+SE2002,Software Design and Architecture,BCS-5H,E-6 Academic Block I (50),Engr. Abdul Rahman,monday,11:40 - 12:30
+CS2009,Design and Analysis of Algorithms,BCS-5H,E-6 Academic Block I (50),Sandesh Kumar,monday,12:35 - 1:25
+CS2009,Design and Analysis of Algorithms,BCS-5F,E-6 Academic Block I (50),Sandesh Kumar,monday,1:30 - 2:20
+,DBS,BCS-5F,E-6 Academic Block I (50),Hajra Ahmed,monday,2:25 - 3:15
+SE2002,Software Design and Architecture,BCS-5F,E-6 Academic Block I (50),Syed Ahmed Khan,monday,3:20 - 4:10
+CS3001,Computer Networks,BCS-5J,R-11 Academic Block I (50),Kashan Hussain,monday,8:55 - 9:45
+CS2009,Design and Analysis of Algorithms,BCS-5J,R-11 Academic Block I (50),Dr. Fahad Sherwani,monday,9:50 - 10:40
+SE2002,Software Design and Architecture,BCS-5J,R-11 Academic Block I (50),Syed Ahmed Khan,monday,10:45 - 11:35
+EE2003,Computer Organization and Assembly Language,BCS-3E,R-11 Academic Block I (50),Dr. Rabia Tabassum ,monday,2:25 - 3:15
+CS2001,Data Structures,BCS-3A,R-12 Academic Block I (70), Dr. Jawwad Shamsi,monday,8:55 - 9:45
+,DBS,BCS-5J,R-12 Academic Block I (70),Dr. Zulfiqar Ali Memon,monday,12:35 - 1:25
+,DBS,BCS-5J,R-12 Academic Block I (70),Dr. Zulfiqar Ali Memon,monday,1:30 - 2:20
+SS2012,Technical and Business Writing,BCY-5A,R-12 Academic Block I (70),Atifa Batool,monday,2:25 - 3:15
+CS3002,Information Security,BCY-5A,R-12 Academic Block I (70),Nouman Rajput,monday,3:20 - 4:10
+CS2009,Design and Analysis of Algorithms,BCS-5G,R-109 Academic Block I (50),Zulfiqar Ali,monday,8:00 - 8:50
+CS2001,Data Structures,BSE-3B,R-109 Academic Block I (50), Dr. Anam Qureshi,monday,8:55 - 9:45
+,DBS,BCS-5G,R-109 Academic Block I (50),Dr. Farrukh Salim,monday,9:50 - 10:40
+SE2002,Software Design and Architecture,BCS-5G,R-109 Academic Block I (50),Sobia Iftikhar,monday,10:45 - 11:35
+CS2009,Design and Analysis of Algorithms,BSE-5A,R-109 Academic Block I (50),Fizza Mansoor,monday,11:40 - 12:30
+CS2009,Design and Analysis of Algorithms,BSE-5A,R-109 Academic Block I (50),Fizza Mansoor,monday,12:35 - 1:25
+SE4005,Software Quality Engineering,BSE-5A,R-109 Academic Block I (50),Rubab Manzar,monday,2:25 - 3:15
+SS2012,Technical and Business Writing,BSE-5A,R-109 Academic Block I (50),Atifa Batool,monday,3:20 - 4:10
+CS2001,Data Structures,BCS-3K,A-1 Academic Block II (50),Mubashra Fayyaz,monday,8:00 - 8:50
+CS3005,Theory of Automata,BCS-3K,A-1 Academic Block II (50),Shahar Bano ,monday,8:55 - 9:45
+CS2001,Data Structures,BCS-3K,A-1 Academic Block II (50),Mubashra Fayyaz,monday,9:50 - 10:40
+CS2001,Data Structures,BCS-3J,A-1 Academic Block II (50),Mubashra Fayyaz ,monday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BCS-3H,A-2Academic Block II (50),Shoaib Rauf ,monday,8:00 - 8:50
+CS2001,Data Structures,BCS-3H,A-2Academic Block II (50),Fizza Aqeel,monday,8:55 - 9:45
+CS2001,Data Structures,BSE-3A,A-2Academic Block II (50), Dr. Anam Qureshi,monday,11:40 - 12:30
+SS2012,Technical and Business Writing,BCY-5B,A-3 Academic Block II (50),Atifa Batool,monday,8:55 - 9:45
+CS2009,Design and Analysis of Algorithms,BCY-5B,A-3 Academic Block II (50),Zulfiqar Ali,monday,9:50 - 10:40
+CS2009,Design and Analysis of Algorithms,BCY-5B,A-3 Academic Block II (50),Zulfiqar Ali,monday,10:45 - 11:35
+,Discrete,BCS-3B,A-3 Academic Block II (50),Shoaib Raza,monday,11:40 - 12:30
+CY4003,Digital Forensics,BCY-5B,A-3 Academic Block II (50),Dr. Shahbaz Siddiqui,monday,12:35 - 1:25
+CS3002,Information Security,BCY-5B,A-3 Academic Block II (50),Nouman Rajput,monday,1:30 - 2:20
+,DBS,BCY-5B,A-3 Academic Block II (50),Ali Naseer Shah,monday,2:25 - 3:15
+CS2001,Data Structures,BCS-3B,A-3 Academic Block II (50), Fizza Aqeel,monday,3:20 - 4:10
+,Reserved Slot,For,A-4 Academic Block II (50),No Teacher,monday,8:00 - 9:00
+AI3002,Machine Learning,BSE-5A,A-5 Academic Block II (50),Minhal Raza,monday,8:00 - 8:50
+CS4055,System Concept and Design,BSE-5A,A-5 Academic Block II (50),Ali Fatmi,monday,8:55 - 9:45
+CS4055,System Concept and Design,BSE-5A,A-5 Academic Block II (50),Ali Fatmi,monday,9:50 - 10:40
+,Discrete,BCS-3G,A-5 Academic Block II (50),Shoaib Raza,monday,10:45 - 11:35
+CS3005,Theory of Automata,BCS-3G,A-5 Academic Block II (50),Bakhtawar Abbasi,monday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BCS-3B,A-5 Academic Block II (50), Atiya Jokhio ,monday,1:30 - 2:20
+CS3005,Theory of Automata,BCS-3B,A-5 Academic Block II (50), Ubaidullah,monday,2:25 - 3:15
+,IT,in,A-5 Academic Block II (50),  BSFT-1E,monday,3:20 - 4:10
+,DBS,BAI-5A,A-6 Academic Block II (50),Ahmed Qaiser (VF),monday,8:00 - 8:50
+,KRR,BAI-5A,A-6 Academic Block II (50),Muhammad Rafi,monday,8:55 - 9:45
+,DBS,BAI-5A,A-6 Academic Block II (50),Ahmed Qaiser (VF),monday,10:45 - 11:35
+CY4003,Digital Forensics,BCY-5A,A-6 Academic Block II (50),Dr. Shahbaz Siddiqui,monday,11:40 - 12:30
+CS3002,Information Security,BCY-5A,A-6 Academic Block II (50),Nouman Rajput,monday,12:35 - 1:25
+AI3002,Machine Learning,BAI-5A,A-6 Academic Block II (50),Sania Urooj,monday,1:30 - 2:20
+SS2012,Technical and Business Writing,BAI-5A,A-6 Academic Block II (50),Nazia Imam,monday,2:25 - 3:15
+,Discrete,BCS-3H,A-6 Academic Block II (50),Dr. Ghufran Ahmed,monday,3:20 - 4:10
+EE2003,Computer Organization and Assembly Language,BCS-3A,A-7 Academic Block II (50), Aashir Mehboob ,monday,8:00 - 8:50
+,BCB,BSBA-5A,A-7 Academic Block II (50),Dr. Shahbaz Siddiqui ,monday,8:55 - 9:45
+,Discrete,BCS-3J,A-7 Academic Block II (50),Shoaib Raza,monday,1:30 - 2:20
+,Discrete,BCS-3D,A-7 Academic Block II (50),Shoaib Raza,monday,2:25 - 3:15
+MT1004,Linear Algebra,BCS-3D,A-7 Academic Block II (50),Urooj,monday,3:20 - 4:10
+EE2003,Computer Organization and Assembly Language,BCS-3C,A-8 Academic Block II (53),Dr. Rabia Tabassum ,monday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BCS-3E,A-8 Academic Block II (53), Dr. Rabia Tabassum,monday,8:55 - 9:45
+,HRM,BSBA-5A,A-8 Academic Block II (53),  Museara Bhutto,monday,10:45 - 11:35
+,DS&BA,BSBA-5A,A-8 Academic Block II (53),Ali Fatmi ,monday,11:40 - 12:30
+AF1001,Fundamentals of Accounting,BSFT,A-8 Academic Block II (53),Rajib Ali,monday,12:35 - 1:25
+CS3005,Theory of Automata,BCS-3D,A-8 Academic Block II (53),Muhammad Kashif,monday,1:30 - 2:20
+CS3005,Theory of Automata,BCS-3H,A-8 Academic Block II (53),Bakhtawar Abbasi,monday,2:25 - 3:15
+,Discrete,BCS-3E,A-8 Academic Block II (53),Bakhtawar Abbasi,monday,3:20 - 4:10
+,BE,BSFT-5A,B-9 Academic Block II (53),Dr. Anwar Mughees,monday,8:00 - 8:50
+AF1001,Fundamentals of Accounting,BSFT-1B,B-9 Academic Block II (53),Dr. Mohsin Ali,monday,8:55 - 9:45
+SS1007,Islamic Studies/Ethics,BSF,B-9 Academic Block II (53),Muhammad Hasham,monday,9:50 - 10:40
+,MM,BSFT-1B,B-9 Academic Block II (53),Asiya Zaheer,monday,11:40 - 12:30
+,MM,BSFT-1A,B-9 Academic Block II (53),Asiya Zaheer,monday,12:35 - 1:25
+,MM,BSFT-1E,B-9 Academic Block II (53),Museara Bhutto,monday,1:30 - 2:20
+,Eng-1,BSF,B-9 Academic Block II (53),Brohi,monday,3:20 - 4:10
+,BM1,BSFT-1D,B-10 Academic Block II (53),Ashad Ali,monday,8:00 - 8:50
+,MM,BSFT-1D,B-10 Academic Block II (53),Asiya Zaheer,monday,8:55 - 9:45
+,BM1,BSFT-1C,B-10 Academic Block II (53),Dr. Khusro Mian,monday,9:50 - 10:40
+,MM,BSFT-1C,B-10 Academic Block II (53),Aleena Fayyaz,monday,10:45 - 11:35
+,UoS,BSBA,B-10 Academic Block II (53),Dr. Shahzad Shaikh,monday,11:40 - 12:30
+MG1001,Fundamentals of Management,BSBA-1A,B-10 Academic Block II (53),Dr. Nazia Nazeer,monday,12:35 - 1:25
+,BM1,BSFT-1A,B-10 Academic Block II (53),Dr. Khusro Mian,monday,1:30 - 2:20
+SS1007,Islamic Studies/Ethics,BSF,B-10 Academic Block II (53),Muhammad Hasham,monday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BSFT,B-10 Academic Block II (53),Muhammad Hasham,monday,3:20 - 4:10
+,UoS,BSF,B-11 Academic Block II (53),Farhan Ali Memon,monday,8:00 - 8:50
+,Eng-1,BSF,B-11 Academic Block II (53),Sharmeen Ismail,monday,8:55 - 9:45
+SS1007,Islamic Studies/Ethics,BSF,B-11 Academic Block II (53),Farhan Ali Memon,monday,9:50 - 10:40
+AF1001,Fundamentals of Accounting,BSF,B-11 Academic Block II (53), Muhammad Ahsan,monday,10:45 - 11:35
+,BM1,BSFT-1B,B-11 Academic Block II (53),Dr. Khusro Mian,monday,12:35 - 1:25
+,Eng-1,BSF,B-11 Academic Block II (53),Brohi,monday,2:25 - 3:15
+,EM,BSEE,C-12 Academic Block II (50),,monday,8:00 - 8:50
+,EM,BSEE,C-12 Academic Block II (50),,monday,8:55 - 9:45
+SS2012,Technical and Business Writing,BSEE,C-12 Academic Block II (50),,monday,9:50 - 10:40
+,AT,BSEE,C-12 Academic Block II (50),,monday,10:45 - 11:35
+SS1007,Islamic Studies/Ethics,BSEE,C-12 Academic Block II (50),,monday,11:40 - 12:30
+SS1007,Islamic Studies/Ethics,BSEE,C-12 Academic Block II (50),,monday,12:35 - 1:25
+,ENA,BSEE,C-13 Academic Block II (50),,monday,8:00 - 8:50
+,ENA,BSEE,C-13 Academic Block II (50),,monday,8:55 - 9:45
+,ENG,BSEE,C-13 Academic Block II (50),,monday,9:50 - 10:40
+,ENA,BSEE,C-13 Academic Block II (50),,monday,10:45 - 11:35
+,ENA,BSEE,C-13 Academic Block II (50),,monday,11:40 - 12:30
+SS1007,Islamic Studies/Ethics,BSCE,C-13 Academic Block II (50),,monday,12:35 - 1:25
+SS1007,Islamic Studies/Ethics,BSCE,C-13 Academic Block II (50),,monday,1:30 - 2:20
+,ENG,BSCE,C-13 Academic Block II (50),,monday,2:25 - 3:15
+,ENG,BSCE,C-13 Academic Block II (50),,monday,3:20 - 4:10
+SS1007,Islamic Studies/Ethics,BSCE,C-14 Academic Block II (50),,monday,8:00 - 8:50
+SS1007,Islamic Studies/Ethics,BSCE,C-14 Academic Block II (50),,monday,8:55 - 9:45
+,AC,BSEE,C-14 Academic Block II (50),,monday,9:50 - 10:40
+,AC,BSEE,C-14 Academic Block II (50),,monday,10:45 - 11:35
+,ADC,BSEE,C-14 Academic Block II (50),,monday,11:40 - 12:30
+,MVC,BSEE,C-14 Academic Block II (50),,monday,12:35 - 1:25
+,MVC,BSEE,C-14 Academic Block II (50),,monday,1:30 - 2:20
+,ENG,BSEE,C-15 Academic Block II (50),,monday,8:00 - 8:50
+,ENG,BSEE,C-15 Academic Block II (50),,monday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BSCE,C-15 Academic Block II (50),,monday,9:50 - 10:40
+HU127,Ideology and Constitution of Pakistan,BSCE,C-15 Academic Block II (50),,monday,10:45 - 11:35
+,AC,BSCE,C-15 Academic Block II (50),,monday,12:35 - 1:25
+CS3005,Theory of Automata,BCS-3E,C-16 Academic Block II (50),Abeeha Sattar ,monday,8:00 - 8:50
+,Discrete,BCS-3C,C-16 Academic Block II (50),Dr. Nouman Durrani,monday,8:55 - 9:45
+,CB,BSBA-5A,C-16 Academic Block II (50), Umer Farooq,monday,9:50 - 10:40
+SS1007,Islamic Studies/Ethics,/,C-16 Academic Block II (50),Muhammad Hasham,monday,12:35 - 1:25
+CS2001,Data Structures,BAI-3A,C-16 Academic Block II (50),Sania Urooj,monday,2:25 - 3:15
+EE2003,Computer Organization and Assembly Language,BCS-3F,C-17 Academic Block II (59),Ubaidullah ,monday,8:00 - 8:50
+,Discrete,BSE-3A,C-17 Academic Block II (59),Hira Tunio,monday,8:55 - 9:45
+EE2003,Computer Organization and Assembly Language,BSE-3A,C-17 Academic Block II (59), Shoaib Rauf,monday,9:50 - 10:40
+CS3005,Theory of Automata,BCS-3A,C-17 Academic Block II (59), Ubaidullah ,monday,10:45 - 11:35
+,Discrete,BCS-3A,C-17 Academic Block II (59),Dr. Nouman Durrani,monday,11:40 - 12:30
+,Discrete,BCS-3F,C-17 Academic Block II (59),Dr. Nouman Durrani,monday,12:35 - 1:25
+EE2003,Computer Organization and Assembly Language,BCS-3G,C-18 Academic Block II (50),Dr. Shakil,monday,8:00 - 8:50
+CS2001,Data Structures,BCS-3G,C-18 Academic Block II (50),Sania Urooj,monday,8:55 - 9:45
+CS2001,Data Structures,BCS-3D,C-18 Academic Block II (50),Farrukh Hasan Syed,monday,11:40 - 12:30
+CS3005,Theory of Automata,BCS-3C,C-18 Academic Block II (50),Kashan Hussain ,monday,2:25 - 3:15
+MT1004,Linear Algebra,BCS-3C,C-18 Academic Block II (50),Dr. Fahad Riaz,monday,3:20 - 4:10
+MT1004,Linear Algebra,BCS-3F,C-19 Academic Block II (50),Urooj,monday,2:25 - 3:15
+AI3001,Principles of Artificial Intelligence,BAI-3A,C-21 Academic Block II (50),Talha Shahid,monday,12:35 - 1:25
+,Discrete,BAI-3A,C-21 Academic Block II (50),Mahrukh Khan,monday,1:30 - 2:20
+MT1004,Linear Algebra,BCS3J,C-21 Academic Block II (50),Uzma Saleh,monday,3:20 - 4:10
+MT1004,Linear Algebra,BCY-3A,D-22 Academic Block II (50),Dr. Fahad Riaz,monday,11:40 - 12:30
+MT1004,Linear Algebra,BCY-3A,D-22 Academic Block II (50),Dr. Fahad Riaz,monday,12:35 - 1:25
+EE2003,Computer Organization and Assembly Language,BDS-3B,D-22 Academic Block II (50),Dr. Muhammad Adeel,monday,1:30 - 2:20
+EE2003,Computer Organization and Assembly Language,BDS-3B,D-22 Academic Block II (50),Dr. Muhammad Adeel,monday,2:25 - 3:15
+,Cyber,Security,D-23 Academic Block II (50),Abeer Gauher,monday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BCY-3A,D-23 Academic Block II (50),Waseem Rauf,monday,8:55 - 9:45
+CS2001,Data Structures,BCY-3A,D-23 Academic Block II (50),Nouman Rajput,monday,9:50 - 10:40
+MT1004,Linear Algebra,BDS-3A,D-23 Academic Block II (50),Nadeem Khan,monday,10:45 - 11:35
+,Intro,to,D-23 Academic Block II (50),Mahrukh Khan,monday,11:40 - 12:30
+,Discrete,BSE-3B,D-23 Academic Block II (50),Aemon,monday,1:30 - 2:20
+,Discrete,BSE-3B,D-23 Academic Block II (50),Aemon,monday,2:25 - 3:15
+EE2003,Computer Organization and Assembly Language,BSE-3B,D-23 Academic Block II (50),Dr. Shakil,monday,3:20 - 4:10
+CS2001,Data Structures,BDS-3A,D-24 Academic Block II (50),Dr. Farooq Zaidi,monday,8:00 - 8:50
+,Discrete,BDS-3A,D-24 Academic Block II (50),Dr. Fahad Samad,monday,8:55 - 9:45
+,Discrete,BDS-3B,D-24 Academic Block II (50),Dr. Fahad Samad,monday,9:50 - 10:40
+CS3005,Theory of Automata,BCS-3J,D-24 Academic Block II (50),Muhammad Kashif,monday,12:35 - 1:25
+MT1004,Linear Algebra,BCS-3G,D-24 Academic Block II (50),Uzma Saleh,monday,1:30 - 2:20
+,Discrete,BCY-3A,D-24 Academic Block II (50),Dr. Fahad Samad,monday,2:25 - 3:15
+,Discrete,BCS-3K,D-24 Academic Block II (50),Aemon,monday,3:20 - 4:10
+MT1004,Linear Algebra,BDS-3B,D-25 Academic Block II (50),Moheez-UR-Rahim,monday,8:00 - 8:50
+CS2001,Data Structures,BDS-3B,D-25 Academic Block II (50), Dr. Farooq Zaidi,monday,8:55 - 9:45
+CS3005,Theory of Automata,BCS-3F,D-25 Academic Block II (50),Abeeha Sattar,monday,9:50 - 10:40
+CS3005,Theory of Automata,BCS-3F,D-25 Academic Block II (50), Abeeha Sattar,monday,10:45 - 11:35
+MT1004,Linear Algebra,BAI-3A,D-25 Academic Block II (50),Uzma Saleh,monday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BCS-3K,D-25 Academic Block II (50),Aashir Mehboob ,monday,12:35 - 1:25
+EE2003,Computer Organization and Assembly Language,BCS-3K,D-25 Academic Block II (50),Aashir Mehboob ,monday,1:30 - 2:20
+,Intro,to,D-25 Academic Block II (50),Mahrukh Khan,monday,3:20 - 4:10
+CS1002,Programming Fundamentals,BCS-1D,D-26 Academic Block II (50),Hajra Ahmed,monday,8:00 - 8:50
+SS1012,Functional English,BCS-1D,D-26 Academic Block II (50),Javeriya Ahmed,monday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BDS-1A,D-26 Academic Block II (50),Jamil Usmani,monday,9:50 - 10:40
+NS1001,Applied Physics,BCS-1B,D-26 Academic Block II (50),Ishtiaq Ahmed,monday,11:40 - 12:30
+CS1002,Programming Fundamentals,BCS-1B,D-26 Academic Block II (50),Sobia Iftikhar,monday,12:35 - 1:25
+HU127,Ideology and Constitution of Pakistan,BCS-1B,D-26 Academic Block II (50),Muhammad Adeel,monday,2:25 - 3:15
+CS1002,Programming Fundamentals,BCS-1E,D-27 Academic Block II (50),Javeria Farooq,monday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BCS-1D,D-27 Academic Block II (50),Muhammad Adeel,monday,10:45 - 11:35
+SS1012,Functional English,BCS-1C,D-27 Academic Block II (50),Faiza Mumtaz,monday,11:40 - 12:30
+NS1001,Applied Physics,BCS-1C,D-27 Academic Block II (50),Muhammad Rahim,monday,12:35 - 1:25
+MT1003,Calculus and Analytical Geometry,BCS-1C,D-27 Academic Block II (50),Aneesa Nawaz,monday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BCS-1C,D-27 Academic Block II (50),Khushboo,monday,3:20 - 4:10
+MT1003,Calculus and Analytical Geometry,BCS-1H,D-28 Academic Block II (50),Asma Masood,monday,8:00 - 8:50
+CS1002,Programming Fundamentals,BCS-1H,D-28 Academic Block II (50),Syed Ahmed Khan,monday,8:55 - 9:45
+SS1012,Functional English,BCS-1E,D-28 Academic Block II (50),Javeriya Ahmed,monday,10:45 - 11:35
+HU127,Ideology and Constitution of Pakistan,BCS-1E,D-28 Academic Block II (50),Khushboo,monday,11:40 - 12:30
+NS1001,Applied Physics,BCS-1D,D-28 Academic Block II (50),Ishtiaq Ahmed,monday,12:35 - 1:25
+SS1007,Islamic Studies/Ethics,BCS-1D,D-28 Academic Block II (50),Farhan Ali Memon,monday,1:30 - 2:20
+SS1012,Functional English,BCS-1J,D-28 Academic Block II (50),Qurat ul Ain,monday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BCS-1J,D-28 Academic Block II (50),Jahan Ara (VF),monday,3:20 - 4:10
+CS1002,Programming Fundamentals,BCS-1J,E-29Academic Block II (52),Syed Faisal Ali,monday,8:00 - 8:50
+SS1007,Islamic Studies/Ethics,BCS-1J,E-29Academic Block II (52),Dr. Hassan Saeed,monday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BCS-1K,E-29Academic Block II (52),Jahan Ara (VF),monday,10:45 - 11:35
+NS1001,Applied Physics,BCS-1A,E-29Academic Block II (52),Muhammad Rahim,monday,11:40 - 12:30
+MT1003,Calculus and Analytical Geometry,BCS-1A,E-29Academic Block II (52),Aneesa Nawaz,monday,12:35 - 1:25
+SS1007,Islamic Studies/Ethics,BCS-1H,E-29Academic Block II (52),Farhan Ali Memon,monday,2:25 - 3:15
+NS1001,Applied Physics,BCS-1H,E-29Academic Block II (52),Ishtiaq Ahmed,monday,3:20 - 4:10
+SS1007,Islamic Studies/Ethics,BCS-1K,E-30 Academic Block II (52),Abdullah Siddqui,monday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BCS-1K,E-30 Academic Block II (52),Asma Masood,monday,9:50 - 10:40
+MT1003,Calculus and Analytical Geometry,BAI-1A,E-30 Academic Block II (52),Alishba Tariq,monday,10:45 - 11:35
+CS1002,Programming Fundamentals,BCS-1F,E-30 Academic Block II (52),Saif ur Rehman,monday,11:40 - 12:30
+MT1003,Calculus and Analytical Geometry,BCS-1F,E-30 Academic Block II (52),Asma Masood,monday,12:35 - 1:25
+NS1001,Applied Physics,BCS-1F,E-30 Academic Block II (52),Ishtiaq Ahmed,monday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BAI-1A,E-31 Academic Block II (52),Ibrahim Farooqi (VF),monday,8:00 - 8:50
+CS1002,Programming Fundamentals,BAI-1A,E-31 Academic Block II (52),Talha Shahid,monday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BCS-1G,E-31 Academic Block II (52),Syed Ashad Ali,monday,11:40 - 12:30
+CS1002,Programming Fundamentals,BCS-1G,E-31 Academic Block II (52),Saif ur Rehman,monday,1:30 - 2:20
+SS1007,Islamic Studies/Ethics,BCS-1G,E-31 Academic Block II (52),Abdullah Siddqui,monday,3:20 - 4:10
+NS1001,Applied Physics,BAI-1B,E-32 Academic Block II (52),Sana,monday,8:00 - 8:50
+CS1002,Programming Fundamentals,BAI-1B,E-32 Academic Block II (52),Syed Faisal Ali,monday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BAI-1B,E-32 Academic Block II (52),Ibrahim Farooqi (VF),monday,9:50 - 10:40
+NS1001,Applied Physics,BAI-1A,E-32 Academic Block II (52),Sana,monday,11:40 - 12:30
+SS1012,Functional English,BCS-1K,E-32 Academic Block II (52),Javeria Ali Wadho,monday,12:35 - 1:25
+SS1012,Functional English,BCS-1K,E-32 Academic Block II (52),Javeria Ali Wadho,monday,1:30 - 2:20
+NS1001,Applied Physics,BSE-1B,E-32 Academic Block II (52),Miqdad Khan,monday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BSE-1B,E-32 Academic Block II (52), Imad Uddin,monday,3:20 - 4:10
+CS1002,Programming Fundamentals,BSE-1B,E-33 Academic Block II (52),Fizza Mansoor,monday,8:00 - 8:50
+HU127,Ideology and Constitution of Pakistan,BSE-1B,E-33 Academic Block II (52),Wajiha Najam (VF),monday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BAI-1B,E-33 Academic Block II (52),Alishba Tariq,monday,11:40 - 12:30
+NS1001,Applied Physics,BAI-1C,E-33 Academic Block II (52),Sana,monday,12:35 - 1:25
+MT1003,Calculus and Analytical Geometry,BAI-1C,E-33 Academic Block II (52),Alishba Tariq,monday,1:30 - 2:20
+SS1007,Islamic Studies/Ethics,BAI-1C,E-33 Academic Block II (52),Abdullah Siddqui,monday,2:25 - 3:15
+MT1003,Calculus and Analytical Geometry,BCY-1B,E-34 Academic Block II (52),Aneesa Nawaz,monday,8:00 - 8:50
+SS1012,Functional English,BCY-1B,E-34 Academic Block II (52),Mariam Aftab ,monday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BSE-1A,E-34 Academic Block II (52),Wajiha Najam (VF),monday,10:45 - 11:35
+HU127,Ideology and Constitution of Pakistan,BCY-1A,E-34 Academic Block II (52),Wajiha Najam (VF),monday,11:40 - 12:30
+NS1001,Applied Physics,BCY-1A,E-34 Academic Block II (52),Javed Qureshi ,monday,1:30 - 2:20
+CS1002,Programming Fundamentals,BCY-1A,E-34 Academic Block II (52),Abuzar Zafar,monday,2:25 - 3:15
+NS1001,Applied Physics,BDS-1A,E-35 Academic Block II (52),Miqdad Khan ,monday,8:00 - 8:50
+HU127,Ideology and Constitution of Pakistan,BAI-1C,E-35 Academic Block II (52),Ibrahim Farooqi (VF),monday,8:55 - 9:45
+CS1002,Programming Fundamentals,BAI-1C,E-35 Academic Block II (52),Talha Shahid,monday,9:50 - 10:40
+SS1012,Functional English,BAI-1C,E-35 Academic Block II (52),Nazia Imam,monday,10:45 - 11:35
+SS1007,Islamic Studies/Ethics,BDS-1A,E-35 Academic Block II (52), Imad Uddin,monday,11:40 - 12:30
+HU127,Ideology and Constitution of Pakistan,BCY-1B,E-35 Academic Block II (52),Jahan Ara (VF),monday,2:25 - 3:15
+NS1001,Applied Physics,BCY-1B,E-35 Academic Block II (52),Javed Qureshi,monday,3:20 - 4:10
+SL1012,Functional English - Lab,BCS-1F,LLC Academic Block I (R7) (50),Tahira Abdul Hakeem,monday,8:00 - 10:40
+SL1012,Functional English - Lab,BCY-1B,LLC Academic Block I (R7) (50),Khadija Shireen,monday,10:45 - 1:25
+SL1012,Functional English - Lab,BAI-1A,LLC Academic Block I (R7) (50),Madiha Rehman,monday,1:30 - 4:10
+SL1012,Functional English - Lab,BCS-1G,C-20 Academic Block II (50),Qurat ul Ain,monday,8:00 - 10:40
+SL1012,Functional English - Lab,BSE-1B,C-20 Academic Block II (50),Maimoona,monday,10:45 - 1:25
+,Eng-1 - Lab,BSBA -1A,C-20 Academic Block II (50),Sharmeen Ismail,monday,1:30 - 4:10
+,Eng-1 - Lab,BSFT -1A,Eng Lang Room  Academic Block II (50),Faiza Mumtaz,monday,8:00 - 10:40
+,Eng-1 - Lab,BSFT -1D,Eng Lang Room  Academic Block II (50),Brohi,monday,10:45 - 1:25
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3B,Academic Block I CY LAB-2 (48),Abdullah Shaikh,monday,8:00 - 10:40
+CL2001,Data Structures - Lab,BCS-3E,Academic Block I CY LAB-2 (48),Abdullah Yaqoob,monday,10:45 - 1:25
+CL2001,Data Structures - Lab,BCS-3A,Academic Block I CY LAB-2 (48),Shafique Rehman ,monday,1:30 - 4:10
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3D,Academic Block I LAB-3 (47), Muhammad Owais,monday,8:00 - 10:40
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3C,Academic Block I LAB-3 (47), Waseem Rauf,monday,10:45 - 1:25
+,FM - Lab,BSBA-5A,Academic Block I LAB-3 (47),Zehra ,monday,1:30 - 4:10
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3J,Academic Block I LAB-4 (46), Seema Hashwani ,monday,8:00 - 10:40
+CL2001,Data Structures - Lab,BCS-3H,Academic Block I LAB-4 (46),Junaid Aslam,monday,10:45 - 1:25
+EL2003,Computer Organization and Assembly Language - Lab,BSE-3A,Academic Block I LAB-4 (46),Muhammad Nadeem,monday,1:30 - 4:10
+,DBS - Lab,BCS-5A,Academic Block III LAB-5 (52),Sadaf Zehra ,monday,8:00 - 10:40
+CL2001,Data Structures - Lab,BSE-3B,Academic Block III LAB-5 (52),Zainab Asif,monday,10:45 - 1:25
+,Intro,to,Academic Block III LAB-5 (52),Ramsha Jatt,monday,1:30 - 2:20
+EL2003,Computer Organization and Assembly Language - Lab,BAI-3A,Academic Block II DS LAB-6 (52),Jahanzaib,monday,8:00 - 10:40
+CL2001,Data Structures - Lab,BDS-3B,Academic Block II DS LAB-6 (52),Alishba Subhani,monday,10:45 - 1:25
+,DBS - Lab,BCS-5B,Academic Block II DS LAB-6 (52),Ramsha Iqbal,monday,1:30 - 4:10
+,Digital Forensics - Lab,BCY-5A,Academic Block II LAB-7 (45),Saqib,monday,8:00 - 10:40
+CL3001,Computer Networks - Lab,BCS-5C,Academic Block II LAB-7 (45),Abdullah Shaikh,monday,1:30 - 4:10
+,IT,in,Academic Block II CY LAB-8 (49),Muhammad Ali Asghar,monday,8:00 - 8:50
+CL3001,Computer Networks - Lab,BCS-5G,Academic Block II CY LAB-8 (49),Sadaf Zehra ,monday,1:30 - 4:10
+,Electrical,Network,Academic Block II LAB-10 (44),Engr. Bushra,monday,8:00 - 8:50
+,Object,Oriented,Academic Block II LAB-10 (44),Dr. Muhammad Burhan Khan,monday,10:45 - 11:35
+,Computer,Architecture,Academic Block II LAB-10 (44),TBA,monday,1:30 - 2:20
+CL1002,Programming Fundamentals - Lab,BCS-1A,Academic Block II LAB-11 (46),Saira Ayub,monday,8:00 - 10:40
+CL1002,Programming Fundamentals - Lab,BSE-1A,Academic Block II LAB-11 (46),Syeda Ravia Ijaz,monday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BCS-1B,Academic Block II Lab-12 (47),Fatima Malik (Visiting),monday,8:00 - 10:40
+CL3001,Computer Networks - Lab,BCS-5F,Academic Block II Lab-12 (47),Sameer Faisal,monday,10:45 - 1:25
+,Introduction to Information and Communication Technology - Lab,BCS-1E,Academic Block II Lab-12 (47),Osama Tahir ,monday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BCS-1C,Academic Block II Lab-13 (47),Kinza Mushtaq,monday,8:00 - 10:40
+CL1002,Programming Fundamentals - Lab,BCS-1H,Academic Block II Lab-13 (47),Muhammad Qasim Keeryo,monday,10:45 - 1:25
+CL1002,Programming Fundamentals - Lab,BDS-1A,Academic Block II Lab-13 (47),Jahanzaib,monday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BCY-1A,Academic Block II Lab-14 (43),Sandesh Kumar,monday,8:00 - 10:40
+CL1002,Programming Fundamentals - Lab,BCS-1J,Academic Block II Lab-14 (43),Sheeraz Iqbal,monday,10:45 - 1:25
+,Introduction to Information and Communication Technology - Lab,BAI-1B,Academic Block II Lab-14 (43),Fatima Malik (VF),monday,1:30 - 4:10
+,Electrical,Network,Academic Block II Electronics Lab,Engr. Bushra,monday,8:00 - 8:50
+,Applied,Physics,Academic Block II Physics Lab,TBA,monday,10:45 - 11:35
+,Analog,and,Academic Block II Physics Lab,Engr. Sadaf Ayesha,monday,1:30 - 2:20
+,DLP,BCS-7A,E-1 Academic Block I (50),Dr. Maria,tuesday,8:00 - 8:50
+CS4001,Professional Practices in IT,BCS-7M,E-1 Academic Block I (50),Asif Fazwani (VF),tuesday,8:55 - 9:45
+CS3002,Information Security,BCS-7A,E-1 Academic Block I (50),Dr. Nadeem Kafi,tuesday,9:50 - 10:40
+CS3002,Information Security,BSE-7A,E-1 Academic Block I (50),Dr. Aqsa Aslam,tuesday,10:45 - 11:35
+,DLP,BCS-7B,E-1 Academic Block I (50),Dr. Maria,tuesday,11:40 - 12:30
+,DLP,BCS-7B,E-1 Academic Block I (50),Dr. Maria,tuesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7A,E-1 Academic Block I (50),Aashir Mehboob,tuesday,1:30 - 2:20
+CS4001,Professional Practices in IT,BCS-7J,E-1 Academic Block I (50),Syed Muhammad Saad (VF),tuesday,2:25 - 3:15
+,ST,BSE-7A,E-2 Academic Block I (50),Alina Arshad,tuesday,8:00 - 8:50
+,C.,Const.,E-2 Academic Block I (50),Zain ul Hasan,tuesday,8:55 - 9:45
+CS3002,Information Security,BCS-7B,E-2 Academic Block I (50),Dr. Shakil,tuesday,9:50 - 10:40
+CS3002,Information Security,BSE-7B,E-2 Academic Block I (50),Hira Tunio,tuesday,10:45 - 11:35
+,ST,BCS-7B,E-2 Academic Block I (50),Alina Arshad,tuesday,11:40 - 12:30
+,ST,BCS-7B,E-2 Academic Block I (50),Alina Arshad,tuesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7C,E-2 Academic Block I (50),Anaum Hamid,tuesday,1:30 - 2:20
+CS3002,Information Security,BCS-7G,E-2 Academic Block I (50),Dr. Nadeem Kafi,tuesday,2:25 - 3:15
+,ICC,BCS-7A,E-3 Academic Block I (50),Sudais,tuesday,8:00 - 8:50
+MT3001,Graph Theory,BCS-5A,E-3 Academic Block I (50),Urooj,tuesday,8:55 - 9:45
+CS3002,Information Security,BCS-7C,E-3 Academic Block I (50),Yusra Kaleem,tuesday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCY-7A,E-3 Academic Block I (50),Asif Fazwani (VF),tuesday,10:45 - 11:35
+,ICC,BCS-7B,E-3 Academic Block I (50),Sudais,tuesday,11:40 - 12:30
+,ICC,BCS-7B,E-3 Academic Block I (50),Sudais,tuesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7E,E-3 Academic Block I (50),Yusra Kaleem,tuesday,1:30 - 2:20
+,C.,Const.,E-3 Academic Block I (50),Zulfiqar Ali,tuesday,2:25 - 3:15
+,C.,Const.,E-3 Academic Block I (50),Zulfiqar Ali,tuesday,3:20 - 4:10
+,GenAI,BAI-7A,E-4 Academic Block I (50),Omer Qureshi,tuesday,8:00 - 8:50
+CS406,Web Programming,BCS-5A,E-4 Academic Block I (50),Ali Fatmi,tuesday,8:55 - 9:45
+CS4001,Professional Practices in IT,BCS-7D,E-4 Academic Block I (50),Anaum Hamid,tuesday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCY-7B,E-4 Academic Block I (50),Ghulam (VF),tuesday,10:45 - 11:35
+,GenAI,BAI-7B,E-4 Academic Block I (50),Omer Qureshi,tuesday,11:40 - 12:30
+,GenAI,BAI-7B,E-4 Academic Block I (50),Omer Qureshi,tuesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7F,E-4 Academic Block I (50),Dr. Abdul Aziz,tuesday,1:30 - 2:20
+CS3002,Information Security,BCS-7K,E-4 Academic Block I (50),Rabia Ahmed Ansari,tuesday,2:25 - 3:15
+CS4001,Professional Practices in IT,BCS-7K,E-4 Academic Block I (50),Syed Muhammad Saad (VF),tuesday,3:20 - 4:10
+CS2009,Design and Analysis of Algorithms,BCS-5A,E-5 Academic Block I (50),Muhammad Kashif,tuesday,8:00 - 8:50
+RS1002,Research Skills,BCS-5A,E-5 Academic Block I (50),Dr. Farrukh Shahid,tuesday,8:55 - 9:45
+CS3002,Information Security,BCS-7E,E-5 Academic Block I (50),Shaheer Khan,tuesday,9:50 - 10:40
+AI3004,Natural Language Processing,BAI-7B,E-5 Academic Block I (50),Saeeda Kanwal,tuesday,10:45 - 11:35
+CS3001,Computer Networks,BCS-5C,E-5 Academic Block I (50),Kashan Hussain,tuesday,11:40 - 12:30
+CS3002,Information Security,BCY-7A,E-5 Academic Block I (50), Ali Naseer,tuesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7G,E-5 Academic Block I (50),Bilal Ahsan,tuesday,1:30 - 2:20
+,C.,Const.,E-5 Academic Block I (50),Shahar Bano,tuesday,2:25 - 3:15
+CS4001,Professional Practices in IT,BCS-7L,E-5 Academic Block I (50),Anaum Hamid,tuesday,3:20 - 4:10
+CS3001,Computer Networks,BCS-5B,E-6 Academic Block I (50),Dr. Ghufran Ahmed,tuesday,8:00 - 8:50
+MG3002,Financial and Strategic Project Management,BCS-5A,E-6 Academic Block I (50),Ubaid Aftab,tuesday,8:55 - 9:45
+CS3002,Information Security,BCS-7F,E-6 Academic Block I (50),Rabia Ahmed Ansari,tuesday,9:50 - 10:40
+MT3001,Graph Theory,BCS-5A,E-6 Academic Block I (50),TBA,tuesday,10:45 - 11:35
+MT3001,Graph Theory,BCS-5A,E-6 Academic Block I (50),TBA,tuesday,11:40 - 12:30
+CS3002,Information Security,BCS-7A,E-6 Academic Block I (50),Dr. Nadeem Kafi,tuesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7H,E-6 Academic Block I (50),Saeeda Kanwal ,tuesday,1:30 - 2:20
+MG3002,Financial and Strategic Project Management,BSE-7B,E-6 Academic Block I (50),Minhal Raza,tuesday,2:25 - 3:15
+,Enter,BAI-7A,E-6 Academic Block I (50), Dr. Mohsin,tuesday,3:20 - 4:10
+CS2009,Design and Analysis of Algorithms,BCS-5C,R-11 Academic Block I (50),Dr. Nasir Uddin,tuesday,8:00 - 8:50
+,OR,BCS-5A,R-11 Academic Block I (50),Urooj,tuesday,8:55 - 9:45
+CS3002,Information Security,BCS-7H,R-11 Academic Block I (50),Dr. Aqsa Aslam,tuesday,9:50 - 10:40
+CS406,Web Programming,BCS-5A,R-11 Academic Block I (50),Ali Fatmi,tuesday,10:45 - 11:35
+CS406,Web Programming,BCS-5A,R-11 Academic Block I (50),Ali Fatmi,tuesday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BCS-3J,R-11 Academic Block I (50),Dr. Rabia Tabassum ,tuesday,12:35 - 1:25
+,C.,Const.,R-11 Academic Block I (50),Shahar Bano,tuesday,1:30 - 2:20
+EE2003,Computer Organization and Assembly Language,BCS-3E,R-11 Academic Block I (50),Dr. Rabia Tabassum ,tuesday,2:25 - 3:15
+,Enter,BAI-7B,R-11 Academic Block I (50), Dr. Nazia Nazeer,tuesday,3:20 - 4:10
+CS2009,Design and Analysis of Algorithms,BCS-5F,R-12 Academic Block I (70),Sandesh Kumar,tuesday,8:00 - 8:50
+,DBS,BCS-5F,R-12 Academic Block I (70),Hajra Ahmed,tuesday,8:55 - 9:45
+RS1002,Research Skills,BCS-5A,R-12 Academic Block I (70),Dr. Farrukh Shahid,tuesday,10:45 - 11:35
+RS1002,Research Skills,BCS-5A,R-12 Academic Block I (70),Dr. Farrukh Shahid,tuesday,11:40 - 12:30
+,DBS,BCS-5J,R-12 Academic Block I (70),Dr. Zulfiqar Ali Memon,tuesday,12:35 - 1:25
+,C.,Const.,R-12 Academic Block I (70),Zain ul Hasan,tuesday,1:30 - 2:20
+AI3004,Natural Language Processing,BAI-7C,R-12 Academic Block I (70),Saeeda Kanwal,tuesday,2:25 - 3:15
+,Enter,BAI-7C,R-12 Academic Block I (70), Michael Simon,tuesday,3:20 - 4:10
+CS2009,Design and Analysis of Algorithms,BCS-5G,R-109 Academic Block I (50),Zulfiqar Ali,tuesday,8:00 - 8:50
+CS3001,Computer Networks,BCS-5G,R-109 Academic Block I (50),Dr. Ghufran Ahmed,tuesday,8:55 - 9:45
+CS3002,Information Security,BCS-7M,R-109 Academic Block I (50),Hira Tunio,tuesday,9:50 - 10:40
+MG3002,Financial and Strategic Project Management,BCS-5A,R-109 Academic Block I (50),Ubaid Aftab,tuesday,10:45 - 11:35
+MG3002,Financial and Strategic Project Management,BCS-5A,R-109 Academic Block I (50),Ubaid Aftab,tuesday,11:40 - 12:30
+MG3002,Financial and Strategic Project Management,BSE-7A,R-109 Academic Block I (50),Minhal Raza,tuesday,1:30 - 2:20
+CS2009,Design and Analysis of Algorithms,BSE-5A,R-109 Academic Block I (50),Fizza Mansoor,tuesday,2:25 - 3:15
+AI3002,Machine Learning,BSE-5A,A-1 Academic Block II (50),Minhal Raza,tuesday,8:00 - 8:50
+,DBS,BCS-5H,A-1 Academic Block II (50),Javeria Farooq,tuesday,8:55 - 9:45
+CS4001,Professional Practices in IT,BSE-7A,A-1 Academic Block II (50),Dr. Abdul Aziz,tuesday,9:50 - 10:40
+CS4042,Computer Vision,BAI-7A,A-1 Academic Block II (50),Saif ur Rehman,tuesday,10:45 - 11:35
+,Intro.,to,A-1 Academic Block II (50),Rubab Manzar,tuesday,11:40 - 12:30
+CS2009,Design and Analysis of Algorithms,BCY-5A,A-1 Academic Block II (50),Dr. Kamran,tuesday,12:35 - 1:25
+CS3006,Parallel and Distributed Computing,BCY-7A,A-1 Academic Block II (50), Farooq Zaidi,tuesday,1:30 - 2:20
+,DBS,BCS-5A,A-1 Academic Block II (50),Hajra Ahmed,tuesday,2:25 - 3:15
+CS3001,Computer Networks,BCS-5A,A-1 Academic Block II (50),Dr. Farrukh Salim,tuesday,3:20 - 4:10
+SS2012,Technical and Business Writing,BCY-5B,A-2Academic Block II (50),Atifa Batool,tuesday,8:00 - 8:50
+CS2009,Design and Analysis of Algorithms,BCS-5J,A-2Academic Block II (50),Fahad Sherwani,tuesday,8:55 - 9:45
+CS4001,Professional Practices in IT,BSE-7B,A-2Academic Block II (50),Ghulam (VF),tuesday,9:50 - 10:40
+CS4042,Computer Vision,BAI-7C,A-2Academic Block II (50),Bilal Ahsan,tuesday,10:45 - 11:35
+,Discrete,BCS-3F,A-2Academic Block II (50),Dr. Nouman Durrani,tuesday,11:40 - 12:30
+CS3002,Information Security,BCY-7B,A-2Academic Block II (50), Ali Naseer,tuesday,1:30 - 2:20
+CS3001,Computer Networks,BCS-5B,A-2Academic Block II (50),Dr. Ghufran Ahmed,tuesday,2:25 - 3:15
+CS2009,Design and Analysis of Algorithms,BCS-5B,A-2Academic Block II (50),Fahad Sherwani,tuesday,3:20 - 4:10
+EE2003,Computer Organization and Assembly Language,BCS-3D,A-3 Academic Block II (50),Waseem Rauf ,tuesday,8:00 - 8:50
+SS2012,Technical and Business Writing,BSE-5A,A-3 Academic Block II (50),Atifa Batool,tuesday,8:55 - 9:45
+AI3004,Natural Language Processing,BAI-7A,A-3 Academic Block II (50),Saeeda Kanwal,tuesday,9:50 - 10:40
+SE4005,Software Quality Engineering,BSE-5A,A-3 Academic Block II (50),Rubab Manzar,tuesday,10:45 - 11:35
+CS3005,Theory of Automata,BCS-3G,A-3 Academic Block II (50),Bakhtawar Abbasi,tuesday,11:40 - 12:30
+,KRR,BAI-5A,A-3 Academic Block II (50),Muhammad Rafi,tuesday,12:35 - 1:25
+,DBS,BCY-5A,A-3 Academic Block II (50),Atiya Jokhio,tuesday,1:30 - 2:20
+,DBS,BCS-5D,A-3 Academic Block II (50),Basit Jasani,tuesday,2:25 - 3:15
+CS2009,Design and Analysis of Algorithms,BCY-5A,A-3 Academic Block II (50),Dr. Kamran,tuesday,3:20 - 4:10
+,Reserved Slot,For,A-4 Academic Block II (50),No Teacher,tuesday,8:00 - 9:00
+,Psych,BCS-3A,A-5 Academic Block II (50),Aqsa Fayyaz,tuesday,8:00 - 8:50
+CS2001,Data Structures,BCS-3A,A-5 Academic Block II (50), Dr. Jawwad Shamsi,tuesday,8:55 - 9:45
+CS2009,Design and Analysis of Algorithms,BCS-5E,A-5 Academic Block II (50),Muhammad Kashif,tuesday,9:50 - 10:40
+,DBS,BCS-5C,A-5 Academic Block II (50),Atiya Jokhio,tuesday,10:45 - 11:35
+CS3005,Theory of Automata,BCS-3J,A-5 Academic Block II (50),Muhammad Kashif,tuesday,11:40 - 12:30
+CS2001,Data Structures,BSE-3A,A-5 Academic Block II (50), Dr. Anam Qureshi,tuesday,12:35 - 1:25
+CS2001,Data Structures,BSE-3B,A-5 Academic Block II (50), Dr. Anam Qureshi,tuesday,1:30 - 2:20
+CS3001,Computer Networks,BCS-5J,A-5 Academic Block II (50),Kashan Hussain,tuesday,2:25 - 3:15
+SE2002,Software Design and Architecture,BCS-5J,A-5 Academic Block II (50),Syed Ahmed Khan,tuesday,3:20 - 4:10
+,Psych,BCS-3B,A-6 Academic Block II (50),Faiza Iqbal,tuesday,8:00 - 8:50
+CS2001,Data Structures,BCS-3E,A-6 Academic Block II (50),Basit Jasani ,tuesday,8:55 - 9:45
+CS2009,Design and Analysis of Algorithms,BCS-5H,A-6 Academic Block II (50),Sandesh Kumar,tuesday,9:50 - 10:40
+CS3001,Computer Networks,BCS-5E,A-6 Academic Block II (50),Kashan Hussain,tuesday,10:45 - 11:35
+MT1004,Linear Algebra,BCS-3C,A-6 Academic Block II (50),Dr. Fahad Riaz,tuesday,11:40 - 12:30
+CS3005,Theory of Automata,BCS-3K,A-6 Academic Block II (50),Shahar Bano ,tuesday,12:35 - 1:25
+CS3006,Parallel and Distributed Computing,BCY-7B,A-6 Academic Block II (50), Farooq Zaidi,tuesday,2:25 - 3:15
+,Intro.,to,A-6 Academic Block II (50),Rubab Manzar,tuesday,3:20 - 4:10
+,Socio,BCS-3A,A-7 Academic Block II (50),Kauser Malik,tuesday,8:00 - 8:50
+,MFM,BSBA-7A,A-7 Academic Block II (50),Dr. Mohsin Ali ,tuesday,8:55 - 9:45
+CS4042,Computer Vision,BAI-7B,A-7 Academic Block II (50),Bilal Ahsan,tuesday,9:50 - 10:40
+,PST,BSBA-7A,A-7 Academic Block II (50),Dr. Shahnawaz,tuesday,10:45 - 11:35
+,DCB,BSBA-7A,A-7 Academic Block II (50),Dr. Mushtaq Ahmed,tuesday,11:40 - 12:30
+,Entrep,BSBA-7A,A-7 Academic Block II (50),Asiya Zaheer ,tuesday,1:30 - 2:20
+,DBS,BCY-5B,A-7 Academic Block II (50),Ali Naseer Shah,tuesday,2:25 - 3:15
+CS3002,Information Security,BCY-5B,A-7 Academic Block II (50),Nouman Rajput,tuesday,3:20 - 4:10
+,CB,BSBA-5A,A-8 Academic Block II (53),Umer Farooq,tuesday,8:00 - 8:50
+,DS&BA,BSBA-5A,A-8 Academic Block II (53),Ali Fatmi,tuesday,8:55 - 9:45
+,Entrep,BSFT-5A,A-8 Academic Block II (53),Dr. Nazia Nazeer,tuesday,9:50 - 10:40
+,BE,BBA-5A,A-8 Academic Block II (53),Dr. Mushtaq Ahmed,tuesday,10:45 - 11:35
+,HRM,BSBA-5A,A-8 Academic Block II (53),Museara Bhutto,tuesday,1:30 - 2:20
+,EIS,BSFT-5A,A-8 Academic Block II (53),TBA,tuesday,2:25 - 3:15
+,ME,BSFT-3A,B-9 Academic Block II (53),Michael Simon,tuesday,8:00 - 8:50
+,BM2,BSFT-3A,B-9 Academic Block II (53),Muhammad Amjad,tuesday,8:55 - 9:45
+,BM2,BSFT-3B,B-9 Academic Block II (53),Muhammad Amjad,tuesday,9:50 - 10:40
+,BF,BSFT-3C,B-9 Academic Block II (53),Jahangir,tuesday,11:40 - 12:30
+,BM2,BSFT-3C,B-9 Academic Block II (53),Muhammad Amjad,tuesday,12:35 - 1:25
+,Discrete,BCS-3K,B-9 Academic Block II (53),Aemon (VF),tuesday,1:30 - 2:20
+,Discrete,BCS-3K,B-9 Academic Block II (53),Aemon (VF),tuesday,2:25 - 3:15
+SS2043,Civics and Community Engagement,BSFT-3C,B-10 Academic Block II (53),Dr. Wajiha Raheeq,tuesday,8:00 - 8:50
+,ME,BSFT-3C,B-10 Academic Block II (53),Museara Bhutto,tuesday,8:55 - 9:45
+,IOOP,BSFT-3A,B-10 Academic Block II (53),Nida Munawar,tuesday,9:50 - 10:40
+,IOOP,BSFT-3B,B-10 Academic Block II (53),Nida Munawar,tuesday,10:45 - 11:35
+SS2043,Civics and Community Engagement,BSFT-3A,B-10 Academic Block II (53),Dr. Wajiha Raheeq,tuesday,11:40 - 12:30
+SS2043,Civics and Community Engagement,BSFT-3B,B-10 Academic Block II (53),Dr. Wajiha Raheeq,tuesday,12:35 - 1:25
+,BF,BSFT-3B,B-10 Academic Block II (53),Zehra,tuesday,2:25 - 3:15
+,ME,BSFT-3B,B-11 Academic Block II (53),Dr. Mushtaq Ahmed,tuesday,8:00 - 8:50
+,Psyco,BSFT-3B,B-11 Academic Block II (53),Aqsa Fayyaz,tuesday,8:55 - 9:45
+,Psyco,BSFT-3C,B-11 Academic Block II (53),Aqsa Fayyaz,tuesday,9:50 - 10:40
+CS2001,Data Structures,BCS-3H,B-11 Academic Block II (53),Fizza Aqeel,tuesday,11:40 - 12:30
+,Psyco,BSFT-3A,B-11 Academic Block II (53),Aqsa Fayyaz,tuesday,12:35 - 1:25
+CS2001,Data Structures,BCS-3B,B-11 Academic Block II (53),Fizza Aqeel,tuesday,2:25 - 3:15
+,OHS,BSEE,C-12 Academic Block II (50),,tuesday,8:00 - 8:50
+,EDC,BSEE,C-12 Academic Block II (50),,tuesday,8:55 - 9:45
+,EDC,BSEE,C-12 Academic Block II (50),,tuesday,9:50 - 10:40
+,Applied,Physics,C-12 Academic Block II (50),,tuesday,11:40 - 12:30
+,MM,BSFT-1B,C-12 Academic Block II (50), Asiya Zaheer,tuesday,3:20 - 4:10
+,ENA,BSEE,C-13 Academic Block II (50),,tuesday,8:00 - 8:50
+,ENA,BSEE,C-13 Academic Block II (50),,tuesday,8:55 - 9:45
+,AC,BSCE,C-13 Academic Block II (50),,tuesday,9:50 - 10:40
+,AC,BSCE,C-13 Academic Block II (50),,tuesday,10:45 - 11:35
+,CVT,BSEE,C-13 Academic Block II (50),,tuesday,11:40 - 12:30
+CL1000,Introduction to Information and Communication Technology,BSEE,C-13 Academic Block II (50),,tuesday,12:35 - 1:25
+CL1000,Introduction to Information and Communication Technology,BSEE,C-13 Academic Block II (50),,tuesday,1:30 - 2:20
+,Applied,Physics,C-14 Academic Block II (50),,tuesday,8:00 - 8:50
+CL1000,Introduction to Information and Communication Technology,BSEE,C-14 Academic Block II (50),,tuesday,8:55 - 9:45
+CL1000,Introduction to Information and Communication Technology,BSEE,C-14 Academic Block II (50),,tuesday,9:50 - 10:40
+,CA,BSEE,C-14 Academic Block II (50),,tuesday,11:40 - 12:30
+HU127,Ideology and Constitution of Pakistan,BSCE,C-14 Academic Block II (50),,tuesday,12:35 - 1:25
+HU127,Ideology and Constitution of Pakistan,BSCE,C-14 Academic Block II (50),,tuesday,1:30 - 2:20
+,ENG,BSCE,C-15 Academic Block II (50),,tuesday,8:00 - 8:50
+,AML,BSEE,C-15 Academic Block II (50),,tuesday,8:55 - 9:45
+,AML,BSEE,C-15 Academic Block II (50),,tuesday,9:50 - 10:40
+,ADC,BSEE,C-15 Academic Block II (50),,tuesday,10:45 - 11:35
+,ADC,BSEE,C-15 Academic Block II (50),,tuesday,11:40 - 12:30
+,MVC,BSEE,C-15 Academic Block II (50),,tuesday,12:35 - 1:25
+,Applied,Physics,C-15 Academic Block II (50),,tuesday,1:30 - 2:20
+,Applied,Physics,C-15 Academic Block II (50),,tuesday,2:25 - 3:15
+EE2003,Computer Organization and Assembly Language,BCS-3F,C-16 Academic Block II (50),Ubaidullah ,tuesday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BCS-3B,C-16 Academic Block II (50), Atiya Jokhio ,tuesday,8:55 - 9:45
+,DAB2,BSBA,C-16 Academic Block II (50),Dr. Anwar Mughees,tuesday,9:50 - 10:40
+,Socio,BCS-3C,C-16 Academic Block II (50),Kauser Malik,tuesday,11:40 - 12:30
+MT1004,Linear Algebra,BCS-3A,C-16 Academic Block II (50),Dr. Fahad Riaz,tuesday,2:25 - 3:15
+CS2001,Data Structures,BCS-3G,C-17 Academic Block II (59),Sania Urooj,tuesday,8:00 - 8:50
+,Discrete,BCS-3C,C-17 Academic Block II (59),Dr. Nouman Durrani,tuesday,8:55 - 9:45
+SE3001,Software System Design,BCY-7A,C-17 Academic Block II (59),Abuzar Zafar,tuesday,9:50 - 10:40
+MT1004,Linear Algebra,BAI-3A,C-17 Academic Block II (59),Uzma Saleh,tuesday,11:40 - 12:30
+CS3005,Theory of Automata,BCS-3C,C-17 Academic Block II (59),Kashan Hussain ,tuesday,3:20 - 4:10
+CS3005,Theory of Automata,BCS-3H,C-18 Academic Block II (50),Bakhtawar Abbasi,tuesday,8:00 - 8:50
+CS2001,Data Structures,BCS-3D,C-18 Academic Block II (50),Farrukh Hasan Syed,tuesday,8:55 - 9:45
+SE3001,Software System Design,BCY-7B,C-18 Academic Block II (50),Abeer Gauher,tuesday,9:50 - 10:40
+,Discrete,BSE-3B,C-18 Academic Block II (50),Aemon (VF),tuesday,11:40 - 12:30
+,Discrete,BCS-3J,C-18 Academic Block II (50),Shoaib Raza,tuesday,2:25 - 3:15
+CS3005,Theory of Automata,BCS-3D,C-18 Academic Block II (50),Muhammad Kashif,tuesday,3:20 - 4:10
+CS2001,Data Structures,BCS-3J,C-19 Academic Block II (50),Mubashra Fayyaz ,tuesday,8:00 - 8:50
+CS2001,Data Structures,BDS-3B,C-19 Academic Block II (50), Farooq Zaidi,tuesday,8:55 - 9:45
+AI3002,Machine Learning,BAI-5A,C-19 Academic Block II (50),Sania Urooj,tuesday,9:50 - 10:40
+,Cyber,Security,C-19 Academic Block II (50),Abeer Gauher,tuesday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BCS-3D,C-19 Academic Block II (50),Waseem Rauf ,tuesday,2:25 - 3:15
+,Discrete,BCS-3E,C-19 Academic Block II (50),Bakhtawar Abbasi,tuesday,3:20 - 4:10
+,Discrete,BAI-3A,C-21 Academic Block II (50),Mahrukh Khan,tuesday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BCS-3G,C-21 Academic Block II (50),Dr. Shakil,tuesday,8:55 - 9:45
+SS1007,Islamic Studies/Ethics,BCS-1C,C-21 Academic Block II (50),Uzair Siddiqui (VF),tuesday,10:45 - 11:35
+,Discrete,BDS-3A,C-21 Academic Block II (50),Dr. Fahad Samad,tuesday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BDS-3A,C-21 Academic Block II (50),Dr. Muhammad Adeel,tuesday,1:30 - 2:20
+EE2003,Computer Organization and Assembly Language,BDS-3A,C-21 Academic Block II (50),Dr. Muhammad Adeel,tuesday,2:25 - 3:15
+,Discrete,BCS-3G,C-21 Academic Block II (50),Shoaib Raza,tuesday,3:20 - 4:10
+CS2001,Data Structures,BDS-3A,D-22 Academic Block II (50),Farooq Zaidi,tuesday,8:00 - 8:50
+CS3002,Information Security,BCS-7J,D-22 Academic Block II (50),Yusra Kaleem,tuesday,8:55 - 9:45
+EE2003,Computer Organization and Assembly Language,BCS-3H,D-22 Academic Block II (50),Shoaib Rauf ,tuesday,9:50 - 10:40
+SS1007,Islamic Studies/Ethics,BCS-1J,D-22 Academic Block II (50),Dr. Hassan Saeed,tuesday,10:45 - 11:35
+,Intro,to,D-22 Academic Block II (50),Mahrukh Khan,tuesday,11:40 - 12:30
+CS2001,Data Structures,BCS-3C,D-22 Academic Block II (50),Farrukh Hasan Syed,tuesday,12:35 - 1:25
+MT1004,Linear Algebra,BCS-3G,D-22 Academic Block II (50),Uzma Saleh,tuesday,2:25 - 3:15
+EE2003,Computer Organization and Assembly Language,BAI-3A,D-22 Academic Block II (50),Ubaidullah,tuesday,3:20 - 4:10
+CS3005,Theory of Automata,BCS-3E,D-23 Academic Block II (50),Abeeha Sattar ,tuesday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BCS-3J,D-23 Academic Block II (50),Dr. Rabia Tabassum ,tuesday,8:55 - 9:45
+MT1004,Linear Algebra,BSE-3A,D-23 Academic Block II (50),Nadeem Khan,tuesday,9:50 - 10:40
+AF1001,Fundamentals of Accounting,BDS,D-23 Academic Block II (50),Aleena Fayyaz,tuesday,10:45 - 11:35
+,Discrete,BCS-3A,D-23 Academic Block II (50),Dr. Nouman Durrani,tuesday,12:35 - 1:25
+CS2001,Data Structures,BCS-3C,D-23 Academic Block II (50),Farrukh Hasan Syed,tuesday,1:30 - 2:20
+CS2001,Data Structures,BAI-3A,D-23 Academic Block II (50),Sania Urooj,tuesday,2:25 - 3:15
+,Discrete,BSE-3A,D-23 Academic Block II (50),Hira Tunio,tuesday,3:20 - 4:10
+MT1004,Linear Algebra,BSE-3B,D-24 Academic Block II (50),Nadeem Khan,tuesday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BSE-3A,D-24 Academic Block II (50), Shoaib Rauf,tuesday,8:55 - 9:45
+EE2003,Computer Organization and Assembly Language,BAI-3A,D-24 Academic Block II (50),Ubaidullah,tuesday,9:50 - 10:40
+MG1001,Fundamentals of Management,BDS,D-24 Academic Block II (50),Dr. Nazia Nazeer,tuesday,10:45 - 11:35
+CS1002,Programming Fundamentals,BCS-1B,D-24 Academic Block II (50),Sobia Iftikhar,tuesday,11:40 - 12:30
+,Discrete,BCS-3G,D-24 Academic Block II (50),Shoaib Raza,tuesday,12:35 - 1:25
+MT1004,Linear Algebra,BCS-3F,D-24 Academic Block II (50),Urooj,tuesday,1:30 - 2:20
+CS2001,Data Structures,BCY-3A,D-25 Academic Block II (50),Nouman Rajput,tuesday,8:00 - 8:50
+,Intro.,to,D-25 Academic Block II (50),Rubab Manzar,tuesday,8:55 - 9:45
+CS2001,Data Structures,BCS-3F,D-25 Academic Block II (50),Basit Jasani ,tuesday,9:50 - 10:40
+MG1006,Principles of Economics,BDS,D-25 Academic Block II (50),Musera Bhutto,tuesday,10:45 - 11:35
+SS1007,Islamic Studies/Ethics,BCS-1E,D-25 Academic Block II (50),Dr. Hassan Saeed,tuesday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BDS-3B,D-25 Academic Block II (50),Dr. Muhammad Adeel,tuesday,12:35 - 1:25
+CS1002,Programming Fundamentals,BCS-1A,D-25 Academic Block II (50),Sobia Iftikhar,tuesday,2:25 - 3:15
+MT1004,Linear Algebra,BDS-3A,D-25 Academic Block II (50),Nadeem Khan,tuesday,3:20 - 4:10
+SS1007,Islamic Studies/Ethics,BCS-1A,D-26 Academic Block II (50),Abdul Muqtadir (VF),tuesday,8:00 - 8:50
+,Discrete,BCY-3A,D-26 Academic Block II (50),Dr. Fahad Samad,tuesday,8:55 - 9:45
+,Discrete,BDS-3B,D-26 Academic Block II (50),Dr. Fahad Samad,tuesday,9:50 - 10:40
+CS3005,Theory of Automata,BCS-3F,D-26 Academic Block II (50),Abeeha Sattar,tuesday,10:45 - 11:35
+MT1003,Calculus and Analytical Geometry,BCS-1D,D-26 Academic Block II (50),Shahid Ashraf,tuesday,11:40 - 12:30
+MT1003,Calculus and Analytical Geometry,BCS-1B,D-26 Academic Block II (50),Shahid Ashraf,tuesday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BCS-1A,D-26 Academic Block II (50),Khushboo,tuesday,3:20 - 4:10
+NS1001,Applied Physics,BCS-1E,D-27 Academic Block II (50),Muhammad Rahim,tuesday,8:00 - 8:50
+SS1007,Islamic Studies/Ethics,BCS-1A,D-27 Academic Block II (50),Abdul Muqtadir (VF),tuesday,8:55 - 9:45
+EE2003,Computer Organization and Assembly Language,BCS-3C,D-27 Academic Block II (50),Dr. Rabia Tabassum ,tuesday,9:50 - 10:40
+EE2003,Computer Organization and Assembly Language,BCS-3A,D-27 Academic Block II (50), Aashir Mehboob ,tuesday,10:45 - 11:35
+HU127,Ideology and Constitution of Pakistan,BCS-1F,D-27 Academic Block II (50),Muhammad Adeel,tuesday,11:40 - 12:30
+AI3001,Principles of Artificial Intelligence,BAI-3A,D-27 Academic Block II (50),Talha Shahid,tuesday,12:35 - 1:25
+EE2003,Computer Organization and Assembly Language,BSE-3A,D-27 Academic Block II (50), Shoaib Rauf,tuesday,1:30 - 2:20
+NS1001,Applied Physics,BCS-1C,D-27 Academic Block II (50),Muhammad Rahim,tuesday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BCS-1B,D-27 Academic Block II (50),Farhan Ali Memon,tuesday,3:20 - 4:10
+HU127,Ideology and Constitution of Pakistan,BCS-1G,D-28 Academic Block II (50),Khushboo,tuesday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BCS-1E,D-28 Academic Block II (50),Shahid Ashraf,tuesday,8:55 - 9:45
+,Intro,to,D-28 Academic Block II (50),Mahrukh Khan,tuesday,9:50 - 10:40
+,Psych,BCS-3E,D-28 Academic Block II (50),Aqsa Fayyaz,tuesday,10:45 - 11:35
+SS1012,Functional English,BCS-1H,D-28 Academic Block II (50),Javeria Ali Wadho,tuesday,11:40 - 12:30
+SS1007,Islamic Studies/Ethics,BCS-1D,D-28 Academic Block II (50),Farhan Ali Memon,tuesday,2:25 - 3:15
+MT1004,Linear Algebra,BDS-3B,D-28 Academic Block II (50),Moheez-UR-Rahim,tuesday,3:20 - 4:10
+CS1002,Programming Fundamentals,BCS-1J,E-29Academic Block II (52),Syed Faisal Ali,tuesday,8:55 - 9:45
+,Psych,BCS-3F,E-29Academic Block II (52),Faiza Iqbal,tuesday,10:45 - 11:35
+MT1003,Calculus and Analytical Geometry,BCS-1J,E-29Academic Block II (52),Asma Masood,tuesday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BSE-3B,E-29Academic Block II (52),Dr. Shakil,tuesday,12:35 - 1:25
+SS1012,Functional English,BCS-1F,E-29Academic Block II (52),Qurat ul Ain,tuesday,2:25 - 3:15
+SS1012,Functional English,BCS-1G,E-29Academic Block II (52),Javeria Ali Wadho,tuesday,3:20 - 4:10
+SS1007,Islamic Studies/Ethics,BCS-1K,E-30 Academic Block II (52),Abdullah Siddqui,tuesday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BCS-1K,E-30 Academic Block II (52),Asma Masood,tuesday,8:55 - 9:45
+CS1002,Programming Fundamentals,BSE-1A,E-30 Academic Block II (52),Fizza Mansoor,tuesday,9:50 - 10:40
+,Socio,BCS-3C,E-30 Academic Block II (52),Kauser Malik,tuesday,10:45 - 11:35
+HU127,Ideology and Constitution of Pakistan,BCS-1K,E-30 Academic Block II (52),Jahan Ara (VF),tuesday,11:40 - 12:30
+MT1003,Calculus and Analytical Geometry,BCS-1G,E-30 Academic Block II (52),Syed Ashad Ali,tuesday,12:35 - 1:25
+NS1001,Applied Physics,BAI-1B,E-30 Academic Block II (52),Sana,tuesday,2:25 - 3:15
+CS1002,Programming Fundamentals,BCS-1F,E-30 Academic Block II (52),Saif ur Rehman,tuesday,3:20 - 4:10
+CS1002,Programming Fundamentals,BAI-1A,E-31 Academic Block II (52),Talha Shahid,tuesday,8:00 - 8:50
+NS1001,Applied Physics,BAI-1A,E-31 Academic Block II (52),Sana,tuesday,8:55 - 9:45
+CS1002,Programming Fundamentals,BCS-1G,E-31 Academic Block II (52),Saif ur Rehman,tuesday,9:50 - 10:40
+HU127,Ideology and Constitution of Pakistan,BCS-1E,E-31 Academic Block II (52),Khushboo,tuesday,10:45 - 11:35
+SS1007,Islamic Studies/Ethics,BAI-1A,E-31 Academic Block II (52),Abdullah Siddqui,tuesday,11:40 - 12:30
+NS1001,Applied Physics,BCS-1B,E-31 Academic Block II (52),Ishtiaq Ahmed,tuesday,12:35 - 1:25
+SS1007,Islamic Studies/Ethics,BCS-1G,E-31 Academic Block II (52),Abdullah Siddqui,tuesday,1:30 - 2:20
+MT1003,Calculus and Analytical Geometry,BAI-1C,E-31 Academic Block II (52),Alishba Tariq,tuesday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BAI-1B,E-31 Academic Block II (52),Abdullah Siddqui,tuesday,3:20 - 4:10
+CS1002,Programming Fundamentals,BAI-1B,E-32 Academic Block II (52),Syed Faisal Ali,tuesday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BAI-1B,E-32 Academic Block II (52),Alishba Tariq,tuesday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BCS-1J,E-32 Academic Block II (52),Jahan Ara (VF),tuesday,9:50 - 10:40
+NS1001,Applied Physics,BCS-1G,E-32 Academic Block II (52),Muhammad Rahim,tuesday,10:45 - 11:35
+NS1001,Applied Physics,BAI-1C,E-32 Academic Block II (52),Sana,tuesday,11:40 - 12:30
+CS1002,Programming Fundamentals,BCS-1C,E-32 Academic Block II (52),Abeeha Sattar,tuesday,12:35 - 1:25
+MT1003,Calculus and Analytical Geometry,BDS-1A,E-32 Academic Block II (52),Jamil Usmani,tuesday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BSE-1A,E-33 Academic Block II (52), Imad Uddin,tuesday,8:00 - 8:50
+NS1001,Applied Physics,BSE-1A,E-33 Academic Block II (52),Miqdad Khan,tuesday,8:55 - 9:45
+CS1002,Programming Fundamentals,BCS-1K,E-33 Academic Block II (52),Uzma Raza (V),tuesday,10:45 - 11:35
+MT1003,Calculus and Analytical Geometry,BSE-1A,E-33 Academic Block II (52),Syed Ashad Ali,tuesday,11:40 - 12:30
+MT1003,Calculus and Analytical Geometry,BCS-1F,E-33 Academic Block II (52),Asma Masood,tuesday,12:35 - 1:25
+SS1012,Functional English,BAI-1A,E-33 Academic Block II (52),Nazia Imam,tuesday,1:30 - 2:20
+NS1001,Applied Physics,BSE-1B,E-33 Academic Block II (52),Miqdad Khan,tuesday,2:25 - 3:15
+CS1002,Programming Fundamentals,BCY-1A,E-34 Academic Block II (52),Abuzar Zafar,tuesday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BCY-1A,E-34 Academic Block II (52),Jamil Usmani,tuesday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BAI-1A,E-34 Academic Block II (52),Alishba Tariq,tuesday,10:45 - 11:35
+MT1003,Calculus and Analytical Geometry,BSE-1B,E-34 Academic Block II (52), Rabia Sagheer,tuesday,11:40 - 12:30
+NS1001,Applied Physics,BCS-1D,E-34 Academic Block II (52),Ishtiaq Ahmed,tuesday,1:30 - 2:20
+SS1007,Islamic Studies/Ethics,BCY-1A,E-34 Academic Block II (52), Imad Uddin,tuesday,2:25 - 3:15
+CS1002,Programming Fundamentals,BAI-1C,E-34 Academic Block II (52),Talha Shahid,tuesday,3:20 - 4:10
+CS1002,Programming Fundamentals,BCY-1B,E-35 Academic Block II (52),Uzma Raza,tuesday,8:00 - 8:50
+CS1002,Programming Fundamentals,BCY-1B,E-35 Academic Block II (52),Uzma Raza,tuesday,8:55 - 9:45
+SS1012,Functional English,BDS-1A,E-35 Academic Block II (52), Wajiha Akber,tuesday,10:45 - 11:35
+CS1002,Programming Fundamentals,BDS-1A,E-35 Academic Block II (52),Talha Shahid,tuesday,11:40 - 12:30
+CS1002,Programming Fundamentals,BSE-1B,E-35 Academic Block II (52),Fizza Mansoor,tuesday,12:35 - 1:25
+NS1001,Applied Physics,BDS-1A,E-35 Academic Block II (52),Miqdad Khan ,tuesday,1:30 - 2:20
+HU127,Ideology and Constitution of Pakistan,BCY-1B,E-35 Academic Block II (52),Jahan Ara (VF),tuesday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BCY-1B,E-35 Academic Block II (52), Imad Uddin,tuesday,3:20 - 4:10
+SL1012,Functional English - Lab,BCS-1C,LLC Academic Block I (R7) (50),Khadija Shireen,tuesday,8:00 - 10:40
+SL1012,Functional English - Lab,BAI-1B,LLC Academic Block I (R7) (50),Madiha Rehman,tuesday,10:45 - 1:25
+SL1012,Functional English - Lab,BCS-1K,LLC Academic Block I (R7) (50),Javeriya Ahmed,tuesday,1:30 - 4:10
+SL1012,Functional English - Lab,BCS-1B,C-20 Academic Block II (50),Mariam Aftab,tuesday,8:00 - 10:40
+SL1012,Functional English - Lab,BCY-1A,C-20 Academic Block II (50),Qurat ul Ain,tuesday,10:45 - 1:25
+SL1012,Functional English - Lab,BSE-1A,C-20 Academic Block II (50),Maimoona,tuesday,1:30 - 4:10
+,DBS - Lab,BCS-5D,Academic Block I CY LAB-2 (48),Fatima Gado,tuesday,10:45 - 1:25
+,DBS - Lab,BCS-5C,Academic Block I CY LAB-2 (48),Fareeha Jabeen,tuesday,1:30 - 4:10
+,DBS - Lab,BCY-5A,Academic Block I LAB-3 (47),Kinza Mushtaq ,tuesday,8:00 - 10:40
+,DBS - Lab,BCS-5F,Academic Block I LAB-3 (47),Amna Aslam,tuesday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BCS-1D,Academic Block I LAB-4 (46),Bushra Sattar,tuesday,8:00 - 10:40
+,DBS - Lab,BCS-5G,Academic Block I LAB-4 (46),Abdullah Yaqoob,tuesday,1:30 - 4:10
+CL3001,Computer Networks - Lab,BCS-5B,Academic Block III LAB-5 (52),Hijab Sikandar (VF),tuesday,10:45 - 1:25
+CL3001,Computer Networks - Lab,BCS-5H,Academic Block III LAB-5 (52),Abdullah Shaikh,tuesday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BSE-1B,Academic Block II DS LAB-6 (52),Syeda Tehreem Gillani,tuesday,8:00 - 10:40
+CL3001,Computer Networks - Lab,BCS-5A,Academic Block II DS LAB-6 (52),Sameer Faisal,tuesday,10:45 - 1:25
+,Introduction to Information and Communication Technology - Lab,BCS-1J,Academic Block II DS LAB-6 (52),Saira Ayub,tuesday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BCS-1H,Academic Block II LAB-7 (45),Hijab Sikandar (VF),tuesday,8:00 - 10:40
+,Machine Learning - Lab,BAI-5A,Academic Block II LAB-7 (45),Mehak Mazhar,tuesday,1:30 - 4:10
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3K,Academic Block II CY LAB-8 (49), Seema Hashwani ,tuesday,8:00 - 10:40
+,Digital Forensics - Lab,BCY-5B,Academic Block II CY LAB-8 (49),Saqib,tuesday,10:45 - 1:25
+,DCNet - Lab,BSEE -5B,Academic Block II AI/ML LAB-9 (47),Engr. Zakir Hussain,tuesday,8:00 - 10:40
+,Introduction to Information and Communication Technology - Lab,BCY-1B,Academic Block II AI/ML LAB-9 (47),Amna Aslam,tuesday,10:45 - 1:25
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3H,Academic Block II AI/ML LAB-9 (47),Muhammad Owais,tuesday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BAI-1C,Academic Block II LAB-10 (44),Areeba Awan (VF),tuesday,8:00 - 10:40
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3E,Academic Block II LAB-10 (44),Ghulam Qadir,tuesday,10:45 - 1:25
+,Application,of,Academic Block II LAB-11 (46),TBA,tuesday,8:00 - 8:50
+,Application,of,Academic Block II LAB-11 (46),Engr. Bushra,tuesday,10:45 - 11:35
+,Application,of,Academic Block II LAB-11 (46),Engr. Ghulam Qadir,tuesday,1:30 - 2:20
+,Introduction to Information and Communication Technology - Lab,BDS-1A,Academic Block II Lab-12 (47),Mehak Mazhar,tuesday,8:00 - 10:40
+CL2001,Data Structures - Lab,BCS-3B,Academic Block II Lab-12 (47),Shafique Rehman,tuesday,10:45 - 1:25
+,DCNet - Lab,BSEE -5A,Academic Block II Lab-12 (47),Dr. Haider Mehdi,tuesday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BCS-1F,Academic Block II Lab-13 (47),Saqib Shah ,tuesday,8:00 - 10:40
+CL2001,Data Structures - Lab,BCS-3D,Academic Block II Lab-13 (47),Syeda Ravia Ijaz,tuesday,10:45 - 1:25
+,Introduction to Information and Communication Technology - Lab,BCS-1A,Academic Block II Lab-14 (43),Osama Tahir,tuesday,10:45 - 1:25
+CL1002,Programming Fundamentals - Lab,BCS-1E,Academic Block II Lab-14 (43),Amna Mubarak,tuesday,1:30 - 4:10
+,Electronic,Devices,Academic Block II Electronics Lab,Engr. Aqib Noor,tuesday,1:30 - 2:20
+CS4001,Professional Practices in IT,BCS-7M,E-1 Academic Block I (50),Asif Fazwani (VF),wednesday,8:00 - 8:50
+,DLP,BCS-7A,E-1 Academic Block I (50),Dr. Maria,wednesday,8:55 - 9:45
+,DLP,BCS-7B,E-1 Academic Block I (50),Dr. Maria,wednesday,9:50 - 10:40
+CS3002,Information Security,BCS-7A,E-1 Academic Block I (50),Dr. Nadeem Kafi,wednesday,10:45 - 11:35
+,DLP,BCS-7A,E-1 Academic Block I (50),Dr. Maria,wednesday,11:40 - 12:30
+,C.,Const.,E-1 Academic Block I (50),Anaum Hamid,wednesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7A,E-1 Academic Block I (50),Aashir Mehboob,wednesday,1:30 - 2:20
+,C.,Const.,E-1 Academic Block I (50),Syed Faisal Ali,wednesday,2:25 - 3:15
+,C.,Const.,E-1 Academic Block I (50),Syed Faisal Ali,wednesday,3:20 - 4:10
+,C.,Const.,E-2 Academic Block I (50),Syed Faisal Ali,wednesday,8:00 - 8:50
+,ST,BCS-7A,E-2 Academic Block I (50),Alina Arshad,wednesday,8:55 - 9:45
+,ST,BCS-7B,E-2 Academic Block I (50),Alina Arshad,wednesday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCY-7A,E-2 Academic Block I (50),Asif Fazwani (VF),wednesday,10:45 - 11:35
+,ST,BCS-7A,E-2 Academic Block I (50),Alina Arshad,wednesday,11:40 - 12:30
+,C.,Const.,E-2 Academic Block I (50),Shahar Bano,wednesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7B,E-2 Academic Block I (50),Aashir Mehboob,wednesday,1:30 - 2:20
+,C.,Const.,E-2 Academic Block I (50),Shahar Bano,wednesday,2:25 - 3:15
+CS3002,Information Security,BSE-7A,E-3 Academic Block I (50),Dr. Aqsa Aslam,wednesday,8:00 - 8:50
+,ICC,BCS-7A,E-3 Academic Block I (50),Sudais,wednesday,8:55 - 9:45
+,ICC,BCS-7B,E-3 Academic Block I (50),Sudais,wednesday,9:50 - 10:40
+,C.,Const.,E-3 Academic Block I (50),Syed Faisal Ali,wednesday,10:45 - 11:35
+,ICC,BCS-7A,E-3 Academic Block I (50),Sudais,wednesday,11:40 - 12:30
+,C.,Const.,E-3 Academic Block I (50),Zulfiqar Ali,wednesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7C,E-3 Academic Block I (50),Anaum Hamid,wednesday,1:30 - 2:20
+,C.,Const.,E-3 Academic Block I (50),Zulfiqar Ali,wednesday,2:25 - 3:15
+CS3002,Information Security,BSE-7B,E-4 Academic Block I (50),Hira Tunio,wednesday,8:00 - 8:50
+,GenAI,BAI-7A,E-4 Academic Block I (50),Omer Qureshi,wednesday,8:55 - 9:45
+,GenAI,BAI-7B,E-4 Academic Block I (50),Omer Qureshi,wednesday,9:50 - 10:40
+CS3002,Information Security,BCS-7B,E-4 Academic Block I (50),Dr. Shakil,wednesday,10:45 - 11:35
+,GenAI,BAI-7A,E-4 Academic Block I (50),Omer Qureshi,wednesday,11:40 - 12:30
+CS4001,Professional Practices in IT,BSE-7A,E-4 Academic Block I (50),Dr. Abdul Aziz,wednesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7E,E-4 Academic Block I (50),Yusra Kaleem,wednesday,1:30 - 2:20
+,C.,Const.,E-4 Academic Block I (50),Anaum Hamid,wednesday,2:25 - 3:15
+SE3001,Software System Design,BCY-7A,E-5 Academic Block I (50),Abuzar Zafar,wednesday,8:00 - 8:50
+CS3002,Information Security,BCS-7L,E-5 Academic Block I (50),Usama Antuley,wednesday,8:55 - 9:45
+CS3002,Information Security,BCS-7D,E-5 Academic Block I (50),Usama Antuley,wednesday,9:50 - 10:40
+CS3002,Information Security,BCS-7C,E-5 Academic Block I (50),Yusra Kaleem,wednesday,10:45 - 11:35
+CS3002,Information Security,BCS-7G,E-5 Academic Block I (50),Dr. Nadeem Kafi,wednesday,11:40 - 12:30
+CS4001,Professional Practices in IT,BSE-7B,E-5 Academic Block I (50),Ghulam (VF),wednesday,12:35 - 1:25
+,C.,Const.,E-5 Academic Block I (50),Zain ul Hasan,wednesday,2:25 - 3:15
+,C.,Const.,E-6 Academic Block I (50),Shahar Bano,wednesday,8:55 - 9:45
+CS4001,Professional Practices in IT,BCS-7B,E-6 Academic Block I (50),Aashir Mehboob,wednesday,9:50 - 10:40
+CS3002,Information Security,BCS-7D,E-6 Academic Block I (50),Usama Antuley,wednesday,10:45 - 11:35
+CS3002,Information Security,BCS-7H,E-6 Academic Block I (50),Dr. Aqsa Aslam,wednesday,11:40 - 12:30
+CS3002,Information Security,BCY-7A,E-6 Academic Block I (50),Ali Naseer ,wednesday,12:35 - 1:25
+AI3004,Natural Language Processing,BAI-7B,E-6 Academic Block I (50),Saeeda Kanwal,wednesday,1:30 - 2:20
+CS4042,Computer Vision,BAI-7A,R-11 Academic Block I (50),Saif ur Rehman,wednesday,8:00 - 8:50
+CS4001,Professional Practices in IT,BCS-7G,R-11 Academic Block I (50),Bilal Ahsan,wednesday,8:55 - 9:45
+,C.,Const.,R-11 Academic Block I (50),Zain ul Hasan,wednesday,9:50 - 10:40
+CS3002,Information Security,BCS-7E,R-11 Academic Block I (50),Shaheer Khan,wednesday,10:45 - 11:35
+CS3002,Information Security,BCS-7J,R-11 Academic Block I (50),Yusra Kaleem,wednesday,11:40 - 12:30
+CS3006,Parallel and Distributed Computing,BCY-7B,R-11 Academic Block I (50),Farooq Zaidi,wednesday,12:35 - 1:25
+MG3002,Financial and Strategic Project Management,BSE-7B,R-11 Academic Block I (50),Minhal Raza,wednesday,1:30 - 2:20
+CS3002,Information Security,BCY-7B,R-11 Academic Block I (50),Ali Naseer,wednesday,2:25 - 3:15
+CS4042,Computer Vision,BAI-7B,R-12 Academic Block I (70),Bilal Ahsan,wednesday,8:00 - 8:50
+CS4001,Professional Practices in IT,BCS-7H,R-12 Academic Block I (70),Saeeda Kanwal ,wednesday,8:55 - 9:45
+CS4001,Professional Practices in IT,BCS-7F,R-12 Academic Block I (70),Dr. Abdul Aziz,wednesday,9:50 - 10:40
+CS3002,Information Security,BCS-7F,R-12 Academic Block I (70),Rabia Ahmed Ansari,wednesday,10:45 - 11:35
+CS3002,Information Security,BCS-7K,R-12 Academic Block I (70),Rabia Ahmed Ansari,wednesday,11:40 - 12:30
+CS4042,Computer Vision,BAI-7C,R-12 Academic Block I (70),Bilal Ahsan,wednesday,12:35 - 1:25
+SE3001,Software System Design,BCY-7B,R-12 Academic Block I (70),Abeer Gauher,wednesday,1:30 - 2:20
+CS3006,Parallel and Distributed Computing,BCY-7A,R-12 Academic Block I (70),Farooq Zaidi,wednesday,2:25 - 3:15
+AI3004,Natural Language Processing,BAI-7C,R-109 Academic Block I (50),Saeeda Kanwal,wednesday,8:00 - 8:50
+CS4001,Professional Practices in IT,BCS-7L,R-109 Academic Block I (50),Anaum Hamid,wednesday,8:55 - 9:45
+MG3002,Financial and Strategic Project Management,BSE-7A,R-109 Academic Block I (50),Minhal Raza,wednesday,10:45 - 11:35
+CS3002,Information Security,BCS-7M,R-109 Academic Block I (50),Hira Tunio,wednesday,11:40 - 12:30
+AI3004,Natural Language Processing,BAI-7A,R-109 Academic Block I (50),Saeeda Kanwal,wednesday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7J,R-109 Academic Block I (50),Syed Muhammad Saad (VF),wednesday,1:30 - 2:20
+CS4001,Professional Practices in IT,BCS-7K,R-109 Academic Block I (50),Syed Muhammad Saad (VF),wednesday,2:25 - 3:15
+CS2009,Design and Analysis of Algorithms,BCS-5A,A-1 Academic Block II (50),Muhammad Kashif,wednesday,8:00 - 8:50
+MT3001,Graph Theory,BCS-5A,A-1 Academic Block II (50),TBA,wednesday,8:55 - 9:45
+CS2001,Data Structures,BCS-3K,A-1 Academic Block II (50),Mubashra Fayyaz,wednesday,9:50 - 10:40
+SE2002,Software Design and Architecture,BCS-5G,A-1 Academic Block II (50),Sobia Iftikhar,wednesday,10:45 - 11:35
+CS4001,Professional Practices in IT,BCS-7D,A-1 Academic Block II (50),Anaum Hamid,wednesday,11:40 - 12:30
+SE2002,Software Design and Architecture,BCS-5B,A-2Academic Block II (50),Ahmed Qaiser (VF),wednesday,8:00 - 8:50
+CS406,Web Programming,BCS-5A,A-2Academic Block II (50),Ali Fatmi,wednesday,8:55 - 9:45
+CS4001,Professional Practices in IT,BCY-7B,A-2Academic Block II (50),Ghulam (VF),wednesday,10:45 - 11:35
+CS2009,Design and Analysis of Algorithms,BCS-5D,A-2Academic Block II (50),Dr. Nasir Uddin,wednesday,11:40 - 12:30
+CS2009,Design and Analysis of Algorithms,BCS-5C,A-3 Academic Block II (50),Dr. Nasir Uddin,wednesday,8:00 - 8:50
+RS1002,Research Skills,BCS-5A,A-3 Academic Block II (50),Dr. Farrukh Shahid,wednesday,8:55 - 9:45
+,Enter,BAI-7A,A-3 Academic Block II (50),Dr. Mohsin,wednesday,10:45 - 11:35
+SE2002,Software Design and Architecture,BCS-5A,A-3 Academic Block II (50),Engr. Abdul Rahman,wednesday,11:40 - 12:30
+CS2009,Design and Analysis of Algorithms,BCS-5B,A-3 Academic Block II (50),Fahad Sherwani,wednesday,12:35 - 1:25
+,DBS,BCS-5B,A-3 Academic Block II (50),Javeria Farooq,wednesday,1:30 - 2:20
+SE2002,Software Design and Architecture,BCS-5F,A-3 Academic Block II (50),Syed Ahmed Khan,wednesday,2:25 - 3:15
+,Reserved Slot,For,A-4 Academic Block II (50),No Teacher,wednesday,8:00 - 9:00
+SE2002,Software Design and Architecture,BCS-5D,A-5 Academic Block II (50),Syed Ahmed Khan,wednesday,8:00 - 8:50
+MG3002,Financial and Strategic Project Management,BCS-5A,A-5 Academic Block II (50),Ubaid Aftab,wednesday,8:55 - 9:45
+SE2002,Software Design and Architecture,BCS-5B,A-5 Academic Block II (50),Ahmed Qaiser (VF),wednesday,9:50 - 10:40
+SE2002,Software Design and Architecture,BCS-5C,A-5 Academic Block II (50), Rubab Manzar,wednesday,11:40 - 12:30
+CS3001,Computer Networks,BCS-5F,A-5 Academic Block II (50),Shaheer Khan,wednesday,12:35 - 1:25
+CS2001,Data Structures,BCS-3B,A-5 Academic Block II (50),Fizza Aqeel,wednesday,1:30 - 2:20
+CS2001,Data Structures,BCS-3B,A-5 Academic Block II (50),Fizza Aqeel,wednesday,3:20 - 4:10
+,OR,BCS-5A,A-6 Academic Block II (50),Urooj,wednesday,8:55 - 9:45
+,Enter,BAI-7C,A-6 Academic Block II (50),Michael Simon,wednesday,10:45 - 11:35
+CS2001,Data Structures,BCS-3J,A-6 Academic Block II (50),Mubashra Fayyaz ,wednesday,11:40 - 12:30
+,ME,BSFT-3B,A-6 Academic Block II (50),Dr. Mushtaq Ahmed,wednesday,12:35 - 1:25
+SS2043,Civics and Community Engagement,BSBA,A-6 Academic Block II (50),Dr. Wajiha Raheeq,wednesday,1:30 - 2:20
+,ME,BSFT-3C,A-6 Academic Block II (50),Museara Bhutto,wednesday,2:25 - 3:15
+,IOOP,BSFT,A-7 Academic Block II (50),Madhia Aslam,wednesday,8:00 - 8:50
+,BF,BSFT,A-7 Academic Block II (50),Jahangir,wednesday,9:50 - 10:40
+,BF,BSFT,A-7 Academic Block II (50),Zehra,wednesday,10:45 - 11:35
+,IT,in,A-7 Academic Block II (50),BSFT -1C,wednesday,11:40 - 12:30
+,MM,BSFT-1E,A-7 Academic Block II (50),Museara Bhutto,wednesday,12:35 - 1:25
+SS1007,Islamic Studies/Ethics,BSFT,A-7 Academic Block II (50),Muhammad Hasham,wednesday,1:30 - 2:20
+AF1001,Fundamentals of Accounting,BSBA,A-8 Academic Block II (53),Dr. Sarfaraz Ahmed,wednesday,8:55 - 9:45
+SS1012,Functional English,BSBA,A-8 Academic Block II (53),Atifa Batool,wednesday,9:50 - 10:40
+,BM1,BSFT-1D,A-8 Academic Block II (53),Ashad Ali,wednesday,11:40 - 12:30
+SS1007,Islamic Studies/Ethics,BSFT,A-8 Academic Block II (53),Muhammad Hasham,wednesday,12:35 - 1:25
+,MM,BSFT-1A,A-8 Academic Block II (53),Asiya Zaheer,wednesday,1:30 - 2:20
+,Eng-1,BSFT,A-8 Academic Block II (53),Sharmeen Ismail,wednesday,2:25 - 3:15
+,MM,BSFT-1B,A-8 Academic Block II (53),Asiya Zaheer,wednesday,3:20 - 4:10
+AF1001,Fundamentals of Accounting,BSFT,B-9 Academic Block II (53),Zehra,wednesday,8:00 - 8:50
+,Eng-1,BSFT,B-9 Academic Block II (53),Sharmeen Ismail,wednesday,8:55 - 9:45
+AF1001,Fundamentals of Accounting,BSFT,B-9 Academic Block II (53),Zehra,wednesday,9:50 - 10:40
+,IT,in,B-9 Academic Block II (53),BSFT -1B,wednesday,11:40 - 12:30
+,IT,in,B-9 Academic Block II (53),BSFT -1A,wednesday,12:35 - 1:25
+,BM1,BSBA-1A,B-9 Academic Block II (53),Rabia Sagheer,wednesday,1:30 - 2:20
+MG1001,Fundamentals of Management,BSBA-1A,B-9 Academic Block II (53),Dr. Nazia Nazeer,wednesday,2:25 - 3:15
+,IT,in,B-9 Academic Block II (53),BSFT -1D,wednesday,3:20 - 4:10
+SS1007,Islamic Studies/Ethics,BSFT,B-10 Academic Block II (53),Farhan Ali Memon,wednesday,8:00 - 8:50
+AF1001,Fundamentals of Accounting,BSFT,B-10 Academic Block II (53),Rajib Ali,wednesday,8:55 - 9:45
+,BM1,BSFT-1E,B-10 Academic Block II (53),Rabia Sagheer,wednesday,9:50 - 10:40
+,UoS,BSFT,B-10 Academic Block II (53),Dr. Shahzad Shaikh,wednesday,11:40 - 12:30
+,BM1,BSFT-1B,B-10 Academic Block II (53),Dr. Khusro Mian,wednesday,12:35 - 1:25
+,MM,BSFT-1C,B-10 Academic Block II (53),Aleena Fayyaz,wednesday,1:30 - 2:20
+AF1001,Fundamentals of Accounting,BSFT,B-10 Academic Block II (53), Zehra,wednesday,2:25 - 3:15
+,BM1,BSFT-1C,B-10 Academic Block II (53),Dr. Khusro Mian,wednesday,3:20 - 4:10
+AF1001,Fundamentals of Accounting,BSFT,B-11 Academic Block II (53),Dr. Mohsin Ali,wednesday,8:00 - 8:50
+SS1007,Islamic Studies/Ethics,BSFT,B-11 Academic Block II (53),Muhammad Hasham,wednesday,8:55 - 9:45
+,Eng-1,BSFT,B-11 Academic Block II (53),Brohi,wednesday,9:50 - 10:40
+,BM2,BSFT-3B,B-11 Academic Block II (53),Muhammad Amjad ,wednesday,10:45 - 11:35
+CS2001,Data Structures,BCS-3H,B-11 Academic Block II (53),Fizza Aqeel,wednesday,11:40 - 12:30
+AF1001,Fundamentals of Accounting,BSFT,B-11 Academic Block II (53),Muhammad Ahsan,wednesday,1:30 - 2:20
+,BF,BSFT,B-11 Academic Block II (53),Rajib Ali,wednesday,2:25 - 3:15
+AF1001,Fundamentals of Accounting,BSFT,B-11 Academic Block II (53),Muhammad Ahsan,wednesday,3:20 - 4:10
+,DCNet,BSEE,C-12 Academic Block II (50),,wednesday,8:00 - 8:50
+,EDC,BSEE,C-12 Academic Block II (50),,wednesday,8:55 - 9:45
+,EDC,BSEE,C-12 Academic Block II (50),,wednesday,9:50 - 10:40
+,DSA,BSEE,C-12 Academic Block II (50),,wednesday,10:45 - 11:35
+,EMT,BSEE,C-12 Academic Block II (50),,wednesday,11:40 - 12:30
+,UoS,BSCE,C-12 Academic Block II (50),,wednesday,1:30 - 2:20
+,UoS,BSCE,C-12 Academic Block II (50),,wednesday,2:25 - 3:15
+,AC,BSCE,C-13 Academic Block II (50),,wednesday,8:00 - 8:50
+,AC,BSCE,C-13 Academic Block II (50),,wednesday,8:55 - 9:45
+CS1002,Programming Fundamentals,BSEE,C-13 Academic Block II (50),,wednesday,10:45 - 11:35
+,MPI,BSEE,C-13 Academic Block II (50),,wednesday,12:35 - 1:25
+,MPI,BSEE,C-13 Academic Block II (50),,wednesday,1:30 - 2:20
+,AC,BSEE,C-13 Academic Block II (50),,wednesday,2:25 - 3:15
+,AC,BSEE,C-13 Academic Block II (50),,wednesday,3:20 - 4:10
+,CA,BSEE,C-14 Academic Block II (50),,wednesday,8:00 - 8:50
+,CA,BSEE,C-14 Academic Block II (50),,wednesday,8:55 - 9:45
+,DCNet,BSEE,C-14 Academic Block II (50),,wednesday,9:50 - 10:40
+,DCNet,BSEE,C-14 Academic Block II (50),,wednesday,10:45 - 11:35
+,EM,BSEE,C-14 Academic Block II (50),,wednesday,11:40 - 12:30
+,CVT,BSEE,C-14 Academic Block II (50),,wednesday,12:35 - 1:25
+,CVT,BSEE,C-14 Academic Block II (50),,wednesday,1:30 - 2:20
+,CVT,BSEE,C-14 Academic Block II (50),,wednesday,2:25 - 3:15
+,AT,BSEE,C-15 Academic Block II (50),,wednesday,8:55 - 9:45
+CL1000,Introduction to Information and Communication Technology,BSCE,C-15 Academic Block II (50),,wednesday,11:40 - 12:30
+CL1000,Introduction to Information and Communication Technology,BSCE,C-15 Academic Block II (50),,wednesday,12:35 - 1:25
+CL1000,Introduction to Information and Communication Technology,BSCE,C-15 Academic Block II (50),,wednesday,1:30 - 2:20
+HU127,Ideology and Constitution of Pakistan,BSEE,C-15 Academic Block II (50),,wednesday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BSEE,C-15 Academic Block II (50),,wednesday,3:20 - 4:10
+,PST,BSBA-7A,C-16 Academic Block II (50),Dr. Shahnawaz,wednesday,8:00 - 8:50
+,MFM,BSBA-7A,C-16 Academic Block II (50),Dr. Mohsin Ali,wednesday,8:55 - 9:45
+,Entrep,BSBA-7A,C-16 Academic Block II (50),Asiya Zaheer ,wednesday,9:50 - 10:40
+,"""IOOP",BSFT-3C,C-16 Academic Block II (50),"Madhia Aslam """,wednesday,10:45 - 11:35
+,DCB,BSBA-7A,C-16 Academic Block II (50),Dr. Mushtaq Ahmed,wednesday,11:40 - 12:30
+,BCB,BSBA-5A,C-17 Academic Block II (59),Dr. Shahbaz Siddiqui,wednesday,8:00 - 8:50
+,FM,BSFBA-5A,C-17 Academic Block II (59),Muhammad Ahsan,wednesday,8:55 - 9:45
+,BE,BSBA-5A,C-17 Academic Block II (59),Dr. Mushtaq Ahmed,wednesday,9:50 - 10:40
+MG1001,Fundamentals of Management,BDS,C-17 Academic Block II (59),Dr. Nazia Nazeer,wednesday,10:45 - 11:35
+,Entrep,BSFT-5A,C-17 Academic Block II (59),Dr. Nazia Nazeer,wednesday,11:40 - 12:30
+,EIS,BSFT-5A,C-17 Academic Block II (59),TBA,wednesday,12:35 - 1:25
+,HRM,BSBA-5A,C-17 Academic Block II (59),Museara Bhutto,wednesday,2:25 - 3:15
+,PFB,BSBA,C-18 Academic Block II (50),Madhia Aslam,wednesday,8:00 - 8:50
+,DAB2,BSBA,C-18 Academic Block II (50),Dr. Anwar Mughees,wednesday,8:55 - 9:45
+,DAB2,BSBA,C-18 Academic Block II (50),Dr. Anwar Mughees,wednesday,9:50 - 10:40
+MT3001,Graph Theory,BCS-5A,C-18 Academic Block II (50),TBA,wednesday,10:45 - 11:35
+MT3001,Graph Theory,BCS-5A,C-18 Academic Block II (50),,wednesday,11:40 - 12:30
+,ME,BSFT-3A,C-19 Academic Block II (50), Michael Simon,wednesday,8:55 - 9:45
+CS2009,Design and Analysis of Algorithms,BCS-5E,C-19 Academic Block II (50),Muhammad Kashif,wednesday,9:50 - 10:40
+CS406,Web Programming,BCS-5A,C-19 Academic Block II (50),Ali Fatmi,wednesday,10:45 - 11:35
+CS406,Web Programming,BCS-5A,C-19 Academic Block II (50),Ali Fatmi,wednesday,11:40 - 12:30
+CS3001,Computer Networks,BCS-5G,C-21 Academic Block II (50),Dr. Ghufran Ahmed,wednesday,8:00 - 8:50
+,Discrete,BCS-3H,C-21 Academic Block II (50),Dr. Ghufran Ahmed,wednesday,8:55 - 9:45
+,DBS,BCS-5G,C-21 Academic Block II (50),Dr. Farrukh Salim,wednesday,9:50 - 10:40
+RS1002,Research Skills,BCS-5A,C-21 Academic Block II (50),Dr. Farrukh Shahid,wednesday,10:45 - 11:35
+RS1002,Research Skills,BCS-5A,C-21 Academic Block II (50),Dr. Farrukh Shahid,wednesday,11:40 - 12:30
+SS2012,Technical and Business Writing,BAI-5A,D-22 Academic Block II (50),Nazia Imam,wednesday,8:00 - 8:50
+,DBS,BAI-5A,D-22 Academic Block II (50),Ahmed Qaiser (VF),wednesday,8:55 - 9:45
+AI4006,Knowledge and Knowledge Representation,BAI-5A,D-22 Academic Block II (50),Muhammad Rafi,wednesday,9:50 - 10:40
+MG3002,Financial and Strategic Project Management,BCS-5A,D-22 Academic Block II (50),Ubaid Aftab,wednesday,10:45 - 11:35
+MG3002,Financial and Strategic Project Management,BCS-5A,D-22 Academic Block II (50),Ubaid Aftab,wednesday,11:40 - 12:30
+CY4003,Digital Forensics,BCY-5A,D-22 Academic Block II (50),Dr. Shahbaz Siddiqui,wednesday,12:35 - 1:25
+CS3002,Information Security,BCY-5A,D-22 Academic Block II (50),Nouman Rajput,wednesday,2:25 - 3:15
+CS2009,Design and Analysis of Algorithms,BAI-5A,D-22 Academic Block II (50),Dr. Kamran,wednesday,3:20 - 4:10
+,DBS,BCY-5A,D-23 Academic Block II (50),Atiya Jokhio,wednesday,8:55 - 9:45
+CY4003,Digital Forensics,BCY-5A,D-23 Academic Block II (50),Dr. Shahbaz Siddiqui,wednesday,9:50 - 10:40
+,OR,BCS-5A,D-23 Academic Block II (50),Urooj,wednesday,10:45 - 11:35
+CS2009,Design and Analysis of Algorithms,BAI-5A,D-23 Academic Block II (50),Dr. Kamran,wednesday,11:40 - 12:30
+AI3002,Machine Learning,BAI-5A,D-23 Academic Block II (50),Sania Urooj,wednesday,1:30 - 2:20
+,Discrete,BCS-3A,D-24 Academic Block II (50),Dr. Nouman Durrani,wednesday,8:00 - 8:50
+CS2001,Data Structures,BCS-3A,D-24 Academic Block II (50), Dr. Jawwad Shamsi,wednesday,8:55 - 9:45
+MT1004,Linear Algebra,BCS-3A,D-24 Academic Block II (50),Dr. Fahad Riaz,wednesday,9:50 - 10:40
+CY4003,Digital Forensics,BCY-5B,D-24 Academic Block II (50),Dr. Shahbaz Siddiqui,wednesday,10:45 - 11:35
+EE2003,Computer Organization and Assembly Language,BCS-3A,D-24 Academic Block II (50), Aashir Mehboob ,wednesday,11:40 - 12:30
+,Psych,BCS-3A,D-24 Academic Block II (50),Aqsa Fayyaz,wednesday,2:25 - 3:15
+MT1004,Linear Algebra,BCS-3B,D-25 Academic Block II (50),Urooj,wednesday,8:00 - 8:50
+CS3005,Theory of Automata,BCS-3B,D-25 Academic Block II (50), Ubaidullah,wednesday,8:55 - 9:45
+EE2003,Computer Organization and Assembly Language,BCS-3B,D-25 Academic Block II (50), Atiya Jokhio ,wednesday,9:50 - 10:40
+SS2012,Technical and Business Writing,BCY-5A,D-25 Academic Block II (50),Atifa Batool,wednesday,10:45 - 11:35
+MT1004,Linear Algebra,BCS-3B,D-25 Academic Block II (50),Urooj,wednesday,11:40 - 12:30
+,Psych,BCS-3B,D-25 Academic Block II (50),Faiza Iqbal,wednesday,2:25 - 3:15
+,Psych,BCS-3C,D-26 Academic Block II (50),Aqsa Fayyaz,wednesday,8:55 - 9:45
+MT1004,Linear Algebra,BCS-3D,D-26 Academic Block II (50),Urooj,wednesday,9:50 - 10:40
+,Discrete,BCS-3D,D-26 Academic Block II (50),Shoaib Raza,wednesday,10:45 - 11:35
+EE2003,Computer Organization and Assembly Language,BCS-3C,D-26 Academic Block II (50),Dr. Rabia Tabassum ,wednesday,11:40 - 12:30
+,Socio,BCS-3A,D-26 Academic Block II (50),Kauser Malik,wednesday,2:25 - 3:15
+CS2001,Data Structures,BCS-3C,D-26 Academic Block II (50),Farrukh Hasan Syed,wednesday,3:20 - 4:10
+,Discrete,BCS-3E,D-27 Academic Block II (50),Bakhtawar Abbasi,wednesday,8:00 - 8:50
+,Psych,BCS-3D,D-27 Academic Block II (50),Faiza Iqbal,wednesday,8:55 - 9:45
+EE2003,Computer Organization and Assembly Language,BCS-3J,D-27 Academic Block II (50),Dr. Rabia Tabassum ,wednesday,9:50 - 10:40
+MT1004,Linear Algebra,BCS-3E,D-27 Academic Block II (50),Uzma Saleh,wednesday,10:45 - 11:35
+MT1004,Linear Algebra,BCS-3E,D-27 Academic Block II (50),Uzma Saleh,wednesday,11:40 - 12:30
+,Discrete,BCS-3D,D-27 Academic Block II (50),Shoaib Raza,wednesday,2:25 - 3:15
+CS2001,Data Structures,BCS-3E,D-27 Academic Block II (50),Basit Jasani ,wednesday,3:20 - 4:10
+EE2003,Computer Organization and Assembly Language,BCS-3F,D-28 Academic Block II (50),Ubaidullah ,wednesday,8:00 - 8:50
+,Socio,BCS-3B,D-28 Academic Block II (50),Kauser Malik,wednesday,8:55 - 9:45
+EE2003,Computer Organization and Assembly Language,BCS-3H,D-28 Academic Block II (50),Shoaib Rauf ,wednesday,10:45 - 11:35
+,Discrete,BCS-3C,D-28 Academic Block II (50),Dr. Nouman Durrani,wednesday,12:35 - 1:25
+,Discrete,BCS-3F,D-28 Academic Block II (50),Dr. Nouman Durrani,wednesday,1:30 - 2:20
+CS2001,Data Structures,BCS-3F,D-28 Academic Block II (50),Basit Jasani ,wednesday,2:25 - 3:15
+EE2003,Computer Organization and Assembly Language,BCS-3G,E-29Academic Block II (52),Dr. Shakil,wednesday,8:55 - 9:45
+,Intro.,to,E-29Academic Block II (52),Rubab Manzar,wednesday,9:50 - 10:40
+MT1004,Linear Algebra,BSE-3B,E-29Academic Block II (52),Nadeem Khan,wednesday,10:45 - 11:35
+CS3005,Theory of Automata,BCS-3A,E-29Academic Block II (52), Ubaidullah ,wednesday,12:35 - 1:25
+CS2001,Data Structures,BCS-3G,E-29Academic Block II (52),Sania Urooj,wednesday,2:25 - 3:15
+,Psych,BCS-3E,E-30 Academic Block II (52),Aqsa Fayyaz,wednesday,8:00 - 8:50
+,Discrete,BDS-3B,E-30 Academic Block II (52),Dr. Fahad Samad,wednesday,9:50 - 10:40
+AF1001,Fundamentals of Accounting,BDS,E-30 Academic Block II (52),Aleena Fayyaz,wednesday,11:40 - 12:30
+,Discrete,BCS-3B,E-30 Academic Block II (52),Shoaib Raza,wednesday,12:35 - 1:25
+,Discrete,BCS-3K,E-30 Academic Block II (52),Aemon (VF),wednesday,2:25 - 3:15
+MT1004,Linear Algebra,BCS-3H,E-30 Academic Block II (52),Abdul Basit (VF),wednesday,3:20 - 4:10
+,Psych,BCS-3F,E-31 Academic Block II (52),Faiza Iqbal,wednesday,8:00 - 8:50
+MT1004,Linear Algebra,BCS3J-,E-31 Academic Block II (52),Uzma Saleh,wednesday,8:55 - 9:45
+MT1004,Linear Algebra,BCS-3K,E-31 Academic Block II (52),Abdul Basit (VF),wednesday,1:30 - 2:20
+MT1004,Linear Algebra,BCS-3H,E-31 Academic Block II (52),Abdul Basit (VF),wednesday,2:25 - 3:15
+,Socio,BCS-3C,E-32 Academic Block II (52),Kauser Malik,wednesday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BCS-3K,E-32 Academic Block II (52),Aashir Mehboob ,wednesday,8:55 - 9:45
+MG1006,Principles of Economics,BDS,E-32 Academic Block II (52),Musera Bhutto,wednesday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BCS-3D,E-32 Academic Block II (52),Waseem Rauf ,wednesday,12:35 - 1:25
+CS2001,Data Structures,BCS-3D,E-32 Academic Block II (52),Farrukh Hasan Syed,wednesday,1:30 - 2:20
+AI3001,Principles of Artificial Intelligence,BAI-3A,E-32 Academic Block II (52),Talha Shahid,wednesday,2:25 - 3:15
+EE2003,Computer Organization and Assembly Language,BDS-3A,E-32 Academic Block II (52),Dr. Muhammad Adeel,wednesday,3:20 - 4:10
+,Cyber,Security,E-33 Academic Block II (52),Abeer Gauher,wednesday,8:00 - 8:50
+AF1001,Fundamentals of Accounting,BSE,E-33 Academic Block II (52),Jahangir,wednesday,8:55 - 9:45
+,Discrete,BSE-3B,E-33 Academic Block II (52),Aemon (VF),wednesday,11:40 - 12:30
+,Discrete,BCS-3J,E-33 Academic Block II (52),Shoaib Raza,wednesday,12:35 - 1:25
+,Discrete,BAI-3A,E-33 Academic Block II (52),Mahrukh Khan,wednesday,1:30 - 2:20
+,Intro.,to,E-33 Academic Block II (52),Rubab Manzar,wednesday,2:25 - 3:15
+MT1004,Linear Algebra,SE-3A,E-33 Academic Block II (52),Nadeem Khan,wednesday,3:20 - 4:10
+MG1001,Fundamentals of Management,BSE,E-34 Academic Block II (52),Aleena Fayyaz,wednesday,8:55 - 9:45
+,Discrete,BDS-3A,E-34 Academic Block II (52),Dr. Fahad Samad,wednesday,11:40 - 12:30
+,Intro,to,E-34 Academic Block II (52),Mahrukh Khan,wednesday,12:35 - 1:25
+CS2001,Data Structures,BDS-3A,E-34 Academic Block II (52),Farooq Zaidi,wednesday,1:30 - 2:20
+,Discrete,BCY-3A,E-34 Academic Block II (52),Dr. Fahad Samad,wednesday,2:25 - 3:15
+CS2001,Data Structures,BCY-3A,E-34 Academic Block II (52),Nouman Rajput,wednesday,3:20 - 4:10
+MG1006,Principles of Economics,BSE,E-35 Academic Block II (52),Umer Farooq,wednesday,8:55 - 9:45
+MT1004,Linear Algebra,BDS-3B,E-35 Academic Block II (52),Moheez-UR-Rahim,wednesday,11:40 - 12:30
+,Socio,BCS-3K,E-35 Academic Block II (52),Kauser Malik,wednesday,12:35 - 1:25
+,Eng-1 - Lab,BSFT -1E,Eng Lang Room Academic Block II (50),Brohi,wednesday,1:30 - 4:10
+,DBS - Lab,BCS-5H,Academic Block I LAB-3 (47),Ramsha Iqbal,wednesday,8:00 - 10:40
+,DBS - Lab,BCY-5B,Academic Block I LAB-3 (47),Kinza Mushtaq ,wednesday,1:30 - 4:10
+CL3001,Computer Networks - Lab,BCS-5F,Academic Block I LAB-4 (48),Sameer Faisal,wednesday,8:00 - 10:40
+CL2001,Data Structures - Lab,BSE-3A,Academic Block I LAB-4 (48),Zainab Asif,wednesday,10:45 - 1:25
+CL3001,Computer Networks - Lab,BCS-5J,Academic Block I LAB-4 (48),Sadaf Zehra ,wednesday,1:30 - 4:10
+CL2001,Data Structures - Lab,BDS-3A,Academic Block III LAB-5 (55),Alishba Subhani,wednesday,8:00 - 10:40
+EL2003,Computer Organization and Assembly Language - Lab,BCY-3A,Academic Block III LAB-5 (55),Muhammad Qasim Keeryo,wednesday,10:45 - 1:25
+EL2003,Computer Organization and Assembly Language - Lab,BSE-3B,Academic Block III LAB-5 (55),Muhammad Nadeem,wednesday,1:30 - 4:10
+CL2001,Data Structures - Lab,BAI-3A,Academic Block II DS LAB-6 (55),Shafique Rehman,wednesday,8:00 - 10:40
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3F,Academic Block II DS LAB-6 (55),Ghulam Qadir,wednesday,10:45 - 1:25
+,Intro,to,Academic Block II DS LAB-6 (55),Ramsha Jatt,wednesday,1:30 - 2:20
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3C,Academic Block II LAB-7 (47),Waseem Rauf,wednesday,8:00 - 10:40
+CL2001,Data Structures - Lab,BCS-3G,Academic Block II LAB-7 (47),Abdullah Yaqoob,wednesday,10:45 - 1:25
+CL3001,Computer Networks - Lab,BCS-5D,Academic Block II LAB-7 (47),Muhammad Nadeem ,wednesday,1:30 - 4:10
+,IOOP-Lab,BSFT-3A,Academic Block II CY LAB-8 (47),Qasim Alias,wednesday,8:00 - 8:50
+,DBS - Lab,BCS-5E,Academic Block II CY LAB-8 (47),Zainab Asif,wednesday,1:30 - 4:10
+,IOOP-Lab,BSFT-3B,Academic Block II LAB-10 (47),Absar Khalid,wednesday,8:00 - 8:50
+,DAB2 - Lab,BSBA-3A,Academic Block II LAB-10 (47),Nighat Jahan,wednesday,1:30 - 4:10
+,Engineering,Drawing,Academic Block II LAB-11 (47),Engr. Aamir Ali,wednesday,8:00 - 8:50
+,Engineering,Drawing,Academic Block II LAB-11 (47),Engr. Maryam,wednesday,10:45 - 11:35
+,IT,in,Academic Block II Lab-12 (47),Muhammad Ali Asghar,wednesday,8:00 - 8:50
+,IT,in,Academic Block II Lab-13 (47),Abdullah Yaqoob,wednesday,8:00 - 8:50
+,Electronic,Devices,Academic Block II Electronics Lab,Engr. Aqib Noor,wednesday,1:30 - 2:20
+CS4001,Professional Practices in IT,BCS-7A,E-1 Academic Block I (50),Aashir Mehboob,thursday,8:55 - 9:45
+,C.,Const.,E-1 Academic Block I (50),Syed Faisal Ali,thursday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCS-7B,E-1 Academic Block I (50),Aashir Mehboob,thursday,10:45 - 11:35
+,C.,Const.,E-1 Academic Block I (50),Shahar Bano,thursday,11:40 - 12:30
+,C.,Const.,E-1 Academic Block I (50),Syed Faisal Ali,thursday,12:35 - 1:25
+CS3002,Information Security,BCS-7F,E-1 Academic Block I (50),Rabia Ahmed Ansari,thursday,1:30 - 2:20
+,C.,Const.,E-1 Academic Block I (50),Shahar Bano,thursday,2:25 - 3:15
+CS3002,Information Security,BCS-7B,E-2 Academic Block I (50),Dr. Shakil,thursday,8:55 - 9:45
+CS3002,Information Security,BCS-7D,E-2 Academic Block I (50),Usama Antuley,thursday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCS-7D,E-2 Academic Block I (50),Anaum Hamid,thursday,10:45 - 11:35
+,C.,Const.,E-2 Academic Block I (50),Zulfiqar Ali,thursday,11:40 - 12:30
+,C.,Const.,E-2 Academic Block I (50),Anaum Hamid,thursday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7C,E-3 Academic Block I (50),Anaum Hamid,thursday,8:55 - 9:45
+CS3002,Information Security,BCS-7C,E-3 Academic Block I (50),Yusra Kaleem,thursday,9:50 - 10:40
+,C.,Const.,E-3 Academic Block I (50),Zain ul Hasan,thursday,11:40 - 12:30
+CS4001,Professional Practices in IT,BCS-7J,E-3 Academic Block I (50),Syed Muhammad Saad (VF),thursday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7K,E-3 Academic Block I (50),Syed Muhammad Saad (VF),thursday,1:30 - 2:20
+CS4001,Professional Practices in IT,BCS-7E,E-4 Academic Block I (50),Yusra Kaleem,thursday,8:55 - 9:45
+CS3002,Information Security,BCS-7E,E-4 Academic Block I (50),Shaheer Khan,thursday,9:50 - 10:40
+,C.,Const.,E-4 Academic Block I (50),Shahar Bano,thursday,10:45 - 11:35
+,C.,Const.,E-4 Academic Block I (50),Zulfiqar Ali,thursday,11:40 - 12:30
+CS3002,Information Security,BCS-7G,E-5 Academic Block I (50),Dr. Nadeem Kafi,thursday,8:55 - 9:45
+CS4001,Professional Practices in IT,BCS-7G,E-5 Academic Block I (50),Bilal Ahsan,thursday,9:50 - 10:40
+CS3002,Information Security,BCS-7J,E-5 Academic Block I (50),Yusra Kaleem,thursday,11:40 - 12:30
+CS3002,Information Security,BCS-7H,E-6 Academic Block I (50),Dr. Aqsa Aslam,thursday,8:55 - 9:45
+,C.,Const.,E-6 Academic Block I (50),Shahar Bano,thursday,9:50 - 10:40
+CS3002,Information Security,BCS-7K,E-6 Academic Block I (50),Rabia Ahmed Ansari,thursday,11:40 - 12:30
+CS3002,Information Security,BCS-7M,R-11 Academic Block I (50),Hira Tunio,thursday,8:55 - 9:45
+,C.,Const.,R-11 Academic Block I (50),Zain ul Hasan,thursday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCS-7L,R-11 Academic Block I (50),Anaum Hamid,thursday,11:40 - 12:30
+AI3004,Natural Language Processing,BAI-7A,R-12 Academic Block I (70),Saeeda Kanwal,thursday,8:00 - 8:50
+CS4001,Professional Practices in IT,BSE-7A,R-12 Academic Block I (70),Dr. Abdul Aziz,thursday,8:55 - 9:45
+CS4001,Professional Practices in IT,BCS-7F,R-12 Academic Block I (70),Dr. Abdul Aziz,thursday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCS-7H,R-12 Academic Block I (70),Saeeda Kanwal ,thursday,10:45 - 11:35
+AI3004,Natural Language Processing,BAI-7C,R-12 Academic Block I (70),Saeeda Kanwal,thursday,11:40 - 12:30
+CS3002,Information Security,BCY-7A,R-109 Academic Block I (50),Ali Naseer ,thursday,8:00 - 8:50
+CS3002,Information Security,BCS-7L,R-109 Academic Block I (50),Usama Antuley,thursday,8:55 - 9:45
+CS3002,Information Security,BCS-7L,R-109 Academic Block I (50),Usama Antuley,thursday,9:50 - 10:40
+CS3006,Parallel and Distributed Computing,BCY-7A,R-109 Academic Block I (50),Dr. Farooq Zaidi,thursday,10:45 - 11:35
+MG3002,Financial and Strategic Project Management,BSE-7A,R-109 Academic Block I (50),Minhal Raza,thursday,11:40 - 12:30
+SE3001,Software System Design,BCY-7A,R-109 Academic Block I (50),Abuzar Zafar,thursday,12:35 - 1:25
+CS4001,Professional Practices in IT,BCS-7M,A-1 Academic Block II (50),Asif Fazwani (VF),thursday,8:00 - 8:50
+CS4001,Professional Practices in IT,BCY-7A,A-1 Academic Block II (50),Asif Fazwani (VF),thursday,8:55 - 9:45
+CS3002,Information Security,BSE-7A,A-1 Academic Block II (50),Dr. Aqsa Aslam,thursday,9:50 - 10:40
+CS4001,Professional Practices in IT,BCY-7B,A-1 Academic Block II (50),Ghulam (VF),thursday,10:45 - 11:35
+CS4042,Computer Vision,BAI-7A,A-1 Academic Block II (50),Saif ur Rehman,thursday,11:40 - 12:30
+CS3006,Parallel and Distributed Computing,BCY-7B,A-1 Academic Block II (50),Dr. Farooq Zaidi,thursday,12:35 - 1:25
+CS4001,Professional Practices in IT,BSE-7B,A-2Academic Block II (50),Ghulam (VF),thursday,8:55 - 9:45
+CS3002,Information Security,BSE-7B,A-2Academic Block II (50),Hira Tunio,thursday,9:50 - 10:40
+,Enter,BAI-7A,A-2Academic Block II (50),Dr. Mohsin,thursday,10:45 - 11:35
+CS4042,Computer Vision,BAI-7B,A-2Academic Block II (50),Bilal Ahsan,thursday,11:40 - 12:30
+MG3002,Financial and Strategic Project Management,BSE-7B,A-2Academic Block II (50),Minhal Raza,thursday,12:35 - 1:25
+CS4042,Computer Vision,BAI-7C,A-2Academic Block II (50),Bilal Ahsan,thursday,1:30 - 2:20
+SE3001,Software System Design,BCY-7B,A-3 Academic Block II (50),Abeer Gauher,thursday,8:55 - 9:45
+CS3002,Information Security,BCY-7B,A-3 Academic Block II (50),Ali Naseer,thursday,9:50 - 10:40
+,Enter,BAI-7B,A-3 Academic Block II (50),Dr. Nazia Nazeer,thursday,10:45 - 11:35
+,Reserved Slot,For,A-4 Academic Block II (50),No Teacher,thursday,8:00 - 9:00
+AI3004,Natural Language Processing,BAI-7B,A-5 Academic Block II (50),Saeeda Kanwal,thursday,8:55 - 9:45
+,Enter,BAI-7C,A-5 Academic Block II (50),Michael Simon,thursday,10:45 - 11:35
+,BF,BSFT,A-5 Academic Block II (50),Rajib Ali  ,thursday,11:40 - 12:30
+,BM2,BSFT-3B,A-5 Academic Block II (50),Muhammad Amjad ,thursday,12:35 - 1:25
+,BM2,BSFT-3A,A-5 Academic Block II (50),Muhammad Amjad ,thursday,1:30 - 2:20
+,ME,BSFT-3C,A-5 Academic Block II (50), Museara Bhutto,thursday,2:25 - 3:15
+,BM2,BSFT-3C,A-5 Academic Block II (50),Muhammad Amjad ,thursday,3:20 - 4:10
+,CB,BSBA-5A,A-6 Academic Block II (50), Umer Farooq,thursday,8:00 - 8:50
+,DS&BA,BSBA-5A,A-6 Academic Block II (50),Ali Fatmi ,thursday,8:55 - 9:45
+,BE,BSBA-5A,A-6 Academic Block II (50), Dr. Mushtaq Ahmed,thursday,9:50 - 10:40
+,BCB,BSBA-5A,A-6 Academic Block II (50), Dr. Shahbaz Siddiqui ,thursday,11:40 - 12:30
+,Macro,Eco,A-6 Academic Block II (50),Michael Simon,thursday,1:30 - 2:20
+,FM,BSFBA-5A,A-6 Academic Block II (50),Muhammad Ahsan ,thursday,2:25 - 3:15
+,EIS,BSFT-5A,A-6 Academic Block II (50),TBA,thursday,3:20 - 4:10
+,ME,BSFT-3B,A-7 Academic Block II (50), Dr. Mushtaq Ahmed,thursday,8:55 - 9:45
+,MFM,BSBA-7A,A-7 Academic Block II (50), Dr. Mohsin Ali ,thursday,9:50 - 10:40
+SS2043,Civics and Community Engagement,BSBA,A-7 Academic Block II (50),Dr. Wajiha Raheeq,thursday,10:45 - 11:35
+,IT,in,A-7 Academic Block II (50),  BSFT -1A,thursday,11:40 - 12:30
+,IT,in,A-7 Academic Block II (50),  BSFT -1B ,thursday,12:35 - 1:25
+,BM1,BSFT-1A,A-8 Academic Block II (53), Dr. Khusro Mian,thursday,8:00 - 8:50
+,Eng-1,BSFT,A-8 Academic Block II (53), Sharmeen Ismail,thursday,8:55 - 9:45
+,BM1,BSFT-1B,A-8 Academic Block II (53), Dr. Khusro Mian,thursday,9:50 - 10:40
+AF1001,Fundamentals of Accounting,BSFT,A-8 Academic Block II (53), Muhammad Ahsan,thursday,10:45 - 11:35
+,BM1,BSBA-1A,A-8 Academic Block II (53), Rabia Sagheer,thursday,11:40 - 12:30
+,BM1,BSFT-1C,A-8 Academic Block II (53), Dr. Khusro Mian,thursday,12:35 - 1:25
+,Eng-1,BSFT,A-8 Academic Block II (53), Brohi,thursday,1:30 - 2:20
+,Eng-1,BSFT,A-8 Academic Block II (53), Brohi,thursday,2:25 - 3:15
+,MM,BSFT-1D,A-8 Academic Block II (53), Asiya Zaheer,thursday,3:20 - 4:10
+SS1007,Islamic Studies/Ethics,BSBA,B-9 Academic Block II (53), Uzair Siddiqui,thursday,8:00 - 8:50
+AF1001,Fundamentals of Accounting,BSBA,B-9 Academic Block II (53), Dr. Sarfaraz Ahmed,thursday,8:55 - 9:45
+SS1007,Islamic Studies/Ethics,BSBA,B-9 Academic Block II (53), Uzair Siddiqui,thursday,9:50 - 10:40
+SS1007,Islamic Studies/Ethics,BSFT,B-9 Academic Block II (53), Muhammad Hasham,thursday,10:45 - 11:35
+,IT,in,B-9 Academic Block II (53),  BSFT -1C,thursday,11:40 - 12:30
+,BM1,BSFT-1D,B-9 Academic Block II (53), Ashad Ali,thursday,12:35 - 1:25
+,BM1,BSFT-1E,B-10 Academic Block II (53), Rabia Sagheer,thursday,8:00 - 8:50
+,ME,BSFT-3A,B-10 Academic Block II (53), Michael Simon,thursday,8:55 - 9:45
+,MM,BSFT-1A,B-10 Academic Block II (53), Asiya Zaheer,thursday,9:50 - 10:40
+,IT,in,B-10 Academic Block II (53),  BSFT -1D,thursday,11:40 - 12:30
+,IOOPBSFT,-3A,B-10 Academic Block II (53),Nida Munawar ,thursday,12:35 - 1:25
+,IOOPBSFT,-3B,B-10 Academic Block II (53),Nida Munawar ,thursday,1:30 - 2:20
+,MM,BSFT-1E,B-11 Academic Block II (53),  Museara Bhutto,thursday,9:50 - 10:40
+,IT,in,B-11 Academic Block II (53),  BSFT -1E,thursday,11:40 - 12:30
+,DCB,BSFBA-7A,B-11 Academic Block II (53), Dr. Mushtaq Ahmed,thursday,12:35 - 1:25
+,Entrep,BSBA-7A,B-11 Academic Block II (53),Asiya Zaheer,thursday,1:30 - 2:20
+,AC,BSCE,C-12 Academic Block II (50),,thursday,8:00 - 8:50
+,EDC,BSEE,C-12 Academic Block II (50),,thursday,8:55 - 9:45
+,EDC,BSEE,C-12 Academic Block II (50),,thursday,9:50 - 10:40
+,Applied,Physics,C-12 Academic Block II (50),,thursday,10:45 - 11:35
+,Applied,Physics,C-12 Academic Block II (50),,thursday,11:40 - 12:30
+,Applied,Physics,C-12 Academic Block II (50),,thursday,12:35 - 1:25
+,Applied,Physics,C-12 Academic Block II (50),,thursday,1:30 - 2:20
+,UoS,BSEE,C-12 Academic Block II (50),,thursday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BSEE,C-13 Academic Block II (50),,thursday,8:00 - 8:50
+SS1007,Islamic Studies/Ethics,BSEE,C-13 Academic Block II (50),,thursday,8:55 - 9:45
+,AC,BSEE,C-13 Academic Block II (50),,thursday,9:50 - 10:40
+,AC,BSEE,C-13 Academic Block II (50),,thursday,10:45 - 11:35
+,OHS,BSCE,C-13 Academic Block II (50),,thursday,11:40 - 12:30
+,OHS,BSEE,C-13 Academic Block II (50),,thursday,1:30 - 2:20
+,OHS,BSCE,C-13 Academic Block II (50),,thursday,2:25 - 3:15
+,OODS,BSEE,C-14 Academic Block II (50),,thursday,10:45 - 11:35
+,OODS,BSEE,C-14 Academic Block II (50),,thursday,11:40 - 12:30
+,OODS,BSEE,C-14 Academic Block II (50),,thursday,1:30 - 2:20
+SS2012,Technical and Business Writing,BSEE,C-15 Academic Block II (50),,thursday,8:00 - 8:50
+SS2012,Technical and Business Writing,BSEE,C-15 Academic Block II (50),,thursday,8:55 - 9:45
+,AML,BSEE,C-15 Academic Block II (50),,thursday,9:50 - 10:40
+,DCNet,BSEE,C-15 Academic Block II (50),,thursday,10:45 - 11:35
+,DCNet,BSEE,C-15 Academic Block II (50),,thursday,11:40 - 12:30
+,OODS,BSEE,C-15 Academic Block II (50),,thursday,12:35 - 1:25
+,DCNet,BSEE,C-15 Academic Block II (50),,thursday,1:30 - 2:20
+,CVT,BSEE,C-15 Academic Block II (50),,thursday,2:25 - 3:15
+,CVT,BSEE,C-15 Academic Block II (50),,thursday,3:20 - 4:10
+AI3002,Machine Learning,BSE-5A,C-16 Academic Block II (50),Minhal Raza,thursday,8:00 - 8:50
+SE2002,Software Design and Architecture,BCS-5A,C-16 Academic Block II (50),Engr. Abdul Rahman,thursday,8:55 - 9:45
+,DBS,BCS-5A,C-16 Academic Block II (50),Hajra Ahmed,thursday,9:50 - 10:40
+CS3001,Computer Networks,BCS-5A,C-16 Academic Block II (50),Dr. Farrukh Salim,thursday,10:45 - 11:35
+SE2002,Software Design and Architecture,BCS-5D,C-16 Academic Block II (50),Syed Ahmed Khan,thursday,11:40 - 12:30
+,DBS,BCS-5F,C-16 Academic Block II (50),Atiya Jokhio,thursday,12:35 - 1:25
+,DBS,BCS-5B,C-17 Academic Block II (59),Javeria Farooq,thursday,8:55 - 9:45
+CS3001,Computer Networks,BCS-5B,C-17 Academic Block II (59),Dr. Ghufran Ahmed,thursday,9:50 - 10:40
+CS2009,Design and Analysis of Algorithms,BCS-5F,C-17 Academic Block II (59),Muhammad Kashif,thursday,10:45 - 11:35
+SE2002,Software Design and Architecture,BCS-5E,C-17 Academic Block II (59),Farrukh Hasan Syed,thursday,11:40 - 12:30
+,DBS,BCS-5E,C-17 Academic Block II (59),Basit Jasani,thursday,12:35 - 1:25
+SE2002,Software Design and Architecture,BCS-5C,C-18 Academic Block II (50), Rubab Manzar,thursday,8:55 - 9:45
+,DBS,BCS-5C,C-18 Academic Block II (50),Atiya Jokhio,thursday,9:50 - 10:40
+CS3001,Computer Networks,BCS-5C,C-18 Academic Block II (50),Kashan Hussain,thursday,10:45 - 11:35
+,DBS,BCS-5G,C-18 Academic Block II (50),Dr. Farrukh Salim,thursday,11:40 - 12:30
+CS3001,Computer Networks,BCS-5D,C-18 Academic Block II (50),Shaheer Khan,thursday,1:30 - 2:20
+SE2002,Software Design and Architecture,BCS-5F,C-19 Academic Block II (50),Syed Ahmed Khan,thursday,8:55 - 9:45
+,DBS,BCS-5D,C-19 Academic Block II (50),Basit Jasani,thursday,9:50 - 10:40
+CS2009,Design and Analysis of Algorithms,BCS-5H,C-19 Academic Block II (50),Sandesh Kumar,thursday,10:45 - 11:35
+CS3001,Computer Networks,BCS-5J,C-19 Academic Block II (50),Kashan Hussain,thursday,11:40 - 12:30
+,DBS,BCS-5H,C-19 Academic Block II (50),Javeria Farooq,thursday,12:35 - 1:25
+CS3001,Computer Networks,BCS-5E,C-19 Academic Block II (50),Kashan Hussain,thursday,1:30 - 2:20
+CS2009,Design and Analysis of Algorithms,BCS-5G,C-21 Academic Block II (50),Zulfiqar Ali,thursday,8:55 - 9:45
+SE2002,Software Design and Architecture,BCS-5G,C-21 Academic Block II (50),Sobia Iftikhar,thursday,9:50 - 10:40
+CS2009,Design and Analysis of Algorithms,BAI-5A,C-21 Academic Block II (50),Dr. Kamran,thursday,11:40 - 12:30
+SS2012,Technical and Business Writing,BAI-5A,C-21 Academic Block II (50),Nazia Imam,thursday,12:35 - 1:25
+CS3001,Computer Networks,BCS-5G,C-21 Academic Block II (50),Dr. Ghufran Ahmed,thursday,1:30 - 2:20
+CS3001,Computer Networks,BCS-5F,C-21 Academic Block II (50),Shaheer Khan,thursday,2:25 - 3:15
+CS4055,System Concept and Design,BSE-5A,D-22 Academic Block II (50),Ali Fatmi,thursday,8:55 - 9:45
+SE2002,Software Design and Architecture,BCS-5H,D-22 Academic Block II (50),Engr. Abdul Rahman,thursday,9:50 - 10:40
+SE4005,Software Quality Engineering,BSE-5A,D-22 Academic Block II (50),Rubab Manzar,thursday,10:45 - 11:35
+SS2012,Technical and Business Writing,BSE-5A,D-22 Academic Block II (50),Atifa Batool,thursday,11:40 - 12:30
+SS2012,Technical and Business Writing,BCY-5B,D-22 Academic Block II (50),Atifa Batool,thursday,12:35 - 1:25
+CS3001,Computer Networks,BCS-5H,D-22 Academic Block II (50),Dr. Nadeem Kafi,thursday,1:30 - 2:20
+NS1001,Applied Physics,BCS-1A,D-22 Academic Block II (50),Muhammad Rahim,thursday,2:25 - 3:15
+MT1003,Calculus and Analytical Geometry,BCS-1A,D-22 Academic Block II (50),Aneesa Nawaz,thursday,3:20 - 4:10
+SS2012,Technical and Business Writing,BCY-5A,D-23 Academic Block II (50),Atifa Batool,thursday,8:55 - 9:45
+SE2002,Software Design and Architecture,BCS-5J,D-23 Academic Block II (50),Syed Ahmed Khan,thursday,9:50 - 10:40
+,DBS,BCY-5A,D-23 Academic Block II (50),Atiya Jokhio,thursday,10:45 - 11:35
+CS3002,Information Security,BCY-5B,D-23 Academic Block II (50),Nouman Rajput,thursday,12:35 - 1:25
+SS2012,Technical and Business Writing,BCY-5B,D-23 Academic Block II (50),Atifa Batool,thursday,1:30 - 2:20
+SS1012,Functional English,BCS-1B,D-23 Academic Block II (50),Khadija Shireen,thursday,2:25 - 3:15
+MT1003,Calculus and Analytical Geometry,BCS-1H,D-23 Academic Block II (50),Asma Masood,thursday,3:20 - 4:10
+CS2009,Design and Analysis of Algorithms,BCY-5B,D-24 Academic Block II (50),Zulfiqar Ali,thursday,9:50 - 10:40
+,DBS,BCY-5B,D-24 Academic Block II (50),Ali Naseer Shah,thursday,10:45 - 11:35
+SS1012,Functional English,BCS-1D,D-24 Academic Block II (50),Javeriya Ahmed,thursday,11:40 - 12:30
+NS1001,Applied Physics,BCY-1A,D-24 Academic Block II (50),Javed Qureshi ,thursday,12:35 - 1:25
+MT1003,Calculus and Analytical Geometry,BCS-1C,D-24 Academic Block II (50),Aneesa Nawaz,thursday,2:25 - 3:15
+SS1012,Functional English,BCS-1A,D-25 Academic Block II (50),Khadija Shireen,thursday,8:00 - 8:50
+CS1002,Programming Fundamentals,BCS-1A,D-25 Academic Block II (50),Sobia Iftikhar,thursday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BCS-1E,D-25 Academic Block II (50),Shahid Ashraf,thursday,11:40 - 12:30
+NS1001,Applied Physics,BCS-1F,D-25 Academic Block II (50),Ishtiaq Ahmed,thursday,2:25 - 3:15
+MT1003,Calculus and Analytical Geometry,BCS-1B,D-26 Academic Block II (50),Shahid Ashraf,thursday,8:00 - 8:50
+NS1001,Applied Physics,BCS-1B,D-26 Academic Block II (50),Ishtiaq Ahmed,thursday,8:55 - 9:45
+CS1002,Programming Fundamentals,BCS-1K,D-26 Academic Block II (50),Uzma Raza (V),thursday,11:40 - 12:30
+SS1012,Functional English,BCS-1G,D-26 Academic Block II (50),Javeria Ali Wadho,thursday,2:25 - 3:15
+CS1002,Programming Fundamentals,BCS-1H,D-27 Academic Block II (50),Syed Ahmed Khan,thursday,8:00 - 8:50
+HU127,Ideology and Constitution of Pakistan,BCS-1H,D-27 Academic Block II (50),Muhammad Adeel,thursday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BCS-1J,D-27 Academic Block II (50),Asma Masood,thursday,11:40 - 12:30
+NS1001,Applied Physics,BCS-1J,D-27 Academic Block II (50),Rameez,thursday,2:25 - 3:15
+CS1002,Programming Fundamentals,BCS-1D,D-28 Academic Block II (50),Hajra Ahmed,thursday,8:55 - 9:45
+CS1002,Programming Fundamentals,BAI-1A,D-28 Academic Block II (50),Talha Shahid,thursday,11:40 - 12:30
+NS1001,Applied Physics,BAI-1A,D-28 Academic Block II (50),Sana,thursday,12:35 - 1:25
+NS1001,Applied Physics,BCS-1J,D-28 Academic Block II (50),Rameez,thursday,1:30 - 2:20
+SS1007,Islamic Studies/Ethics,BAI-1A,D-28 Academic Block II (50),Abdullah Siddqui,thursday,2:25 - 3:15
+CS1002,Programming Fundamentals,BCS-1E,E-29Academic Block II (52),Javeria Farooq,thursday,8:55 - 9:45
+NS1001,Applied Physics,BAI-1B,E-29Academic Block II (52),Sana,thursday,11:40 - 12:30
+SS1007,Islamic Studies/Ethics,BAI-1B,E-29Academic Block II (52),Abdullah Siddqui,thursday,12:35 - 1:25
+SS1012,Functional English,BAI-1B,E-29Academic Block II (52),Nazia Imam,thursday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BCS-1F,E-30 Academic Block II (52),Farhan Ali Memon,thursday,8:55 - 9:45
+SS1012,Functional English,BDS-1A,E-30 Academic Block II (52),Wajiha Akber,thursday,11:40 - 12:30
+CS1002,Programming Fundamentals,BDS-1A,E-30 Academic Block II (52),Talha Shahid,thursday,12:35 - 1:25
+NS1001,Applied Physics,BAI-1C,E-30 Academic Block II (52),Sana,thursday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BAI-1C,E-30 Academic Block II (52),Abdullah Siddqui,thursday,3:20 - 4:10
+NS1001,Applied Physics,BCS-1G,E-31 Academic Block II (52),Muhammad Rahim,thursday,8:55 - 9:45
+NS1001,Applied Physics,BSE-1A,E-31 Academic Block II (52),Miqdad Khan,thursday,11:40 - 12:30
+SS1007,Islamic Studies/Ethics,BSE-1A,E-31 Academic Block II (52), Imad Uddin,thursday,2:25 - 3:15
+NS1001,Applied Physics,BCS-1K,E-32 Academic Block II (52),Rameez,thursday,8:00 - 8:50
+NS1001,Applied Physics,BCS-1K,E-32 Academic Block II (52),Rameez,thursday,8:55 - 9:45
+CS1002,Programming Fundamentals,BCS-1B,E-32 Academic Block II (52),Sobia Iftikhar,thursday,9:50 - 10:40
+MT1003,Calculus and Analytical Geometry,BSE-1B,E-32 Academic Block II (52), Rabia Sagheer,thursday,10:45 - 11:35
+SS1007,Islamic Studies/Ethics,BCS-1B,E-32 Academic Block II (52),Farhan Ali Memon,thursday,11:40 - 12:30
+HU127,Ideology and Constitution of Pakistan,BCS-1B,E-32 Academic Block II (52),Muhammad Adeel,thursday,12:35 - 1:25
+NS1001,Applied Physics,BCS-1H,E-32 Academic Block II (52),Ishtiaq Ahmed,thursday,1:30 - 2:20
+CS1002,Programming Fundamentals,BSE-1B,E-32 Academic Block II (52),Fizza Mansoor,thursday,2:25 - 3:15
+SS1012,Functional English,BAI-1C,E-33 Academic Block II (52),Nazia Imam,thursday,8:00 - 8:50
+CS1002,Programming Fundamentals,BAI-1C,E-33 Academic Block II (52),Talha Shahid,thursday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BCS-1D,E-33 Academic Block II (52),Shahid Ashraf,thursday,9:50 - 10:40
+SS1007,Islamic Studies/Ethics,BCS-1C,E-33 Academic Block II (52),Uzair Siddiqui (VF),thursday,10:45 - 11:35
+CS1002,Programming Fundamentals,BCS-1C,E-33 Academic Block II (52),Abeeha Sattar,thursday,12:35 - 1:25
+MT1003,Calculus and Analytical Geometry,BCY-1A,E-33 Academic Block II (52),Jamil Usmani,thursday,2:25 - 3:15
+SS1012,Functional English,BCY-1A,E-33 Academic Block II (52),Mariam Aftab,thursday,3:20 - 4:10
+CS1002,Programming Fundamentals,BSE-1A,E-34 Academic Block II (52),Fizza Mansoor,thursday,8:55 - 9:45
+NS1001,Applied Physics,BCS-1E,E-34 Academic Block II (52),Muhammad Rahim,thursday,9:50 - 10:40
+CS1002,Programming Fundamentals,BCS-1K,E-34 Academic Block II (52),Uzma Raza (V),thursday,10:45 - 11:35
+HU127,Ideology and Constitution of Pakistan,BCY-1A,E-34 Academic Block II (52),Wajiha Najam (VF),thursday,11:40 - 12:30
+HU127,Ideology and Constitution of Pakistan,BSE-1B,E-34 Academic Block II (52),Wajiha Najam (VF),thursday,12:35 - 1:25
+SS1007,Islamic Studies/Ethics,BSE-1B,E-34 Academic Block II (52), Imad Uddin,thursday,1:30 - 2:20
+NS1001,Applied Physics,BCY-1B,E-34 Academic Block II (52),Javed Qureshi,thursday,2:25 - 3:15
+SS1012,Functional English,BSE-1A,E-35 Academic Block II (52),Wajiha Akber ,thursday,8:00 - 8:50
+SS1012,Functional English,BSE-1B,E-35 Academic Block II (52),Wajiha Akber ,thursday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BSE-1A,E-35 Academic Block II (52),Wajiha Najam (VF),thursday,9:50 - 10:40
+MT1003,Calculus and Analytical Geometry,BSE-1A,E-35 Academic Block II (52),Syed Ashad Ali,thursday,10:45 - 11:35
+CS1002,Programming Fundamentals,BCY-1B,E-35 Academic Block II (52),Uzma Raza,thursday,11:40 - 12:30
+MT1003,Calculus and Analytical Geometry,BCY-1B,E-35 Academic Block II (52),Aneesa Nawaz,thursday,12:35 - 1:25
+CS1002,Programming Fundamentals,BSE-1A,E-35 Academic Block II (52),Fizza Mansoor,thursday,1:30 - 2:20
+MT1003,Calculus and Analytical Geometry,BDS-1A,E-35 Academic Block II (52),Jamil Usmani,thursday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BDS-1A,E-35 Academic Block II (52), Imad Uddin,thursday,3:20 - 4:10
+SL1012,Functional English - Lab,BDS-1A,LLC Academic Block I (R7) (50),Javeria Ali Wadho,thursday,8:00 - 10:40
+SL1012,Functional English - Lab,BAI-1C,LLC Academic Block I (R7) (50),Madiha Rehman,thursday,10:45 - 1:25
+SL1012,Functional English - Lab,BCS-1D,LLC Academic Block I (R7) (50),Wajiha Akber,thursday,1:30 - 4:10
+SL1012,Functional English - Lab,BCS-1J,C-20 Academic Block II (50),Tahira Abdul Hakeem,thursday,8:00 - 10:40
+SL1012,Functional English - Lab,BCS-1H,C-20 Academic Block II (50),Huma Hafeez,thursday,10:45 - 1:25
+SL1012,Functional English - Lab,BCS-1E,C-20 Academic Block II (50),Javeriya Ahmed,thursday,1:30 - 4:10
+,Eng-1 - Lab,BSFT -1C,Eng Lang Room Academic Block II (50), Faiza Mumtaz,thursday,8:00 - 10:40
+SL1012,Functional English - Lab,BCS-1A,Eng Lang Room Academic Block II (50),Mariam Aftab,thursday,10:45 - 1:25
+SL1012,Functional English - Lab,BSBA -1A,Eng Lang Room Academic Block II (50), Sharmeen Ismail,thursday,1:30 - 4:10
+,IT,in,Academic Block I LAB-4 (48), Danish Abbasi,thursday,8:00 - 8:50
+CL3001,Computer Networks - Lab,BCS-5E,Academic Block III LAB-5 (55),Ramsha Iqbal,thursday,8:00 - 10:40
+,DBS - Lab,BCS-5J,Academic Block III LAB-5 (55),Fatima Gado,thursday,1:30 - 4:10
+,DBS - Lab,BAI-5A,Academic Block II DS LAB-6 (55),Sameer Faisal,thursday,8:00 - 10:40
+,System Concept and Design - Lab,BSE-5A,Academic Block II DS LAB-6 (55),Sameer Faisal,thursday,1:30 - 4:10
+,IOOP-Lab,BSFT-3C,Academic Block II LAB-7 (47),Qasim Alias,thursday,8:00 - 8:50
+,PFB - Lab,BSBA -3A2,Academic Block II LAB-7 (47),Ameer Hamza ,thursday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BCS-1C,Academic Block II CY LAB-8 (47),Saira Ayub,thursday,8:00 - 10:40
+,BE - Lab,BSBA-5A,Academic Block II CY LAB-8 (47), Nighat Jahan,thursday,1:30 - 4:10
+,PFB - Lab,BSBA -3A1,Academic Block II AI/ML LAB-9 (37),Ameer Hamza ,thursday,8:00 - 10:40
+CL1002,Programming Fundamentals - Lab,BCY-1B,Academic Block II LAB-10 (47),Bushra Sattar,thursday,8:00 - 10:40
+,Introduction to Information and Communication Technology - Lab,BCS-1K,Academic Block II LAB-10 (47),Syeda Tehreem Gillani,thursday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BSCE -1B,Academic Block II LAB-11 (47),TBA,thursday,8:00 - 10:40
+,Object,Oriented,Academic Block II LAB-11 (47),Engr. Rukhsar Ali,thursday,10:45 - 11:35
+,AML - Lab,BSEE -7AB,Academic Block II LAB-11 (47),Engr. Sadaf Ayesha,thursday,1:30 - 4:10
+,Introduction to Information and Communication Technology - Lab,BAI-1A,Academic Block II Lab-12 (47),Mehak Mazhar,thursday,8:00 - 10:40
+CL1002,Programming Fundamentals - Lab,BCS-1F,Academic Block II Lab-12 (47),Junaid Aslam,thursday,10:45 - 1:25
+,ENA - Lab,BSEE -3A,Academic Block II Lab-12 (47),Engr. Bushra,thursday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BAI-1B,Academic Block II Lab-13 (47),Izzah Salman,thursday,8:00 - 10:40
+,Introduction to Information and Communication Technology - Lab,BCS-1G,Academic Block II Lab-13 (47),Osama Tahir,thursday,10:45 - 1:25
+,Introduction to Information and Communication Technology - Lab,BCY-1A,Academic Block II Lab-14 (47),Rabia Ahmed Ansari,thursday,8:00 - 10:40
+,MPI - Lab,BSEE -5AB,Academic Block II Microprocessor and Interfacing Lab,TBA,thursday,8:00 - 10:40
+,ENA - Lab,BSEE -3A,Academic Block II Electronics Lab,Engr. Bushra,thursday,1:30 - 4:10
+,Applied,Physics,Academic Block II Physics Lab,TBA,thursday,8:00 - 8:50
+,Applied,Physics,Academic Block II Physics Lab,Engr. Maryam,thursday,1:30 - 2:20
+CS2001,Data Structures,BSE-3A,R-109 Academic Block I (50), Dr. Anam Qureshi,friday,8:55 - 9:45
+CS3005,Theory of Automata,BCS-3H,A-1 Academic Block II (50),Bakhtawar Abbasi,friday,8:55 - 9:45
+,BM1,BSFT-1A,A-1 Academic Block II (50), Dr. Khusro Mian,friday,11:40 - 12:30
+CS3005,Theory of Automata,BCS-3A,A-2Academic Block II (50), Ubaidullah ,friday,8:55 - 9:45
+,Eng-1,BSFT,A-2Academic Block II (50), Sharmeen Ismail,friday,11:40 - 12:30
+,Eng-1,BSFT,A-2Academic Block II (50), Sharmeen Ismail,friday,12:35 - 1:25
+,Macro,Eco,A-3 Academic Block II (50),Michael Simon,friday,8:00 - 8:50
+,BE,BSFT-5A,A-3 Academic Block II (50), Dr. Anwar Mughees ,friday,8:55 - 9:45
+,Entrep,BSFT-5A,A-3 Academic Block II (50),Dr. Nazia Nazeer,friday,10:45 - 11:35
+,Macro,Eco,A-3 Academic Block II (50),Michael Simon,friday,11:40 - 12:30
+,EIS,BSFBA-5A,A-3 Academic Block II (50),TBA,friday,2:25 - 3:15
+,DS&BA,BSFBA-5A,A-3 Academic Block II (50),Ali Fatmi ,friday,3:20 - 4:10
+,Reserved Slot,For,A-4 Academic Block II (50),No Teacher,friday,8:00 - 9:00
+,PFB,BSBA,A-5 Academic Block II (50),Madhia Aslam ,friday,8:00 - 8:50
+,ME,BSFT-3A,A-5 Academic Block II (50), Michael Simon,friday,8:55 - 9:45
+,Eng-1,BSFT,A-5 Academic Block II (50), Sharmeen Ismail,friday,9:50 - 10:40
+,PFB,BSBA,A-5 Academic Block II (50),Madhia Aslam ,friday,10:45 - 11:35
+,DAB2,BSBA,A-5 Academic Block II (50),Dr. Anwar Mughees ,friday,11:40 - 12:30
+,IOOP,BSFT,A-5 Academic Block II (50),Nida Munawar ,friday,12:35 - 1:25
+SS2043,Civics and Community Engagement,BSFT,A-5 Academic Block II (50),Dr. Wajiha Raheeq,friday,2:25 - 3:15
+,BF,BSFT,A-6 Academic Block II (50),Zehra  ,friday,8:00 - 8:50
+,Psyco,BSFT,A-6 Academic Block II (50),Aqsa Fayyaz ,friday,8:55 - 9:45
+,BM2,BSFT-3B,A-6 Academic Block II (50),Muhammad Amjad ,friday,9:50 - 10:40
+SS2043,Civics and Community Engagement,BSFT,A-6 Academic Block II (50),Dr. Wajiha Raheeq,friday,10:45 - 11:35
+,BF,BSFT,A-6 Academic Block II (50),Rajib Ali  ,friday,11:40 - 12:30
+,BM2,BSFT-3A,A-6 Academic Block II (50),Muhammad Amjad ,friday,12:35 - 1:25
+,IOOP,BSFT,A-6 Academic Block II (50),Nida Munawar ,friday,2:25 - 3:15
+,Psyco,BSFT,A-7 Academic Block II (50),Aqsa Fayyaz ,friday,8:00 - 8:50
+,BM2,BSFT-3C,A-7 Academic Block II (50),Muhammad Amjad ,friday,8:55 - 9:45
+,PST,BSBA-7A,A-7 Academic Block II (50), Dr. Shahnawaz  ,friday,9:50 - 10:40
+,Entrep,BSBA-7A,A-7 Academic Block II (50),Asiya Zaheer ,friday,10:45 - 11:35
+,Psyco,BSFT,A-7 Academic Block II (50),Aqsa Fayyaz ,friday,11:40 - 12:30
+SS2043,Civics and Community Engagement,BSFT,A-7 Academic Block II (50),Dr. Wajiha Raheeq,friday,12:35 - 1:25
+,BF,BSFT,A-7 Academic Block II (50),  Jahangir ,friday,2:25 - 3:15
+,IOOP,BSFT,A-7 Academic Block II (50),Madhia Aslam ,friday,3:20 - 4:10
+CS3005,Theory of Automata,BCS-3E,A-8 Academic Block II (53),Abeeha Sattar ,friday,8:55 - 9:45
+,IT,in,A-8 Academic Block II (53),  BSFT -1D,friday,11:40 - 12:30
+,BM1,BSBA-1A,A-8 Academic Block II (53), Rabia Sagheer,friday,12:35 - 1:25
+,IT,in,A-8 Academic Block II (53),  BSFT -1E,friday,1:30 - 2:20
+,BM1,BSFT-1E,A-8 Academic Block II (53), Rabia Sagheer,friday,2:25 - 3:15
+AF1001,Fundamentals of Accounting,BSFT,A-8 Academic Block II (53),  Rajib Ali,friday,3:20 - 4:10
+SS1007,Islamic Studies/Ethics,BSFT,B-9 Academic Block II (53), Muhammad Hasham,friday,8:00 - 8:50
+SS1007,Islamic Studies/Ethics,BSFT,B-9 Academic Block II (53), Muhammad Hasham,friday,8:55 - 9:45
+AF1001,Fundamentals of Accounting,BSFT,B-9 Academic Block II (53),Zehra,friday,9:50 - 10:40
+AF1001,Fundamentals of Accounting,BSFT,B-9 Academic Block II (53), Muhammad Ahsan,friday,10:45 - 11:35
+,MM,BSFT-1C,B-9 Academic Block II (53), Aleena  Fayyaz ,friday,11:40 - 12:30
+,MM,BSFT-1D,B-9 Academic Block II (53), Asiya Zaheer,friday,12:35 - 1:25
+,IT,in,B-9 Academic Block II (53),  BSFT -1D,friday,1:30 - 2:20
+AF1001,Fundamentals of Accounting,BSFT,B-9 Academic Block II (53), Muhammad Ahsan,friday,2:25 - 3:15
+,UoS,BSFT,B-9 Academic Block II (53), Muhammad Hasham,friday,3:20 - 4:10
+AF1001,Fundamentals of Accounting,BSFT,B-10 Academic Block II (53), Dr. Mohsin Ali,friday,8:55 - 9:45
+MG1001,Fundamentals of Management,BSBA-1A,B-10 Academic Block II (53), Dr. Nazia Nazeer,friday,9:50 - 10:40
+SS1012,Functional English,BSBA,B-10 Academic Block II (53), Atifa Batool,friday,10:45 - 11:35
+,MM,BSFT-1E,B-10 Academic Block II (53), Museara Bhutto,friday,11:40 - 12:30
+,Eng-1,BSFT,B-10 Academic Block II (53), Brohi,friday,12:35 - 1:25
+,MM,BSFT-1B,B-10 Academic Block II (53), Asiya Zaheer,friday,2:25 - 3:15
+AF1001,Fundamentals of Accounting,BSBA,B-11 Academic Block II (53), Dr. Sarfaraz Ahmed,friday,8:55 - 9:45
+SS1007,Islamic Studies/Ethics,BSFT,B-11 Academic Block II (53), Muhammad Hasham,friday,9:50 - 10:40
+AF1001,Fundamentals of Accounting,BSFT,B-11 Academic Block II (53), Muhammad Ahsan,friday,12:35 - 1:25
+,Eng-1,BSFT,B-11 Academic Block II (53), Brohi,friday,2:25 - 3:15
+,AT,BSEE,C-12 Academic Block II (50),,friday,8:00 - 8:50
+,OODS,BSEE,C-12 Academic Block II (50),,friday,8:55 - 9:45
+,OODS,BSEE,C-12 Academic Block II (50),,friday,9:50 - 10:40
+,EMT,BSEE,C-12 Academic Block II (50),,friday,10:45 - 11:35
+,EMT,BSEE,C-12 Academic Block II (50),,friday,11:40 - 12:30
+,OODS,BSEE,C-12 Academic Block II (50),,friday,12:35 - 1:25
+,UoS,BSEE,C-13 Academic Block II (50),,friday,8:00 - 8:50
+,MPI,BSEE,C-13 Academic Block II (50),,friday,8:55 - 9:45
+CL1000,Introduction to Information and Communication Technology,BSCE,C-13 Academic Block II (50),,friday,9:50 - 10:40
+CS1002,Programming Fundamentals,BSEE,C-13 Academic Block II (50),,friday,10:45 - 11:35
+CS1002,Programming Fundamentals,BSEE,C-13 Academic Block II (50),,friday,11:40 - 12:30
+HU127,Ideology and Constitution of Pakistan,BSEE,C-13 Academic Block II (50),,friday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BSEE,C-13 Academic Block II (50),,friday,3:20 - 4:10
+,MVC,BSEE,C-14 Academic Block II (50),,friday,8:00 - 8:50
+,MVC,BSEE,C-14 Academic Block II (50),,friday,8:55 - 9:45
+,MVC,BSEE,C-14 Academic Block II (50),,friday,9:50 - 10:40
+,DSA,BSEE,C-14 Academic Block II (50),,friday,10:45 - 11:35
+,DSA,BSEE,C-14 Academic Block II (50),,friday,11:40 - 12:30
+,ENG,BSCE,C-14 Academic Block II (50),,friday,2:25 - 3:15
+,ENG,BSEE,C-15 Academic Block II (50),,friday,8:00 - 8:50
+,ENG,BSEE,C-15 Academic Block II (50),,friday,8:55 - 9:45
+,ENG,BSEE,C-15 Academic Block II (50),,friday,9:50 - 10:40
+,ENG,BSCE,C-15 Academic Block II (50),,friday,11:40 - 12:30
+,ENG,BSCE,C-15 Academic Block II (50),,friday,12:35 - 1:25
+MT1004,Linear Algebra,BCS-3C,C-16 Academic Block II (50),Dr. Fahad Riaz,friday,8:55 - 9:45
+CS3005,Theory of Automata,BCS-3D,C-17 Academic Block II (59),Muhammad Kashif,friday,8:55 - 9:45
+MT1004,Linear Algebra,BCS-3A,C-17 Academic Block II (59),Dr. Fahad Riaz,friday,2:25 - 3:15
+MT1004,Linear Algebra,BCS-3F,C-18 Academic Block II (50),Urooj,friday,8:55 - 9:45
+CS3005,Theory of Automata,BCS-3F,C-18 Academic Block II (50),Abeeha Sattar,friday,2:25 - 3:15
+MT1004,Linear Algebra,BCS3J-,C-19 Academic Block II (50),Uzma Saleh,friday,8:55 - 9:45
+,Discrete,BCS-3B,C-19 Academic Block II (50),Shoaib Raza,friday,9:50 - 10:40
+CS3005,Theory of Automata,BCS-3B,C-19 Academic Block II (50), Ubaidullah,friday,10:45 - 11:35
+MT1004,Linear Algebra,BCS-3G,C-19 Academic Block II (50),Uzma Saleh,friday,2:25 - 3:15
+EE2003,Computer Organization and Assembly Language,BAI-3A,C-21 Academic Block II (50),Ubaidullah,friday,8:00 - 8:50
+CS2001,Data Structures,BAI-3A,C-21 Academic Block II (50),Sania Urooj,friday,8:55 - 9:45
+CS3005,Theory of Automata,BCS-3G,C-21 Academic Block II (50),Bakhtawar Abbasi,friday,9:50 - 10:40
+CS3005,Theory of Automata,BCS-3C,C-21 Academic Block II (50),Kashan Hussain ,friday,10:45 - 11:35
+MT1004,Linear Algebra,BCS-3K,C-21 Academic Block II (50),Abdul Basit (VF),friday,2:25 - 3:15
+,Psych,BCS-3C,D-22 Academic Block II (50),Aqsa Fayyaz,friday,8:00 - 8:50
+MT1004,Linear Algebra,BSE-3B,D-22 Academic Block II (50),Nadeem Khan,friday,8:55 - 9:45
+,Discrete,BCS-3H,D-22 Academic Block II (50),Dr. Ghufran Ahmed,friday,9:50 - 10:40
+MT1004,Linear Algebra,BCS-3D,D-22 Academic Block II (50),Urooj,friday,10:45 - 11:35
+CS3005,Theory of Automata,BCS-3K,D-22 Academic Block II (50),Shahar Bano ,friday,11:40 - 12:30
+MT1004,Linear Algebra,BCS-3B,D-22 Academic Block II (50),Urooj,friday,12:35 - 1:25
+MT1004,Linear Algebra,BAI-3A,D-22 Academic Block II (50),Uzma Saleh,friday,2:25 - 3:15
+,Psych,BCS-3D,D-23 Academic Block II (50),Faiza Iqbal,friday,8:00 - 8:50
+EE2003,Computer Organization and Assembly Language,BCY-3A,D-23 Academic Block II (50),Waseem Rauf,friday,8:55 - 9:45
+CS3005,Theory of Automata,BCS-3J,D-23 Academic Block II (50),Muhammad Kashif,friday,9:50 - 10:40
+MT1004,Linear Algebra,BCS-3E,D-23 Academic Block II (50),Uzma Saleh,friday,10:45 - 11:35
+AF1001,Fundamentals of Accounting,BSE,D-23 Academic Block II (50),Jahangir,friday,11:40 - 12:30
+,Intro.,to,D-23 Academic Block II (50),Rubab Manzar,friday,12:35 - 1:25
+MT1004,Linear Algebra,SE-3A,D-23 Academic Block II (50),Nadeem Khan,friday,2:25 - 3:15
+MT1004,Linear Algebra,BCS-3K,D-23 Academic Block II (50),Abdul Basit (VF),friday,3:20 - 4:10
+,Socio,BCS-3B,D-24 Academic Block II (50),Kauser Malik,friday,8:00 - 8:50
+MT1004,Linear Algebra,BDS-3A,D-24 Academic Block II (50),Nadeem Khan,friday,8:55 - 9:45
+,Discrete,BSE-3A,D-24 Academic Block II (50),Hira Tunio,friday,9:50 - 10:40
+MT1004,Linear Algebra,BCY-3A,D-24 Academic Block II (50),Dr. Fahad Riaz,friday,10:45 - 11:35
+MG1001,Fundamentals of Management,BSE,D-24 Academic Block II (50),Aleena Fayyaz,friday,11:40 - 12:30
+EE2003,Computer Organization and Assembly Language,BSE-3B,D-24 Academic Block II (50),Dr. Shakil,friday,12:35 - 1:25
+EE2003,Computer Organization and Assembly Language,BDS-3B,D-24 Academic Block II (50),Dr. Muhammad Adeel,friday,2:25 - 3:15
+AI3001,Principles of Artificial Intelligence,BAI-3A,D-24 Academic Block II (50),Talha Shahid,friday,3:20 - 4:10
+CS2001,Data Structures,BDS-3B,D-25 Academic Block II (50),Farooq Zaidi,friday,8:00 - 8:50
+,Intro,to,D-25 Academic Block II (50),Mahrukh Khan,friday,8:55 - 9:45
+CS2001,Data Structures,BSE-3B,D-25 Academic Block II (50), Dr. Anam Qureshi,friday,9:50 - 10:40
+CS1002,Programming Fundamentals,BCS-1A,D-25 Academic Block II (50),Sobia Iftikhar,friday,10:45 - 11:35
+MG1006,Principles of Economics,BSE,D-25 Academic Block II (50),Umer Farooq,friday,11:40 - 12:30
+SS1012,Functional English,BAI-1A,D-25 Academic Block II (50),Nazia Imam,friday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BCS-1D,D-25 Academic Block II (50),Muhammad Adeel,friday,3:20 - 4:10
+NS1001,Applied Physics,BCS-1A,D-26 Academic Block II (50),Muhammad Rahim,friday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BCS-1A,D-26 Academic Block II (50),Aneesa Nawaz,friday,8:55 - 9:45
+NS1001,Applied Physics,BCS-1C,D-26 Academic Block II (50),Muhammad Rahim,friday,9:50 - 10:40
+MT1003,Calculus and Analytical Geometry,BCS-1C,D-26 Academic Block II (50),Aneesa Nawaz,friday,10:45 - 11:35
+MT1003,Calculus and Analytical Geometry,BCS-1K,D-26 Academic Block II (50),Asma Masood,friday,11:40 - 12:30
+HU127,Ideology and Constitution of Pakistan,BCS-1C,D-26 Academic Block II (50),Khushboo,friday,12:35 - 1:25
+MT1004,Linear Algebra,BCS-3H,D-26 Academic Block II (50),Abdul Basit (VF),friday,1:30 - 2:20
+SS1012,Functional English,BCS-1C,D-26 Academic Block II (50),Faiza Mumtaz,friday,2:25 - 3:15
+CS1002,Programming Fundamentals,BCS-1C,D-27 Academic Block II (50),Abeeha Sattar,friday,8:00 - 8:50
+CS1002,Programming Fundamentals,BCS-1F,D-27 Academic Block II (50),Saif ur Rehman,friday,8:55 - 9:45
+NS1001,Applied Physics,BCS-1F,D-27 Academic Block II (50),Ishtiaq Ahmed,friday,9:50 - 10:40
+MT1003,Calculus and Analytical Geometry,BCS-1F,D-27 Academic Block II (50),Asma Masood,friday,10:45 - 11:35
+CS1002,Programming Fundamentals,BCS-1D,D-27 Academic Block II (50),Hajra Ahmed,friday,11:40 - 12:30
+NS1001,Applied Physics,BCS-1D,D-27 Academic Block II (50),Ishtiaq Ahmed,friday,12:35 - 1:25
+MT1003,Calculus and Analytical Geometry,BCS-1D,D-27 Academic Block II (50),Shahid Ashraf,friday,1:30 - 2:20
+NS1001,Applied Physics,BSE-1A,D-27 Academic Block II (50),Miqdad Khan,friday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BCS-1E,D-28 Academic Block II (50),Dr. Hassan Saeed,friday,8:00 - 8:50
+CS1002,Programming Fundamentals,BCS-1E,D-28 Academic Block II (50),Javeria Farooq,friday,8:55 - 9:45
+MT1003,Calculus and Analytical Geometry,BCS-1E,D-28 Academic Block II (50),Shahid Ashraf,friday,9:50 - 10:40
+NS1001,Applied Physics,BCS-1E,D-28 Academic Block II (50),Muhammad Rahim,friday,11:40 - 12:30
+SS1012,Functional English,BCS-1E,D-28 Academic Block II (50),Javeriya Ahmed,friday,12:35 - 1:25
+MT1003,Calculus and Analytical Geometry,BCS-1J,D-28 Academic Block II (50),Asma Masood,friday,1:30 - 2:20
+NS1001,Applied Physics,BCS-1J,D-28 Academic Block II (50),Rameez,friday,2:25 - 3:15
+NS1001,Applied Physics,BCS-1K,D-28 Academic Block II (50),Rameez,friday,3:20 - 4:10
+CS1002,Programming Fundamentals,BCS-1G,E-29Academic Block II (52),Saif ur Rehman,friday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BCS-1G,E-29Academic Block II (52),Syed Ashad Ali,friday,8:55 - 9:45
+NS1001,Applied Physics,BCS-1G,E-29Academic Block II (52),Muhammad Rahim,friday,10:45 - 11:35
+HU127,Ideology and Constitution of Pakistan,BCS-1G,E-29Academic Block II (52),Khushboo,friday,11:40 - 12:30
+SS1007,Islamic Studies/Ethics,BCS-1F,E-29Academic Block II (52),Farhan Ali Memon,friday,12:35 - 1:25
+HU127,Ideology and Constitution of Pakistan,BCS-1F,E-29Academic Block II (52),Muhammad Adeel,friday,1:30 - 2:20
+SS1012,Functional English,BCS-1F,E-29Academic Block II (52),Qurat ul Ain,friday,2:25 - 3:15
+MT1003,Calculus and Analytical Geometry,BCS-1H,E-30 Academic Block II (52),Asma Masood,friday,8:00 - 8:50
+CS1002,Programming Fundamentals,BCS-1H,E-30 Academic Block II (52),Syed Ahmed Khan,friday,8:55 - 9:45
+NS1001,Applied Physics,BCS-1H,E-30 Academic Block II (52),Ishtiaq Ahmed,friday,10:45 - 11:35
+SS1007,Islamic Studies/Ethics,BCS-1H,E-30 Academic Block II (52),Farhan Ali Memon,friday,11:40 - 12:30
+HU127,Ideology and Constitution of Pakistan,BCS-1H,E-30 Academic Block II (52),Muhammad Adeel,friday,12:35 - 1:25
+SS1012,Functional English,BCS-1H,E-30 Academic Block II (52),Javeria Ali Wadho,friday,2:25 - 3:15
+MT1003,Calculus and Analytical Geometry,BAI-1B,E-31 Academic Block II (52),Alishba Tariq,friday,8:00 - 8:50
+CS1002,Programming Fundamentals,BCS-1J,E-31 Academic Block II (52),Syed Faisal Ali,friday,8:55 - 9:45
+SS1012,Functional English,BCS-1J,E-31 Academic Block II (52),Qurat ul Ain,friday,9:50 - 10:40
+SS1012,Functional English,BAI-1B,E-31 Academic Block II (52),Nazia Imam,friday,12:35 - 1:25
+SS1012,Functional English,BCY-1A,E-31 Academic Block II (52),Mariam Aftab,friday,2:25 - 3:15
+HU127,Ideology and Constitution of Pakistan,BAI-1A,E-32 Academic Block II (52),Ibrahim Farooqi (VF),friday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BAI-1A,E-32 Academic Block II (52),Alishba Tariq,friday,8:55 - 9:45
+HU127,Ideology and Constitution of Pakistan,BAI-1B,E-32 Academic Block II (52),Ibrahim Farooqi (VF),friday,9:50 - 10:40
+CS1002,Programming Fundamentals,BAI-1B,E-32 Academic Block II (52),Syed Faisal Ali,friday,10:45 - 11:35
+HU127,Ideology and Constitution of Pakistan,BAI-1C,E-32 Academic Block II (52),Ibrahim Farooqi (VF),friday,11:40 - 12:30
+MT1003,Calculus and Analytical Geometry,BAI-1C,E-32 Academic Block II (52),Alishba Tariq,friday,12:35 - 1:25
+NS1001,Applied Physics,BCY-1B,E-32 Academic Block II (52),Javed Qureshi,friday,2:25 - 3:15
+SS1007,Islamic Studies/Ethics,BCY-1A,E-33 Academic Block II (52), Imad Uddin,friday,8:00 - 8:50
+MT1003,Calculus and Analytical Geometry,BCY-1A,E-33 Academic Block II (52),Jamil Usmani,friday,8:55 - 9:45
+NS1001,Applied Physics,BCY-1A,E-33 Academic Block II (52),Javed Qureshi ,friday,10:45 - 11:35
+MT1003,Calculus and Analytical Geometry,BSE-1A,E-33 Academic Block II (52),Syed Ashad Ali,friday,11:40 - 12:30
+SS1012,Functional English,BSE-1A,E-33 Academic Block II (52),Wajiha Akber ,friday,12:35 - 1:25
+SS1012,Functional English,BSE-1B,E-33 Academic Block II (52),Wajiha Akber ,friday,1:30 - 2:20
+SS1012,Functional English,BDS-1A,E-33 Academic Block II (52),Wajiha Akber,friday,3:20 - 4:10
+MT1003,Calculus and Analytical Geometry,BCY-1B,E-34 Academic Block II (52),Aneesa Nawaz,friday,8:00 - 8:50
+SS1012,Functional English,BCY-1B,E-34 Academic Block II (52),Mariam Aftab ,friday,8:55 - 9:45
+SS1007,Islamic Studies/Ethics,BCY-1B,E-34 Academic Block II (52), Imad Uddin,friday,10:45 - 11:35
+MT1003,Calculus and Analytical Geometry,BSE-1B,E-34 Academic Block II (52), Rabia Sagheer,friday,11:40 - 12:30
+NS1001,Applied Physics,BSE-1B,E-34 Academic Block II (52),Miqdad Khan,friday,12:35 - 1:25
+CS1002,Programming Fundamentals,BDS-1A,E-34 Academic Block II (52),Talha Shahid,friday,1:30 - 2:20
+HU127,Ideology and Constitution of Pakistan,BDS-1A,E-35 Academic Block II (52),Aliya Zahid Bhatti (VF),friday,8:00 - 8:50
+HU127,Ideology and Constitution of Pakistan,BDS-1A,E-35 Academic Block II (52),Aliya Zahid Bhatti (VF),friday,8:55 - 9:45
+NS1001,Applied Physics,BDS-1A,E-35 Academic Block II (52),Miqdad Khan ,friday,10:45 - 11:35
+CS1002,Programming Fundamentals,BCY-1A,E-35 Academic Block II (52),Abuzar Zafar,friday,12:35 - 1:25
+,Eng-1 - Lab,BSFT -1B,C-20 Academic Block II (50), Faiza Mumtaz,friday,10:45 - 1:25
+,IT,in,Academic Block I LAB-3 (47), Absar Khalid ,friday,8:00 - 8:50
+EL2003,Computer Organization and Assembly Language - Lab,BDS-3B,Academic Block I LAB-3 (47),Muhammad Qasim Keeryo,friday,10:45 - 1:25
+,IT,in,Academic Block I LAB-4 (48), Danish Abbasi,friday,8:00 - 8:50
+,Principles of Artificial Intelligence - Lab,BAI-3A,Academic Block I LAB-4 (48),Muhammad Khalid,friday,10:45 - 1:25
+,DS&BA - Lab,BSFBA-5A,Academic Block III LAB-5 (55),Muhammad Qasim Keeryo,friday,8:00 - 10:40
+EL2003,Computer Organization and Assembly Language - Lab,BDS-3A,Academic Block III LAB-5 (55),Jahanzaib,friday,10:45 - 1:25
+CL2001,Data Structures - Lab,BCS-3K,Academic Block II DS LAB-6 (55),Muhammad Owais,friday,8:00 - 10:40
+CL2001,Data Structures - Lab,BCS-3F,Academic Block II DS LAB-6 (55),Junaid Aslam,friday,10:45 - 1:25
+,Introduction to Information and Communication Technology - Lab,BSE-1A,Academic Block II LAB-7 (47),Fatima Gado,friday,8:00 - 10:40
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3G,Academic Block II LAB-7 (47), Waseem Rauf,friday,10:45 - 1:25
+CL2001,Data Structures - Lab,BCY-3A,Academic Block II LAB-7 (47),Sheeraz Iqbal,friday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BSE-1B,Academic Block II CY LAB-8 (47),Izzah Salman ,friday,8:00 - 10:40
+EL2003,Computer Organization and Assembly Language - Lab,BCS-3A,Academic Block II CY LAB-8 (47),Ghulam Qadir ,friday,10:45 - 1:25
+CL2001,Data Structures - Lab,BCS-3J,Academic Block II CY LAB-8 (47), Fareeha Jabeen,friday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BCS-1B,Academic Block II LAB-10 (47),Seema Hashwani ,friday,8:00 - 10:40
+CL1002,Programming Fundamentals - Lab,BAI-1A,Academic Block II LAB-10 (47),Ramsha Jatt,friday,10:45 - 1:25
+CL1002,Programming Fundamentals - Lab,BCS-1G,Academic Block II LAB-10 (47),Izzah Salman,friday,1:30 - 4:10
+,Engineering,Drawing,Academic Block II LAB-11 (47),Engr. Maryam,friday,10:45 - 11:35
+CL1002,Programming Fundamentals - Lab,BSEE -3AB,Academic Block II LAB-11 (47),TBA,friday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BCS-1K,Academic Block II Lab-12 (47),Sheeraz Iqbal,friday,8:00 - 10:40
+,DSA - Lab,BSEE -3AB,Academic Block II Lab-12 (47),Engr. Rukhsar Ali,friday,1:30 - 4:10
+CL1002,Programming Fundamentals - Lab,BAI-1C,Academic Block II Lab-13 (47),Huzaifa Jawad (VF),friday,8:00 - 10:40
+,Introduction to Information and Communication Technology - Lab,BCS-1D,Academic Block II Lab-14 (47),Syeda Tehreem Gillani,friday,8:00 - 10:40
+,Applied,Physics,Academic Block II Physics Lab,Engr. Maryam,friday,8:00 - 8:50
